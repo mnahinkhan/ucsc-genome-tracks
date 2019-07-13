@@ -4,7 +4,7 @@ shortLabel LIN28A_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track PUM2_experimental
 bigDataUrl PUM2_experimental.bigBed
@@ -12,7 +12,7 @@ shortLabel PUM2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track TARDBP_experimental
 bigDataUrl TARDBP_experimental.bigBed
@@ -20,7 +20,7 @@ shortLabel TARDBP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track ELAVL1_experimental
 bigDataUrl ELAVL1_experimental.bigBed
@@ -28,7 +28,7 @@ shortLabel ELAVL1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track AUF1-UNFILTERED_experimental
 bigDataUrl AUF1-UNFILTERED_experimental.bigBed
@@ -36,7 +36,7 @@ shortLabel AUF1-UNFILTERED_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility dense
-itemRgb on
+itemRgb "on"
 
 track FIP1L1_experimental
 bigDataUrl FIP1L1_experimental.bigBed
@@ -44,7 +44,7 @@ shortLabel FIP1L1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SRSF9_experimental
 bigDataUrl SRSF9_experimental.bigBed
@@ -52,7 +52,7 @@ shortLabel SRSF9_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CPSF6_experimental
 bigDataUrl CPSF6_experimental.bigBed
@@ -60,7 +60,7 @@ shortLabel CPSF6_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DKC1_experimental
 bigDataUrl DKC1_experimental.bigBed
@@ -68,7 +68,7 @@ shortLabel DKC1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DDX6_experimental
 bigDataUrl DDX6_experimental.bigBed
@@ -76,7 +76,7 @@ shortLabel DDX6_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DHX30_experimental
 bigDataUrl DHX30_experimental.bigBed
@@ -84,7 +84,7 @@ shortLabel DHX30_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track NUDT21_experimental
 bigDataUrl NUDT21_experimental.bigBed
@@ -92,7 +92,7 @@ shortLabel NUDT21_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track UPF1_experimental
 bigDataUrl UPF1_experimental.bigBed
@@ -100,7 +100,7 @@ shortLabel UPF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RPS5_experimental
 bigDataUrl RPS5_experimental.bigBed
@@ -108,7 +108,7 @@ shortLabel RPS5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track ATXN2_experimental
 bigDataUrl ATXN2_experimental.bigBed
@@ -116,7 +116,7 @@ shortLabel ATXN2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track PCBP2_experimental
 bigDataUrl PCBP2_experimental.bigBed
@@ -124,7 +124,7 @@ shortLabel PCBP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPU_experimental
 bigDataUrl HNRNPU_experimental.bigBed
@@ -132,7 +132,7 @@ shortLabel HNRNPU_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility dense
-itemRgb on
+itemRgb "on"
 
 track UCHL5_experimental
 bigDataUrl UCHL5_experimental.bigBed
@@ -140,7 +140,7 @@ shortLabel UCHL5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track LARP4_experimental
 bigDataUrl LARP4_experimental.bigBed
@@ -148,7 +148,7 @@ shortLabel LARP4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FMR1_experimental
 bigDataUrl FMR1_experimental.bigBed
@@ -156,7 +156,7 @@ shortLabel FMR1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track ZRANB2_experimental
 bigDataUrl ZRANB2_experimental.bigBed
@@ -164,7 +164,7 @@ shortLabel ZRANB2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track KHSRP_experimental
 bigDataUrl KHSRP_experimental.bigBed
@@ -172,7 +172,7 @@ shortLabel KHSRP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track GTF2F1_experimental
 bigDataUrl GTF2F1_experimental.bigBed
@@ -180,7 +180,7 @@ shortLabel GTF2F1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track NOP58_experimental
 bigDataUrl NOP58_experimental.bigBed
@@ -188,7 +188,7 @@ shortLabel NOP58_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track WDR33_experimental
 bigDataUrl WDR33_experimental.bigBed
@@ -196,7 +196,7 @@ shortLabel WDR33_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CPSF1_experimental
 bigDataUrl CPSF1_experimental.bigBed
@@ -204,7 +204,7 @@ shortLabel CPSF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track EIF3G_experimental
 bigDataUrl EIF3G_experimental.bigBed
@@ -212,7 +212,7 @@ shortLabel EIF3G_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track XRCC6_experimental
 bigDataUrl XRCC6_experimental.bigBed
@@ -220,7 +220,7 @@ shortLabel XRCC6_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track WTAP_experimental
 bigDataUrl WTAP_experimental.bigBed
@@ -228,7 +228,7 @@ shortLabel WTAP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track BCCIP_experimental
 bigDataUrl BCCIP_experimental.bigBed
@@ -236,7 +236,7 @@ shortLabel BCCIP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track QKI_experimental
 bigDataUrl QKI_experimental.bigBed
@@ -244,7 +244,7 @@ shortLabel QKI_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track METAP2_experimental
 bigDataUrl METAP2_experimental.bigBed
@@ -252,7 +252,7 @@ shortLabel METAP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track AGGF1_experimental
 bigDataUrl AGGF1_experimental.bigBed
@@ -260,7 +260,7 @@ shortLabel AGGF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track XRN2_experimental
 bigDataUrl XRN2_experimental.bigBed
@@ -268,7 +268,7 @@ shortLabel XRN2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track GNL3_experimental
 bigDataUrl GNL3_experimental.bigBed
@@ -276,7 +276,7 @@ shortLabel GNL3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DGCR8_experimental
 bigDataUrl DGCR8_experimental.bigBed
@@ -284,7 +284,7 @@ shortLabel DGCR8_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track PTBP1_experimental
 bigDataUrl PTBP1_experimental.bigBed
@@ -292,7 +292,7 @@ shortLabel PTBP1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track TBRG4_experimental
 bigDataUrl TBRG4_experimental.bigBed
@@ -300,7 +300,7 @@ shortLabel TBRG4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track EIF4G2_experimental
 bigDataUrl EIF4G2_experimental.bigBed
@@ -308,7 +308,7 @@ shortLabel EIF4G2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track PPIL4_experimental
 bigDataUrl PPIL4_experimental.bigBed
@@ -316,7 +316,7 @@ shortLabel PPIL4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FBL_experimental
 bigDataUrl FBL_experimental.bigBed
@@ -324,7 +324,7 @@ shortLabel FBL_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track IGF2BP1_experimental
 bigDataUrl IGF2BP1_experimental.bigBed
@@ -332,7 +332,7 @@ shortLabel IGF2BP1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM15_experimental
 bigDataUrl RBM15_experimental.bigBed
@@ -340,7 +340,7 @@ shortLabel RBM15_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track MOV10_experimental
 bigDataUrl MOV10_experimental.bigBed
@@ -348,7 +348,7 @@ shortLabel MOV10_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPC_experimental
 bigDataUrl HNRNPC_experimental.bigBed
@@ -356,7 +356,7 @@ shortLabel HNRNPC_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility dense
-itemRgb on
+itemRgb "on"
 
 track METTL14_experimental
 bigDataUrl METTL14_experimental.bigBed
@@ -364,7 +364,7 @@ shortLabel METTL14_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track AUF1_experimental
 bigDataUrl AUF1_experimental.bigBed
@@ -372,7 +372,7 @@ shortLabel AUF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBFOX2_experimental
 bigDataUrl RBFOX2_experimental.bigBed
@@ -380,7 +380,7 @@ shortLabel RBFOX2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track TARBP2_experimental
 bigDataUrl TARBP2_experimental.bigBed
@@ -388,7 +388,7 @@ shortLabel TARBP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SMNDC1_experimental
 bigDataUrl SMNDC1_experimental.bigBed
@@ -396,7 +396,7 @@ shortLabel SMNDC1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPH1_experimental
 bigDataUrl HNRNPH1_experimental.bigBed
@@ -404,7 +404,7 @@ shortLabel HNRNPH1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SFPQ_experimental
 bigDataUrl SFPQ_experimental.bigBed
@@ -412,7 +412,7 @@ shortLabel SFPQ_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track U2AF1_experimental
 bigDataUrl U2AF1_experimental.bigBed
@@ -420,7 +420,7 @@ shortLabel U2AF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track MTPAP_experimental
 bigDataUrl MTPAP_experimental.bigBed
@@ -428,7 +428,7 @@ shortLabel MTPAP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPD_experimental
 bigDataUrl HNRNPD_experimental.bigBed
@@ -436,7 +436,7 @@ shortLabel HNRNPD_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM27_experimental
 bigDataUrl RBM27_experimental.bigBed
@@ -444,7 +444,7 @@ shortLabel RBM27_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track YTHDC1_experimental
 bigDataUrl YTHDC1_experimental.bigBed
@@ -452,7 +452,7 @@ shortLabel YTHDC1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CPSF7_experimental
 bigDataUrl CPSF7_experimental.bigBed
@@ -460,7 +460,7 @@ shortLabel CPSF7_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track PUS1_experimental
 bigDataUrl PUS1_experimental.bigBed
@@ -468,7 +468,7 @@ shortLabel PUS1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track ALKBH1_experimental
 bigDataUrl ALKBH1_experimental.bigBed
@@ -476,7 +476,7 @@ shortLabel ALKBH1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track NPM1_experimental
 bigDataUrl NPM1_experimental.bigBed
@@ -484,7 +484,7 @@ shortLabel NPM1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FAM120A_experimental
 bigDataUrl FAM120A_experimental.bigBed
@@ -492,7 +492,7 @@ shortLabel FAM120A_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPUL1_experimental
 bigDataUrl HNRNPUL1_experimental.bigBed
@@ -500,7 +500,7 @@ shortLabel HNRNPUL1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RPS11_experimental
 bigDataUrl RPS11_experimental.bigBed
@@ -508,7 +508,7 @@ shortLabel RPS11_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBPMS_experimental
 bigDataUrl RBPMS_experimental.bigBed
@@ -516,7 +516,7 @@ shortLabel RBPMS_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SF3B1_experimental
 bigDataUrl SF3B1_experimental.bigBed
@@ -524,7 +524,7 @@ shortLabel SF3B1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPA2B1_experimental
 bigDataUrl HNRNPA2B1_experimental.bigBed
@@ -532,7 +532,7 @@ shortLabel HNRNPA2B1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track YTHDF1_experimental
 bigDataUrl YTHDF1_experimental.bigBed
@@ -540,7 +540,7 @@ shortLabel YTHDF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DDX3X_experimental
 bigDataUrl DDX3X_experimental.bigBed
@@ -548,7 +548,7 @@ shortLabel DDX3X_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track PRPF8_experimental
 bigDataUrl PRPF8_experimental.bigBed
@@ -556,7 +556,7 @@ shortLabel PRPF8_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track LARP7_experimental
 bigDataUrl LARP7_experimental.bigBed
@@ -564,7 +564,7 @@ shortLabel LARP7_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track NCBP2_experimental
 bigDataUrl NCBP2_experimental.bigBed
@@ -572,7 +572,7 @@ shortLabel NCBP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track GEMIN5_experimental
 bigDataUrl GEMIN5_experimental.bigBed
@@ -580,7 +580,7 @@ shortLabel GEMIN5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SF3B4_experimental
 bigDataUrl SF3B4_experimental.bigBed
@@ -588,7 +588,7 @@ shortLabel SF3B4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM47_experimental
 bigDataUrl RBM47_experimental.bigBed
@@ -596,7 +596,7 @@ shortLabel RBM47_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HLTF_experimental
 bigDataUrl HLTF_experimental.bigBed
@@ -604,7 +604,7 @@ shortLabel HLTF_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track NKRF_experimental
 bigDataUrl NKRF_experimental.bigBed
@@ -612,7 +612,7 @@ shortLabel NKRF_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPM_experimental
 bigDataUrl HNRNPM_experimental.bigBed
@@ -620,7 +620,7 @@ shortLabel HNRNPM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CDC40_experimental
 bigDataUrl CDC40_experimental.bigBed
@@ -628,7 +628,7 @@ shortLabel CDC40_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track EIF3D_experimental
 bigDataUrl EIF3D_experimental.bigBed
@@ -636,7 +636,7 @@ shortLabel EIF3D_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track IGF2BP3_experimental
 bigDataUrl IGF2BP3_experimental.bigBed
@@ -644,7 +644,7 @@ shortLabel IGF2BP3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track EIF3H_experimental
 bigDataUrl EIF3H_experimental.bigBed
@@ -652,7 +652,7 @@ shortLabel EIF3H_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SRSF1_experimental
 bigDataUrl SRSF1_experimental.bigBed
@@ -660,7 +660,7 @@ shortLabel SRSF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM22_experimental
 bigDataUrl RBM22_experimental.bigBed
@@ -668,7 +668,7 @@ shortLabel RBM22_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track KHDRBS1_experimental
 bigDataUrl KHDRBS1_experimental.bigBed
@@ -676,7 +676,7 @@ shortLabel KHDRBS1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CPSF2_experimental
 bigDataUrl CPSF2_experimental.bigBed
@@ -684,7 +684,7 @@ shortLabel CPSF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DDX42_experimental
 bigDataUrl DDX42_experimental.bigBed
@@ -692,7 +692,7 @@ shortLabel DDX42_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track YWHAG_experimental
 bigDataUrl YWHAG_experimental.bigBed
@@ -700,7 +700,7 @@ shortLabel YWHAG_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM10_experimental
 bigDataUrl RBM10_experimental.bigBed
@@ -708,7 +708,7 @@ shortLabel RBM10_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track TIA1_experimental
 bigDataUrl TIA1_experimental.bigBed
@@ -716,7 +716,7 @@ shortLabel TIA1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FTO_experimental
 bigDataUrl FTO_experimental.bigBed
@@ -724,7 +724,7 @@ shortLabel FTO_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM15B_experimental
 bigDataUrl RBM15B_experimental.bigBed
@@ -732,7 +732,7 @@ shortLabel RBM15B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track LIN28B_experimental
 bigDataUrl LIN28B_experimental.bigBed
@@ -740,7 +740,7 @@ shortLabel LIN28B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track ZNF622_experimental
 bigDataUrl ZNF622_experimental.bigBed
@@ -748,7 +748,7 @@ shortLabel ZNF622_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPF_experimental
 bigDataUrl HNRNPF_experimental.bigBed
@@ -756,7 +756,7 @@ shortLabel HNRNPF_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility dense
-itemRgb on
+itemRgb "on"
 
 track CNBP_experimental
 bigDataUrl CNBP_experimental.bigBed
@@ -764,7 +764,7 @@ shortLabel CNBP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track MBNL2_experimental
 bigDataUrl MBNL2_experimental.bigBed
@@ -772,7 +772,7 @@ shortLabel MBNL2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SLTM_experimental
 bigDataUrl SLTM_experimental.bigBed
@@ -780,7 +780,7 @@ shortLabel SLTM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track NONO_experimental
 bigDataUrl NONO_experimental.bigBed
@@ -788,7 +788,7 @@ shortLabel NONO_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPK-CUSTOM_experimental
 bigDataUrl HNRNPK-CUSTOM_experimental.bigBed
@@ -796,7 +796,7 @@ shortLabel HNRNPK-CUSTOM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track YTHDF3_experimental
 bigDataUrl YTHDF3_experimental.bigBed
@@ -804,7 +804,7 @@ shortLabel YTHDF3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track STAU1_experimental
 bigDataUrl STAU1_experimental.bigBed
@@ -812,7 +812,7 @@ shortLabel STAU1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CAPRIN1_experimental
 bigDataUrl CAPRIN1_experimental.bigBed
@@ -820,7 +820,7 @@ shortLabel CAPRIN1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track METTL3_experimental
 bigDataUrl METTL3_experimental.bigBed
@@ -828,7 +828,7 @@ shortLabel METTL3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track AKAP8L_experimental
 bigDataUrl AKAP8L_experimental.bigBed
@@ -836,7 +836,7 @@ shortLabel AKAP8L_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPA1_experimental
 bigDataUrl HNRNPA1_experimental.bigBed
@@ -844,7 +844,7 @@ shortLabel HNRNPA1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SLBP_experimental
 bigDataUrl SLBP_experimental.bigBed
@@ -852,7 +852,7 @@ shortLabel SLBP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SAFB2_experimental
 bigDataUrl SAFB2_experimental.bigBed
@@ -860,7 +860,7 @@ shortLabel SAFB2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track EIF3B_experimental
 bigDataUrl EIF3B_experimental.bigBed
@@ -868,7 +868,7 @@ shortLabel EIF3B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SRSF7_experimental
 bigDataUrl SRSF7_experimental.bigBed
@@ -876,7 +876,7 @@ shortLabel SRSF7_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track YTHDC2_experimental
 bigDataUrl YTHDC2_experimental.bigBed
@@ -884,7 +884,7 @@ shortLabel YTHDC2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track SERBP1_experimental
 bigDataUrl SERBP1_experimental.bigBed
@@ -892,7 +892,7 @@ shortLabel SERBP1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CPSF4_experimental
 bigDataUrl CPSF4_experimental.bigBed
@@ -900,7 +900,7 @@ shortLabel CPSF4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track U2AF2_experimental
 bigDataUrl U2AF2_experimental.bigBed
@@ -908,7 +908,7 @@ shortLabel U2AF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track HNRNPK_experimental
 bigDataUrl HNRNPK_experimental.bigBed
@@ -916,7 +916,7 @@ shortLabel HNRNPK_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility dense
-itemRgb on
+itemRgb "on"
 
 track EIF4A3_experimental
 bigDataUrl EIF4A3_experimental.bigBed
@@ -924,7 +924,7 @@ shortLabel EIF4A3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FUBP3_experimental
 bigDataUrl FUBP3_experimental.bigBed
@@ -932,7 +932,7 @@ shortLabel FUBP3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track DROSHA_experimental
 bigDataUrl DROSHA_experimental.bigBed
@@ -940,7 +940,7 @@ shortLabel DROSHA_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track YTHDF2_experimental
 bigDataUrl YTHDF2_experimental.bigBed
@@ -948,7 +948,7 @@ shortLabel YTHDF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track LSM11_experimental
 bigDataUrl LSM11_experimental.bigBed
@@ -956,7 +956,7 @@ shortLabel LSM11_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FUS_experimental
 bigDataUrl FUS_experimental.bigBed
@@ -964,7 +964,7 @@ shortLabel FUS_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RBM5_experimental
 bigDataUrl RBM5_experimental.bigBed
@@ -972,7 +972,7 @@ shortLabel RBM5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track AARS_experimental
 bigDataUrl AARS_experimental.bigBed
@@ -980,7 +980,7 @@ shortLabel AARS_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track ZC3H7B_experimental
 bigDataUrl ZC3H7B_experimental.bigBed
@@ -988,7 +988,7 @@ shortLabel ZC3H7B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track TRA2A_experimental
 bigDataUrl TRA2A_experimental.bigBed
@@ -996,7 +996,7 @@ shortLabel TRA2A_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track TAF15_experimental
 bigDataUrl TAF15_experimental.bigBed
@@ -1004,7 +1004,7 @@ shortLabel TAF15_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track CELF2_experimental
 bigDataUrl CELF2_experimental.bigBed
@@ -1012,7 +1012,7 @@ shortLabel CELF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track FASTKD2_experimental
 bigDataUrl FASTKD2_experimental.bigBed
@@ -1020,7 +1020,7 @@ shortLabel FASTKD2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 visibility hide
-itemRgb on
+itemRgb "on"
 
 track RTCB_experimental
 bigDataUrl RTCB_experimental.bigBed
@@ -2876,7 +2876,7 @@ shortLabel HNRNPC_comp
 longLabel HNRNPC binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPC binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
 type bigBed
 visibility dense
-itemRgb on
+itemRgb "on"
 
 track CPEB2_computational
 bigDataUrl CPEB2_computational.bigBed

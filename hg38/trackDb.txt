@@ -2,1031 +2,1031 @@ track LIN28A_experimental
 bigDataUrl LIN28A_experimental.bigBed
 shortLabel LIN28A_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track PUM2_experimental
 bigDataUrl PUM2_experimental.bigBed
 shortLabel PUM2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track TARDBP_experimental
 bigDataUrl TARDBP_experimental.bigBed
 shortLabel TARDBP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track ELAVL1_experimental
 bigDataUrl ELAVL1_experimental.bigBed
 shortLabel ELAVL1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track AUF1-UNFILTERED_experimental
 bigDataUrl AUF1-UNFILTERED_experimental.bigBed
 shortLabel AUF1-UNFILTERED_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility dense
-itemRgb "on"
+itemRgb on
 
 track FIP1L1_experimental
 bigDataUrl FIP1L1_experimental.bigBed
 shortLabel FIP1L1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SRSF9_experimental
 bigDataUrl SRSF9_experimental.bigBed
 shortLabel SRSF9_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CPSF6_experimental
 bigDataUrl CPSF6_experimental.bigBed
 shortLabel CPSF6_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DKC1_experimental
 bigDataUrl DKC1_experimental.bigBed
 shortLabel DKC1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DDX6_experimental
 bigDataUrl DDX6_experimental.bigBed
 shortLabel DDX6_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DHX30_experimental
 bigDataUrl DHX30_experimental.bigBed
 shortLabel DHX30_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track NUDT21_experimental
 bigDataUrl NUDT21_experimental.bigBed
 shortLabel NUDT21_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track UPF1_experimental
 bigDataUrl UPF1_experimental.bigBed
 shortLabel UPF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RPS5_experimental
 bigDataUrl RPS5_experimental.bigBed
 shortLabel RPS5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track ATXN2_experimental
 bigDataUrl ATXN2_experimental.bigBed
 shortLabel ATXN2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track PCBP2_experimental
 bigDataUrl PCBP2_experimental.bigBed
 shortLabel PCBP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPU_experimental
 bigDataUrl HNRNPU_experimental.bigBed
 shortLabel HNRNPU_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility dense
-itemRgb "on"
+itemRgb on
 
 track UCHL5_experimental
 bigDataUrl UCHL5_experimental.bigBed
 shortLabel UCHL5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track LARP4_experimental
 bigDataUrl LARP4_experimental.bigBed
 shortLabel LARP4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FMR1_experimental
 bigDataUrl FMR1_experimental.bigBed
 shortLabel FMR1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track ZRANB2_experimental
 bigDataUrl ZRANB2_experimental.bigBed
 shortLabel ZRANB2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track KHSRP_experimental
 bigDataUrl KHSRP_experimental.bigBed
 shortLabel KHSRP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track GTF2F1_experimental
 bigDataUrl GTF2F1_experimental.bigBed
 shortLabel GTF2F1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track NOP58_experimental
 bigDataUrl NOP58_experimental.bigBed
 shortLabel NOP58_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track WDR33_experimental
 bigDataUrl WDR33_experimental.bigBed
 shortLabel WDR33_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CPSF1_experimental
 bigDataUrl CPSF1_experimental.bigBed
 shortLabel CPSF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track EIF3G_experimental
 bigDataUrl EIF3G_experimental.bigBed
 shortLabel EIF3G_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track XRCC6_experimental
 bigDataUrl XRCC6_experimental.bigBed
 shortLabel XRCC6_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track WTAP_experimental
 bigDataUrl WTAP_experimental.bigBed
 shortLabel WTAP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track BCCIP_experimental
 bigDataUrl BCCIP_experimental.bigBed
 shortLabel BCCIP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track QKI_experimental
 bigDataUrl QKI_experimental.bigBed
 shortLabel QKI_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track METAP2_experimental
 bigDataUrl METAP2_experimental.bigBed
 shortLabel METAP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track AGGF1_experimental
 bigDataUrl AGGF1_experimental.bigBed
 shortLabel AGGF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track XRN2_experimental
 bigDataUrl XRN2_experimental.bigBed
 shortLabel XRN2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track GNL3_experimental
 bigDataUrl GNL3_experimental.bigBed
 shortLabel GNL3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DGCR8_experimental
 bigDataUrl DGCR8_experimental.bigBed
 shortLabel DGCR8_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track PTBP1_experimental
 bigDataUrl PTBP1_experimental.bigBed
 shortLabel PTBP1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track TBRG4_experimental
 bigDataUrl TBRG4_experimental.bigBed
 shortLabel TBRG4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track EIF4G2_experimental
 bigDataUrl EIF4G2_experimental.bigBed
 shortLabel EIF4G2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track PPIL4_experimental
 bigDataUrl PPIL4_experimental.bigBed
 shortLabel PPIL4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FBL_experimental
 bigDataUrl FBL_experimental.bigBed
 shortLabel FBL_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track IGF2BP1_experimental
 bigDataUrl IGF2BP1_experimental.bigBed
 shortLabel IGF2BP1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM15_experimental
 bigDataUrl RBM15_experimental.bigBed
 shortLabel RBM15_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track MOV10_experimental
 bigDataUrl MOV10_experimental.bigBed
 shortLabel MOV10_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPC_experimental
 bigDataUrl HNRNPC_experimental.bigBed
 shortLabel HNRNPC_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility dense
-itemRgb "on"
+itemRgb on
 
 track METTL14_experimental
 bigDataUrl METTL14_experimental.bigBed
 shortLabel METTL14_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track AUF1_experimental
 bigDataUrl AUF1_experimental.bigBed
 shortLabel AUF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBFOX2_experimental
 bigDataUrl RBFOX2_experimental.bigBed
 shortLabel RBFOX2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track TARBP2_experimental
 bigDataUrl TARBP2_experimental.bigBed
 shortLabel TARBP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SMNDC1_experimental
 bigDataUrl SMNDC1_experimental.bigBed
 shortLabel SMNDC1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPH1_experimental
 bigDataUrl HNRNPH1_experimental.bigBed
 shortLabel HNRNPH1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SFPQ_experimental
 bigDataUrl SFPQ_experimental.bigBed
 shortLabel SFPQ_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track U2AF1_experimental
 bigDataUrl U2AF1_experimental.bigBed
 shortLabel U2AF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track MTPAP_experimental
 bigDataUrl MTPAP_experimental.bigBed
 shortLabel MTPAP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPD_experimental
 bigDataUrl HNRNPD_experimental.bigBed
 shortLabel HNRNPD_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM27_experimental
 bigDataUrl RBM27_experimental.bigBed
 shortLabel RBM27_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track YTHDC1_experimental
 bigDataUrl YTHDC1_experimental.bigBed
 shortLabel YTHDC1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CPSF7_experimental
 bigDataUrl CPSF7_experimental.bigBed
 shortLabel CPSF7_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track PUS1_experimental
 bigDataUrl PUS1_experimental.bigBed
 shortLabel PUS1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track ALKBH1_experimental
 bigDataUrl ALKBH1_experimental.bigBed
 shortLabel ALKBH1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track NPM1_experimental
 bigDataUrl NPM1_experimental.bigBed
 shortLabel NPM1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FAM120A_experimental
 bigDataUrl FAM120A_experimental.bigBed
 shortLabel FAM120A_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPUL1_experimental
 bigDataUrl HNRNPUL1_experimental.bigBed
 shortLabel HNRNPUL1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RPS11_experimental
 bigDataUrl RPS11_experimental.bigBed
 shortLabel RPS11_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBPMS_experimental
 bigDataUrl RBPMS_experimental.bigBed
 shortLabel RBPMS_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SF3B1_experimental
 bigDataUrl SF3B1_experimental.bigBed
 shortLabel SF3B1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPA2B1_experimental
 bigDataUrl HNRNPA2B1_experimental.bigBed
 shortLabel HNRNPA2B1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track YTHDF1_experimental
 bigDataUrl YTHDF1_experimental.bigBed
 shortLabel YTHDF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DDX3X_experimental
 bigDataUrl DDX3X_experimental.bigBed
 shortLabel DDX3X_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track PRPF8_experimental
 bigDataUrl PRPF8_experimental.bigBed
 shortLabel PRPF8_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track LARP7_experimental
 bigDataUrl LARP7_experimental.bigBed
 shortLabel LARP7_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track NCBP2_experimental
 bigDataUrl NCBP2_experimental.bigBed
 shortLabel NCBP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track GEMIN5_experimental
 bigDataUrl GEMIN5_experimental.bigBed
 shortLabel GEMIN5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SF3B4_experimental
 bigDataUrl SF3B4_experimental.bigBed
 shortLabel SF3B4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM47_experimental
 bigDataUrl RBM47_experimental.bigBed
 shortLabel RBM47_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HLTF_experimental
 bigDataUrl HLTF_experimental.bigBed
 shortLabel HLTF_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track NKRF_experimental
 bigDataUrl NKRF_experimental.bigBed
 shortLabel NKRF_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPM_experimental
 bigDataUrl HNRNPM_experimental.bigBed
 shortLabel HNRNPM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CDC40_experimental
 bigDataUrl CDC40_experimental.bigBed
 shortLabel CDC40_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track EIF3D_experimental
 bigDataUrl EIF3D_experimental.bigBed
 shortLabel EIF3D_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track IGF2BP3_experimental
 bigDataUrl IGF2BP3_experimental.bigBed
 shortLabel IGF2BP3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track EIF3H_experimental
 bigDataUrl EIF3H_experimental.bigBed
 shortLabel EIF3H_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SRSF1_experimental
 bigDataUrl SRSF1_experimental.bigBed
 shortLabel SRSF1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM22_experimental
 bigDataUrl RBM22_experimental.bigBed
 shortLabel RBM22_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track KHDRBS1_experimental
 bigDataUrl KHDRBS1_experimental.bigBed
 shortLabel KHDRBS1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CPSF2_experimental
 bigDataUrl CPSF2_experimental.bigBed
 shortLabel CPSF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DDX42_experimental
 bigDataUrl DDX42_experimental.bigBed
 shortLabel DDX42_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track YWHAG_experimental
 bigDataUrl YWHAG_experimental.bigBed
 shortLabel YWHAG_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM10_experimental
 bigDataUrl RBM10_experimental.bigBed
 shortLabel RBM10_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track TIA1_experimental
 bigDataUrl TIA1_experimental.bigBed
 shortLabel TIA1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FTO_experimental
 bigDataUrl FTO_experimental.bigBed
 shortLabel FTO_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM15B_experimental
 bigDataUrl RBM15B_experimental.bigBed
 shortLabel RBM15B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track LIN28B_experimental
 bigDataUrl LIN28B_experimental.bigBed
 shortLabel LIN28B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track ZNF622_experimental
 bigDataUrl ZNF622_experimental.bigBed
 shortLabel ZNF622_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPF_experimental
 bigDataUrl HNRNPF_experimental.bigBed
 shortLabel HNRNPF_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility dense
-itemRgb "on"
+itemRgb on
 
 track CNBP_experimental
 bigDataUrl CNBP_experimental.bigBed
 shortLabel CNBP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track MBNL2_experimental
 bigDataUrl MBNL2_experimental.bigBed
 shortLabel MBNL2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SLTM_experimental
 bigDataUrl SLTM_experimental.bigBed
 shortLabel SLTM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track NONO_experimental
 bigDataUrl NONO_experimental.bigBed
 shortLabel NONO_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPK-CUSTOM_experimental
 bigDataUrl HNRNPK-CUSTOM_experimental.bigBed
 shortLabel HNRNPK-CUSTOM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track YTHDF3_experimental
 bigDataUrl YTHDF3_experimental.bigBed
 shortLabel YTHDF3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track STAU1_experimental
 bigDataUrl STAU1_experimental.bigBed
 shortLabel STAU1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CAPRIN1_experimental
 bigDataUrl CAPRIN1_experimental.bigBed
 shortLabel CAPRIN1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track METTL3_experimental
 bigDataUrl METTL3_experimental.bigBed
 shortLabel METTL3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track AKAP8L_experimental
 bigDataUrl AKAP8L_experimental.bigBed
 shortLabel AKAP8L_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPA1_experimental
 bigDataUrl HNRNPA1_experimental.bigBed
 shortLabel HNRNPA1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SLBP_experimental
 bigDataUrl SLBP_experimental.bigBed
 shortLabel SLBP_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SAFB2_experimental
 bigDataUrl SAFB2_experimental.bigBed
 shortLabel SAFB2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track EIF3B_experimental
 bigDataUrl EIF3B_experimental.bigBed
 shortLabel EIF3B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SRSF7_experimental
 bigDataUrl SRSF7_experimental.bigBed
 shortLabel SRSF7_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track YTHDC2_experimental
 bigDataUrl YTHDC2_experimental.bigBed
 shortLabel YTHDC2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track SERBP1_experimental
 bigDataUrl SERBP1_experimental.bigBed
 shortLabel SERBP1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CPSF4_experimental
 bigDataUrl CPSF4_experimental.bigBed
 shortLabel CPSF4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track U2AF2_experimental
 bigDataUrl U2AF2_experimental.bigBed
 shortLabel U2AF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track HNRNPK_experimental
 bigDataUrl HNRNPK_experimental.bigBed
 shortLabel HNRNPK_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility dense
-itemRgb "on"
+itemRgb on
 
 track EIF4A3_experimental
 bigDataUrl EIF4A3_experimental.bigBed
 shortLabel EIF4A3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FUBP3_experimental
 bigDataUrl FUBP3_experimental.bigBed
 shortLabel FUBP3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track DROSHA_experimental
 bigDataUrl DROSHA_experimental.bigBed
 shortLabel DROSHA_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track YTHDF2_experimental
 bigDataUrl YTHDF2_experimental.bigBed
 shortLabel YTHDF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track LSM11_experimental
 bigDataUrl LSM11_experimental.bigBed
 shortLabel LSM11_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FUS_experimental
 bigDataUrl FUS_experimental.bigBed
 shortLabel FUS_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RBM5_experimental
 bigDataUrl RBM5_experimental.bigBed
 shortLabel RBM5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track AARS_experimental
 bigDataUrl AARS_experimental.bigBed
 shortLabel AARS_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track ZC3H7B_experimental
 bigDataUrl ZC3H7B_experimental.bigBed
 shortLabel ZC3H7B_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track TRA2A_experimental
 bigDataUrl TRA2A_experimental.bigBed
 shortLabel TRA2A_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track TAF15_experimental
 bigDataUrl TAF15_experimental.bigBed
 shortLabel TAF15_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track CELF2_experimental
 bigDataUrl CELF2_experimental.bigBed
 shortLabel CELF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track FASTKD2_experimental
 bigDataUrl FASTKD2_experimental.bigBed
 shortLabel FASTKD2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
-itemRgb "on"
+itemRgb on
 
 track RTCB_experimental
 bigDataUrl RTCB_experimental.bigBed
 shortLabel RTCB_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1034,7 +1034,7 @@ track NCBP3_experimental
 bigDataUrl NCBP3_experimental.bigBed
 shortLabel NCBP3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1042,7 +1042,7 @@ track YBX1-CUSTOM_experimental
 bigDataUrl YBX1-CUSTOM_experimental.bigBed
 shortLabel YBX1-CUSTOM_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1050,7 +1050,7 @@ track EWSR1_experimental
 bigDataUrl EWSR1_experimental.bigBed
 shortLabel EWSR1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1058,7 +1058,7 @@ track TIAL1_experimental
 bigDataUrl TIAL1_experimental.bigBed
 shortLabel TIAL1_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1066,7 +1066,7 @@ track SRRM4_experimental
 bigDataUrl SRRM4_experimental.bigBed
 shortLabel SRRM4_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1074,7 +1074,7 @@ track NOP56_experimental
 bigDataUrl NOP56_experimental.bigBed
 shortLabel NOP56_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1082,7 +1082,7 @@ track CSTF2_experimental
 bigDataUrl CSTF2_experimental.bigBed
 shortLabel CSTF2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1090,7 +1090,7 @@ track CPSF3_experimental
 bigDataUrl CPSF3_experimental.bigBed
 shortLabel CPSF3_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1098,7 +1098,7 @@ track SSB_experimental
 bigDataUrl SSB_experimental.bigBed
 shortLabel SSB_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1106,7 +1106,7 @@ track ALKBH5_experimental
 bigDataUrl ALKBH5_experimental.bigBed
 shortLabel ALKBH5_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1114,7 +1114,7 @@ track IGF2BP2_experimental
 bigDataUrl IGF2BP2_experimental.bigBed
 shortLabel IGF2BP2_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1122,7 +1122,7 @@ track CSTF2T_experimental
 bigDataUrl CSTF2T_experimental.bigBed
 shortLabel CSTF2T_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1130,7 +1130,7 @@ track YBX2_computational
 bigDataUrl YBX2_computational.bigBed
 shortLabel YBX2_comp
 longLabel YBX2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1138,7 +1138,7 @@ track ELAVL2_computational
 bigDataUrl ELAVL2_computational.bigBed
 shortLabel ELAVL2_comp
 longLabel ELAVL2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1146,7 +1146,7 @@ track RBM25_computational
 bigDataUrl RBM25_computational.bigBed
 shortLabel RBM25_comp
 longLabel RBM25 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM25 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1154,7 +1154,7 @@ track CG5213_computational
 bigDataUrl CG5213_computational.bigBed
 shortLabel CG5213_comp
 longLabel CG5213 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG5213 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1162,7 +1162,7 @@ track SLIRP1_computational
 bigDataUrl SLIRP1_computational.bigBed
 shortLabel SLIRP1_comp
 longLabel SLIRP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SLIRP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1170,7 +1170,7 @@ track CELF4_computational
 bigDataUrl CELF4_computational.bigBed
 shortLabel CELF4_comp
 longLabel CELF4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1178,7 +1178,7 @@ track SM_SMK_computational
 bigDataUrl SM_SMK_computational.bigBed
 shortLabel SM_SMK_comp
 longLabel SM_SMK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SM_SMK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1186,7 +1186,7 @@ track CG14718_computational
 bigDataUrl CG14718_computational.bigBed
 shortLabel CG14718_comp
 longLabel CG14718 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG14718 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1194,7 +1194,7 @@ track SRSF10_computational
 bigDataUrl SRSF10_computational.bigBed
 shortLabel SRSF10_comp
 longLabel SRSF10 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF10 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1202,7 +1202,7 @@ track CPEB1_computational
 bigDataUrl CPEB1_computational.bigBed
 shortLabel CPEB1_comp
 longLabel CPEB1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPEB1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1210,7 +1210,7 @@ track DDX19B_computational
 bigDataUrl DDX19B_computational.bigBed
 shortLabel DDX19B_comp
 longLabel DDX19B binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DDX19B binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1218,7 +1218,7 @@ track ENOX1_computational
 bigDataUrl ENOX1_computational.bigBed
 shortLabel ENOX1_comp
 longLabel ENOX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ENOX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1226,7 +1226,7 @@ track MBNL1_computational
 bigDataUrl MBNL1_computational.bigBed
 shortLabel MBNL1_comp
 longLabel MBNL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MBNL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1234,7 +1234,7 @@ track CELF1_computational
 bigDataUrl CELF1_computational.bigBed
 shortLabel CELF1_comp
 longLabel CELF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1242,7 +1242,7 @@ track CG11360_computational
 bigDataUrl CG11360_computational.bigBed
 shortLabel CG11360_comp
 longLabel CG11360 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG11360 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1250,7 +1250,7 @@ track HNRNPCL1_computational
 bigDataUrl HNRNPCL1_computational.bigBed
 shortLabel HNRNPCL1_comp
 longLabel HNRNPCL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPCL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1258,7 +1258,7 @@ track SF3B4_computational
 bigDataUrl SF3B4_computational.bigBed
 shortLabel SF3B4_comp
 longLabel SF3B4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SF3B4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1266,7 +1266,7 @@ track CPOX_computational
 bigDataUrl CPOX_computational.bigBed
 shortLabel CPOX_comp
 longLabel CPOX binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPOX binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1274,7 +1274,7 @@ track EIF4B_computational
 bigDataUrl EIF4B_computational.bigBed
 shortLabel EIF4B_comp
 longLabel EIF4B binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of EIF4B binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1282,7 +1282,7 @@ track PABPC5_computational
 bigDataUrl PABPC5_computational.bigBed
 shortLabel PABPC5_comp
 longLabel PABPC5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1290,7 +1290,7 @@ track CMTR1_computational
 bigDataUrl CMTR1_computational.bigBed
 shortLabel CMTR1_comp
 longLabel CMTR1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CMTR1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1298,7 +1298,7 @@ track ERI1_computational
 bigDataUrl ERI1_computational.bigBed
 shortLabel ERI1_comp
 longLabel ERI1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ERI1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1306,7 +1306,7 @@ track NOVA2_computational
 bigDataUrl NOVA2_computational.bigBed
 shortLabel NOVA2_comp
 longLabel NOVA2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NOVA2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1314,7 +1314,7 @@ track IGF2BP2_computational
 bigDataUrl IGF2BP2_computational.bigBed
 shortLabel IGF2BP2_comp
 longLabel IGF2BP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IGF2BP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1322,7 +1322,7 @@ track U2AF2_computational
 bigDataUrl U2AF2_computational.bigBed
 shortLabel U2AF2_comp
 longLabel U2AF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of U2AF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1330,7 +1330,7 @@ track RBMS1_computational
 bigDataUrl RBMS1_computational.bigBed
 shortLabel RBMS1_comp
 longLabel RBMS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1338,7 +1338,7 @@ track AGO2_CG43373_computational
 bigDataUrl AGO2_CG43373_computational.bigBed
 shortLabel AGO2_CG43373_comp
 longLabel AGO2_CG43373 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AGO2_CG43373 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1346,7 +1346,7 @@ track NUDT21_computational
 bigDataUrl NUDT21_computational.bigBed
 shortLabel NUDT21_comp
 longLabel NUDT21 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NUDT21 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1354,7 +1354,7 @@ track HNRNPK-CUSTOM_computational
 bigDataUrl HNRNPK-CUSTOM_computational.bigBed
 shortLabel HNRNPK-CUSTOM_comp
 longLabel HNRNPK-CUSTOM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPK-CUSTOM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1362,7 +1362,7 @@ track CPEB4_computational
 bigDataUrl CPEB4_computational.bigBed
 shortLabel CPEB4_comp
 longLabel CPEB4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPEB4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1370,7 +1370,7 @@ track RBFOX2_mut__computational
 bigDataUrl RBFOX2_mut__computational.bigBed
 shortLabel RBFOX2_mut__comp
 longLabel RBFOX2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1378,7 +1378,7 @@ track CSTF2_computational
 bigDataUrl CSTF2_computational.bigBed
 shortLabel CSTF2_comp
 longLabel CSTF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CSTF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1386,7 +1386,7 @@ track SUPV3L1_computational
 bigDataUrl SUPV3L1_computational.bigBed
 shortLabel SUPV3L1_comp
 longLabel SUPV3L1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SUPV3L1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1394,7 +1394,7 @@ track TIA1_computational
 bigDataUrl TIA1_computational.bigBed
 shortLabel TIA1_comp
 longLabel TIA1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TIA1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1402,7 +1402,7 @@ track QKR58E-1_computational
 bigDataUrl QKR58E-1_computational.bigBed
 shortLabel QKR58E-1_comp
 longLabel QKR58E-1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of QKR58E-1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1410,7 +1410,7 @@ track FUS_computational
 bigDataUrl FUS_computational.bigBed
 shortLabel FUS_comp
 longLabel FUS binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FUS binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1418,7 +1418,7 @@ track RBFOX1_mut__computational
 bigDataUrl RBFOX1_mut__computational.bigBed
 shortLabel RBFOX1_mut__comp
 longLabel RBFOX1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1426,7 +1426,7 @@ track SRSF6_B52_computational
 bigDataUrl SRSF6_B52_computational.bigBed
 shortLabel SRSF6_B52_comp
 longLabel SRSF6_B52 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF6_B52 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1434,7 +1434,7 @@ track RBM41_computational
 bigDataUrl RBM41_computational.bigBed
 shortLabel RBM41_comp
 longLabel RBM41 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM41 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1442,7 +1442,7 @@ track SNRNP-U1-70K_computational
 bigDataUrl SNRNP-U1-70K_computational.bigBed
 shortLabel SNRNP-U1-70K_comp
 longLabel SNRNP-U1-70K binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNRNP-U1-70K binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1450,7 +1450,7 @@ track SRSF1_SF2_mut__computational
 bigDataUrl SRSF1_SF2_mut__computational.bigBed
 shortLabel SRSF1_SF2_mut__comp
 longLabel SRSF1_SF2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF1_SF2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1458,7 +1458,7 @@ track KHDRBS1_computational
 bigDataUrl KHDRBS1_computational.bigBed
 shortLabel KHDRBS1_comp
 longLabel KHDRBS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHDRBS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1466,7 +1466,7 @@ track SRSF7_computational
 bigDataUrl SRSF7_computational.bigBed
 shortLabel SRSF7_comp
 longLabel SRSF7 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF7 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1474,7 +1474,7 @@ track RBM4_computational
 bigDataUrl RBM4_computational.bigBed
 shortLabel RBM4_comp
 longLabel RBM4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1482,7 +1482,7 @@ track FXR2_computational
 bigDataUrl FXR2_computational.bigBed
 shortLabel FXR2_comp
 longLabel FXR2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FXR2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1490,7 +1490,7 @@ track A1CF_computational
 bigDataUrl A1CF_computational.bigBed
 shortLabel A1CF_comp
 longLabel A1CF binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of A1CF binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1498,7 +1498,7 @@ track AKAP1_computational
 bigDataUrl AKAP1_computational.bigBed
 shortLabel AKAP1_comp
 longLabel AKAP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AKAP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1506,7 +1506,7 @@ track EIF4A3_CG7483_computational
 bigDataUrl EIF4A3_CG7483_computational.bigBed
 shortLabel EIF4A3_CG7483_comp
 longLabel EIF4A3_CG7483 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of EIF4A3_CG7483 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1514,7 +1514,7 @@ track HRB87F_computational
 bigDataUrl HRB87F_computational.bigBed
 shortLabel HRB87F_comp
 longLabel HRB87F binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HRB87F binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1522,7 +1522,7 @@ track PHAX_computational
 bigDataUrl PHAX_computational.bigBed
 shortLabel PHAX_comp
 longLabel PHAX binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PHAX binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1530,7 +1530,7 @@ track PPRC1_computational
 bigDataUrl PPRC1_computational.bigBed
 shortLabel PPRC1_comp
 longLabel PPRC1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PPRC1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1538,7 +1538,7 @@ track SRSF2_computational
 bigDataUrl SRSF2_computational.bigBed
 shortLabel SRSF2_comp
 longLabel SRSF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1546,7 +1546,7 @@ track HNRNPA2B1_mut__computational
 bigDataUrl HNRNPA2B1_mut__computational.bigBed
 shortLabel HNRNPA2B1_mut__comp
 longLabel HNRNPA2B1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA2B1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1554,7 +1554,7 @@ track RBFOX1_computational
 bigDataUrl RBFOX1_computational.bigBed
 shortLabel RBFOX1_comp
 longLabel RBFOX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1562,7 +1562,7 @@ track PCBP2_computational
 bigDataUrl PCBP2_computational.bigBed
 shortLabel PCBP2_comp
 longLabel PCBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PCBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1570,7 +1570,7 @@ track CG7804_computational
 bigDataUrl CG7804_computational.bigBed
 shortLabel CG7804_comp
 longLabel CG7804 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG7804 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1578,7 +1578,7 @@ track SYP_computational
 bigDataUrl SYP_computational.bigBed
 shortLabel SYP_comp
 longLabel SYP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SYP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1586,7 +1586,7 @@ track AUF1_computational
 bigDataUrl AUF1_computational.bigBed
 shortLabel AUF1_comp
 longLabel AUF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AUF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1594,7 +1594,7 @@ track PABPC4_computational
 bigDataUrl PABPC4_computational.bigBed
 shortLabel PABPC4_comp
 longLabel PABPC4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1602,7 +1602,7 @@ track PUM1_computational
 bigDataUrl PUM1_computational.bigBed
 shortLabel PUM1_comp
 longLabel PUM1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PUM1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1610,7 +1610,7 @@ track SRSF9_computational
 bigDataUrl SRSF9_computational.bigBed
 shortLabel SRSF9_comp
 longLabel SRSF9 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF9 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1618,7 +1618,7 @@ track HOW_computational
 bigDataUrl HOW_computational.bigBed
 shortLabel HOW_comp
 longLabel HOW binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HOW binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1626,7 +1626,7 @@ track RBP9_computational
 bigDataUrl RBP9_computational.bigBed
 shortLabel RBP9_comp
 longLabel RBP9 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBP9 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1634,7 +1634,7 @@ track IGF2BP3_computational
 bigDataUrl IGF2BP3_computational.bigBed
 shortLabel IGF2BP3_comp
 longLabel IGF2BP3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IGF2BP3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1642,7 +1642,7 @@ track HNRNPH1_mut__computational
 bigDataUrl HNRNPH1_mut__computational.bigBed
 shortLabel HNRNPH1_mut__comp
 longLabel HNRNPH1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1650,7 +1650,7 @@ track GRSF1_computational
 bigDataUrl GRSF1_computational.bigBed
 shortLabel GRSF1_comp
 longLabel GRSF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of GRSF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1658,7 +1658,7 @@ track HNRNPH1_computational
 bigDataUrl HNRNPH1_computational.bigBed
 shortLabel HNRNPH1_comp
 longLabel HNRNPH1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1666,7 +1666,7 @@ track PABPN1_PABP2_computational
 bigDataUrl PABPN1_PABP2_computational.bigBed
 shortLabel PABPN1_PABP2_comp
 longLabel PABPN1_PABP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPN1_PABP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1674,7 +1674,7 @@ track SRP19_computational
 bigDataUrl SRP19_computational.bigBed
 shortLabel SRP19_comp
 longLabel SRP19 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP19 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1682,7 +1682,7 @@ track HNRNPD_computational
 bigDataUrl HNRNPD_computational.bigBed
 shortLabel HNRNPD_comp
 longLabel HNRNPD binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPD binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1690,7 +1690,7 @@ track OAS1_computational
 bigDataUrl OAS1_computational.bigBed
 shortLabel OAS1_comp
 longLabel OAS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of OAS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1698,7 +1698,7 @@ track RBM24_computational
 bigDataUrl RBM24_computational.bigBed
 shortLabel RBM24_comp
 longLabel RBM24 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM24 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1706,7 +1706,7 @@ track ELAVL3_computational
 bigDataUrl ELAVL3_computational.bigBed
 shortLabel ELAVL3_comp
 longLabel ELAVL3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1714,7 +1714,7 @@ track SRSF1_SF2_computational
 bigDataUrl SRSF1_SF2_computational.bigBed
 shortLabel SRSF1_SF2_comp
 longLabel SRSF1_SF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF1_SF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1722,7 +1722,7 @@ track SNF_computational
 bigDataUrl SNF_computational.bigBed
 shortLabel SNF_comp
 longLabel SNF binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNF binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1730,7 +1730,7 @@ track ELAV_computational
 bigDataUrl ELAV_computational.bigBed
 shortLabel ELAV_comp
 longLabel ELAV binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAV binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1738,7 +1738,7 @@ track PABPC1_computational
 bigDataUrl PABPC1_computational.bigBed
 shortLabel PABPC1_comp
 longLabel PABPC1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1746,7 +1746,7 @@ track RIT2_RIN_computational
 bigDataUrl RIT2_RIN_computational.bigBed
 shortLabel RIT2_RIN_comp
 longLabel RIT2_RIN binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RIT2_RIN binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1754,7 +1754,7 @@ track BRU1_computational
 bigDataUrl BRU1_computational.bigBed
 shortLabel BRU1_comp
 longLabel BRU1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of BRU1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1762,7 +1762,7 @@ track ESRP1_computational
 bigDataUrl ESRP1_computational.bigBed
 shortLabel ESRP1_comp
 longLabel ESRP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ESRP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1770,7 +1770,7 @@ track CELF5_computational
 bigDataUrl CELF5_computational.bigBed
 shortLabel CELF5_comp
 longLabel CELF5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1778,7 +1778,7 @@ track AUF1-UNFILTERED_computational
 bigDataUrl AUF1-UNFILTERED_computational.bigBed
 shortLabel AUF1-UNFILTERED_comp
 longLabel AUF1-UNFILTERED binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AUF1-UNFILTERED binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility dense
 itemRgb on
 
@@ -1786,7 +1786,7 @@ track RBM8A_computational
 bigDataUrl RBM8A_computational.bigBed
 shortLabel RBM8A_comp
 longLabel RBM8A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM8A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1794,7 +1794,7 @@ track NR5A1_SF1_computational
 bigDataUrl NR5A1_SF1_computational.bigBed
 shortLabel NR5A1_SF1_comp
 longLabel NR5A1_SF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NR5A1_SF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1802,7 +1802,7 @@ track SRSF11_computational
 bigDataUrl SRSF11_computational.bigBed
 shortLabel SRSF11_comp
 longLabel SRSF11 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF11 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1810,7 +1810,7 @@ track UBL3_MUB_computational
 bigDataUrl UBL3_MUB_computational.bigBed
 shortLabel UBL3_MUB_comp
 longLabel UBL3_MUB binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of UBL3_MUB binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1818,7 +1818,7 @@ track SNRNP70_computational
 bigDataUrl SNRNP70_computational.bigBed
 shortLabel SNRNP70_comp
 longLabel SNRNP70 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNRNP70 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1826,7 +1826,7 @@ track RNP4F_computational
 bigDataUrl RNP4F_computational.bigBed
 shortLabel RNP4F_comp
 longLabel RNP4F binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RNP4F binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1834,7 +1834,7 @@ track RBM5_computational
 bigDataUrl RBM5_computational.bigBed
 shortLabel RBM5_comp
 longLabel RBM5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1842,7 +1842,7 @@ track ZC3H10_computational
 bigDataUrl ZC3H10_computational.bigBed
 shortLabel ZC3H10_comp
 longLabel ZC3H10 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZC3H10 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1850,7 +1850,7 @@ track DDX58_computational
 bigDataUrl DDX58_computational.bigBed
 shortLabel DDX58_comp
 longLabel DDX58 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DDX58 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1858,7 +1858,7 @@ track PSI_computational
 bigDataUrl PSI_computational.bigBed
 shortLabel PSI_comp
 longLabel PSI binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PSI binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1866,7 +1866,7 @@ track ZFP36L2_computational
 bigDataUrl ZFP36L2_computational.bigBed
 shortLabel ZFP36L2_comp
 longLabel ZFP36L2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZFP36L2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1874,7 +1874,7 @@ track U2AF50_computational
 bigDataUrl U2AF50_computational.bigBed
 shortLabel U2AF50_comp
 longLabel U2AF50 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of U2AF50 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1882,7 +1882,7 @@ track SRSF3_computational
 bigDataUrl SRSF3_computational.bigBed
 shortLabel SRSF3_comp
 longLabel SRSF3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1890,7 +1890,7 @@ track PTBP2_computational
 bigDataUrl PTBP2_computational.bigBed
 shortLabel PTBP2_comp
 longLabel PTBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PTBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1898,7 +1898,7 @@ track TARDBP_mut__computational
 bigDataUrl TARDBP_mut__computational.bigBed
 shortLabel TARDBP_mut__comp
 longLabel TARDBP_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TARDBP_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1906,7 +1906,7 @@ track ACO1_computational
 bigDataUrl ACO1_computational.bigBed
 shortLabel ACO1_comp
 longLabel ACO1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ACO1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1914,7 +1914,7 @@ track SUS_computational
 bigDataUrl SUS_computational.bigBed
 shortLabel SUS_comp
 longLabel SUS binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SUS binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1922,7 +1922,7 @@ track RNASEL_computational
 bigDataUrl RNASEL_computational.bigBed
 shortLabel RNASEL_comp
 longLabel RNASEL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RNASEL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1930,7 +1930,7 @@ track MXT_computational
 bigDataUrl MXT_computational.bigBed
 shortLabel MXT_comp
 longLabel MXT binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MXT binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1938,7 +1938,7 @@ track HFP_computational
 bigDataUrl HFP_computational.bigBed
 shortLabel HFP_comp
 longLabel HFP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HFP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1946,7 +1946,7 @@ track HNRNPK_computational
 bigDataUrl HNRNPK_computational.bigBed
 shortLabel HNRNPK_comp
 longLabel HNRNPK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility dense
 itemRgb on
 
@@ -1954,7 +1954,7 @@ track HNRNPA1_HRB87F_mut__computational
 bigDataUrl HNRNPA1_HRB87F_mut__computational.bigBed
 shortLabel HNRNPA1_HRB87F_mut__comp
 longLabel HNRNPA1_HRB87F_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA1_HRB87F_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1962,7 +1962,7 @@ track DHX58_computational
 bigDataUrl DHX58_computational.bigBed
 shortLabel DHX58_comp
 longLabel DHX58 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DHX58 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1970,7 +1970,7 @@ track RBM14_RBM14-RBM4_computational
 bigDataUrl RBM14_RBM14-RBM4_computational.bigBed
 shortLabel RBM14_RBM14-RBM4_comp
 longLabel RBM14_RBM14-RBM4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM14_RBM14-RBM4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1978,7 +1978,7 @@ track SRP54_SRP54K_computational
 bigDataUrl SRP54_SRP54K_computational.bigBed
 shortLabel SRP54_SRP54K_comp
 longLabel SRP54_SRP54K binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP54_SRP54K binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1986,7 +1986,7 @@ track SFPQ_LOC654780_computational
 bigDataUrl SFPQ_LOC654780_computational.bigBed
 shortLabel SFPQ_LOC654780_comp
 longLabel SFPQ_LOC654780 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SFPQ_LOC654780 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -1994,7 +1994,7 @@ track HNRNPH2_mut__computational
 bigDataUrl HNRNPH2_mut__computational.bigBed
 shortLabel HNRNPH2_mut__comp
 longLabel HNRNPH2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2002,7 +2002,7 @@ track SRSF6_computational
 bigDataUrl SRSF6_computational.bigBed
 shortLabel SRSF6_comp
 longLabel SRSF6 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF6 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2010,7 +2010,7 @@ track SYNCRIP_computational
 bigDataUrl SYNCRIP_computational.bigBed
 shortLabel SYNCRIP_comp
 longLabel SYNCRIP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SYNCRIP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2018,7 +2018,7 @@ track TRA2A_computational
 bigDataUrl TRA2A_computational.bigBed
 shortLabel TRA2A_comp
 longLabel TRA2A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2026,7 +2026,7 @@ track NONO_computational
 bigDataUrl NONO_computational.bigBed
 shortLabel NONO_comp
 longLabel NONO binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NONO binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2034,7 +2034,7 @@ track HNRNPA1_HRB87F_computational
 bigDataUrl HNRNPA1_HRB87F_computational.bigBed
 shortLabel HNRNPA1_HRB87F_comp
 longLabel HNRNPA1_HRB87F binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA1_HRB87F binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2042,7 +2042,7 @@ track DAZAP1_mut__computational
 bigDataUrl DAZAP1_mut__computational.bigBed
 shortLabel DAZAP1_mut__comp
 longLabel DAZAP1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DAZAP1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2050,7 +2050,7 @@ track TUT1_computational
 bigDataUrl TUT1_computational.bigBed
 shortLabel TUT1_comp
 longLabel TUT1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TUT1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2058,7 +2058,7 @@ track PPIE_computational
 bigDataUrl PPIE_computational.bigBed
 shortLabel PPIE_comp
 longLabel PPIE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PPIE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2066,7 +2066,7 @@ track RBM3_computational
 bigDataUrl RBM3_computational.bigBed
 shortLabel RBM3_comp
 longLabel RBM3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2074,7 +2074,7 @@ track ZCRB1_computational
 bigDataUrl ZCRB1_computational.bigBed
 shortLabel ZCRB1_comp
 longLabel ZCRB1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZCRB1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2082,7 +2082,7 @@ track RBM4_LARK_computational
 bigDataUrl RBM4_LARK_computational.bigBed
 shortLabel RBM4_LARK_comp
 longLabel RBM4_LARK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM4_LARK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2090,7 +2090,7 @@ track FMR1_FRAXA_FMR1-IT1_computational
 bigDataUrl FMR1_FRAXA_FMR1-IT1_computational.bigBed
 shortLabel FMR1_FRAXA_FMR1-IT1_comp
 longLabel FMR1_FRAXA_FMR1-IT1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FMR1_FRAXA_FMR1-IT1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2098,7 +2098,7 @@ track YTHDC1_computational
 bigDataUrl YTHDC1_computational.bigBed
 shortLabel YTHDC1_comp
 longLabel YTHDC1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YTHDC1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2106,7 +2106,7 @@ track SNRPA_computational
 bigDataUrl SNRPA_computational.bigBed
 shortLabel SNRPA_comp
 longLabel SNRPA binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNRPA binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2114,7 +2114,7 @@ track QKI_computational
 bigDataUrl QKI_computational.bigBed
 shortLabel QKI_comp
 longLabel QKI binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of QKI binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2122,7 +2122,7 @@ track SRSF5_computational
 bigDataUrl SRSF5_computational.bigBed
 shortLabel SRSF5_comp
 longLabel SRSF5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2130,7 +2130,7 @@ track REF2_REF2P_computational
 bigDataUrl REF2_REF2P_computational.bigBed
 shortLabel REF2_REF2P_comp
 longLabel REF2_REF2P binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of REF2_REF2P binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2138,7 +2138,7 @@ track TRA2B_computational
 bigDataUrl TRA2B_computational.bigBed
 shortLabel TRA2B_comp
 longLabel TRA2B binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2B binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2146,7 +2146,7 @@ track KHDRBS3_computational
 bigDataUrl KHDRBS3_computational.bigBed
 shortLabel KHDRBS3_comp
 longLabel KHDRBS3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHDRBS3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2154,7 +2154,7 @@ track HNRNPAB_computational
 bigDataUrl HNRNPAB_computational.bigBed
 shortLabel HNRNPAB_comp
 longLabel HNRNPAB binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPAB binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2162,7 +2162,7 @@ track RBM6_computational
 bigDataUrl RBM6_computational.bigBed
 shortLabel RBM6_comp
 longLabel RBM6 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM6 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2170,7 +2170,7 @@ track SSB_MTSSB_computational
 bigDataUrl SSB_MTSSB_computational.bigBed
 shortLabel SSB_MTSSB_comp
 longLabel SSB_MTSSB binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SSB_MTSSB binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2178,7 +2178,7 @@ track HNRNPM_computational
 bigDataUrl HNRNPM_computational.bigBed
 shortLabel HNRNPM_comp
 longLabel HNRNPM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2186,7 +2186,7 @@ track ZNF638_computational
 bigDataUrl ZNF638_computational.bigBed
 shortLabel ZNF638_comp
 longLabel ZNF638 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZNF638 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2194,7 +2194,7 @@ track HNRNPH3_mut__computational
 bigDataUrl HNRNPH3_mut__computational.bigBed
 shortLabel HNRNPH3_mut__comp
 longLabel HNRNPH3_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH3_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2202,7 +2202,7 @@ track KHSRP_computational
 bigDataUrl KHSRP_computational.bigBed
 shortLabel KHSRP_comp
 longLabel KHSRP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHSRP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2210,7 +2210,7 @@ track MUC1_MYOD1_PUM_computational
 bigDataUrl MUC1_MYOD1_PUM_computational.bigBed
 shortLabel MUC1_MYOD1_PUM_comp
 longLabel MUC1_MYOD1_PUM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MUC1_MYOD1_PUM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2218,7 +2218,7 @@ track RBM28_computational
 bigDataUrl RBM28_computational.bigBed
 shortLabel RBM28_comp
 longLabel RBM28 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM28 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2226,7 +2226,7 @@ track SRP68_computational
 bigDataUrl SRP68_computational.bigBed
 shortLabel SRP68_comp
 longLabel SRP68 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP68 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2234,7 +2234,7 @@ track HNRNPA0_computational
 bigDataUrl HNRNPA0_computational.bigBed
 shortLabel HNRNPA0_comp
 longLabel HNRNPA0 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA0 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2242,7 +2242,7 @@ track HNRNPF_mut__computational
 bigDataUrl HNRNPF_mut__computational.bigBed
 shortLabel HNRNPF_mut__comp
 longLabel HNRNPF_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPF_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2250,7 +2250,7 @@ track PTBP1_computational
 bigDataUrl PTBP1_computational.bigBed
 shortLabel PTBP1_comp
 longLabel PTBP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PTBP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2258,7 +2258,7 @@ track PAPI_computational
 bigDataUrl PAPI_computational.bigBed
 shortLabel PAPI_comp
 longLabel PAPI binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PAPI binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2266,7 +2266,7 @@ track RBM46_computational
 bigDataUrl RBM46_computational.bigBed
 shortLabel RBM46_comp
 longLabel RBM46 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM46 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2274,7 +2274,7 @@ track HNRNPDL_computational
 bigDataUrl HNRNPDL_computational.bigBed
 shortLabel HNRNPDL_comp
 longLabel HNRNPDL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPDL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2282,7 +2282,7 @@ track ORB2_computational
 bigDataUrl ORB2_computational.bigBed
 shortLabel ORB2_comp
 longLabel ORB2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ORB2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2290,7 +2290,7 @@ track RALY_computational
 bigDataUrl RALY_computational.bigBed
 shortLabel RALY_comp
 longLabel RALY binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RALY binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2298,7 +2298,7 @@ track ESRP2_computational
 bigDataUrl ESRP2_computational.bigBed
 shortLabel ESRP2_comp
 longLabel ESRP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ESRP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2306,7 +2306,7 @@ track CELF6_computational
 bigDataUrl CELF6_computational.bigBed
 shortLabel CELF6_comp
 longLabel CELF6 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF6 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2314,7 +2314,7 @@ track IGHMBP2_computational
 bigDataUrl IGHMBP2_computational.bigBed
 shortLabel IGHMBP2_comp
 longLabel IGHMBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IGHMBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2322,7 +2322,7 @@ track YBX1_mut__computational
 bigDataUrl YBX1_mut__computational.bigBed
 shortLabel YBX1_mut__comp
 longLabel YBX1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2330,7 +2330,7 @@ track AGO1_computational
 bigDataUrl AGO1_computational.bigBed
 shortLabel AGO1_comp
 longLabel AGO1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AGO1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2338,7 +2338,7 @@ track CG7903_computational
 bigDataUrl CG7903_computational.bigBed
 shortLabel CG7903_comp
 longLabel CG7903 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG7903 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2346,7 +2346,7 @@ track HRB27C_computational
 bigDataUrl HRB27C_computational.bigBed
 shortLabel HRB27C_comp
 longLabel HRB27C binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HRB27C binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2354,7 +2354,7 @@ track SAMD4A_computational
 bigDataUrl SAMD4A_computational.bigBed
 shortLabel SAMD4A_comp
 longLabel SAMD4A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SAMD4A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2362,7 +2362,7 @@ track HNRNPU_computational
 bigDataUrl HNRNPU_computational.bigBed
 shortLabel HNRNPU_comp
 longLabel HNRNPU binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPU binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility dense
 itemRgb on
 
@@ -2370,7 +2370,7 @@ track MOD_MODMDG4_RSD_computational
 bigDataUrl MOD_MODMDG4_RSD_computational.bigBed
 shortLabel MOD_MODMDG4_RSD_comp
 longLabel MOD_MODMDG4_RSD binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MOD_MODMDG4_RSD binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2378,7 +2378,7 @@ track PUM2_computational
 bigDataUrl PUM2_computational.bigBed
 shortLabel PUM2_comp
 longLabel PUM2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PUM2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2386,7 +2386,7 @@ track CNOT4_computational
 bigDataUrl CNOT4_computational.bigBed
 shortLabel CNOT4_comp
 longLabel CNOT4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CNOT4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2394,7 +2394,7 @@ track HNRNPH2_computational
 bigDataUrl HNRNPH2_computational.bigBed
 shortLabel HNRNPH2_comp
 longLabel HNRNPH2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2402,7 +2402,7 @@ track RC3H1_computational
 bigDataUrl RC3H1_computational.bigBed
 shortLabel RC3H1_comp
 longLabel RC3H1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RC3H1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2410,7 +2410,7 @@ track ADAR_computational
 bigDataUrl ADAR_computational.bigBed
 shortLabel ADAR_comp
 longLabel ADAR binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ADAR binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2418,7 +2418,7 @@ track RBMS3_computational
 bigDataUrl RBMS3_computational.bigBed
 shortLabel RBMS3_comp
 longLabel RBMS3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMS3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2426,7 +2426,7 @@ track EIF2S1_EIF2ALPHA_computational
 bigDataUrl EIF2S1_EIF2ALPHA_computational.bigBed
 shortLabel EIF2S1_EIF2ALPHA_comp
 longLabel EIF2S1_EIF2ALPHA binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of EIF2S1_EIF2ALPHA binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2434,7 +2434,7 @@ track DHX9_computational
 bigDataUrl DHX9_computational.bigBed
 shortLabel DHX9_comp
 longLabel DHX9 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DHX9 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2442,7 +2442,7 @@ track SRSF2_mut__computational
 bigDataUrl SRSF2_mut__computational.bigBed
 shortLabel SRSF2_mut__comp
 longLabel SRSF2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2450,7 +2450,7 @@ track FXR1_computational
 bigDataUrl FXR1_computational.bigBed
 shortLabel FXR1_comp
 longLabel FXR1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FXR1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2458,7 +2458,7 @@ track MSI1_computational
 bigDataUrl MSI1_computational.bigBed
 shortLabel MSI1_comp
 longLabel MSI1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MSI1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2466,7 +2466,7 @@ track HNRNPC_mut__computational
 bigDataUrl HNRNPC_mut__computational.bigBed
 shortLabel HNRNPC_mut__comp
 longLabel HNRNPC_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPC_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2474,7 +2474,7 @@ track HNRNPL_computational
 bigDataUrl HNRNPL_computational.bigBed
 shortLabel HNRNPL_comp
 longLabel HNRNPL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2482,7 +2482,7 @@ track DAZAP1_computational
 bigDataUrl DAZAP1_computational.bigBed
 shortLabel DAZAP1_comp
 longLabel DAZAP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DAZAP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2490,7 +2490,7 @@ track MSI_ADGF-A2_computational
 bigDataUrl MSI_ADGF-A2_computational.bigBed
 shortLabel MSI_ADGF-A2_comp
 longLabel MSI_ADGF-A2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MSI_ADGF-A2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2498,7 +2498,7 @@ track IFIH1_computational
 bigDataUrl IFIH1_computational.bigBed
 shortLabel IFIH1_comp
 longLabel IFIH1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IFIH1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2506,7 +2506,7 @@ track VTS1_computational
 bigDataUrl VTS1_computational.bigBed
 shortLabel VTS1_comp
 longLabel VTS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of VTS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2514,7 +2514,7 @@ track SXL_computational
 bigDataUrl SXL_computational.bigBed
 shortLabel SXL_comp
 longLabel SXL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SXL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2522,7 +2522,7 @@ track SRSF1_computational
 bigDataUrl SRSF1_computational.bigBed
 shortLabel SRSF1_comp
 longLabel SRSF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2530,7 +2530,7 @@ track TRA2B_mut__computational
 bigDataUrl TRA2B_mut__computational.bigBed
 shortLabel TRA2B_mut__comp
 longLabel TRA2B_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2B_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2538,7 +2538,7 @@ track PCBP1_computational
 bigDataUrl PCBP1_computational.bigBed
 shortLabel PCBP1_comp
 longLabel PCBP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PCBP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2546,7 +2546,7 @@ track ARID4A_RBP1_NGR1_SGN1_FPR1_computational
 bigDataUrl ARID4A_RBP1_NGR1_SGN1_FPR1_computational.bigBed
 shortLabel ARID4A_RBP1_NGR1_SGN1_FPR1_comp
 longLabel ARID4A_RBP1_NGR1_SGN1_FPR1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ARID4A_RBP1_NGR1_SGN1_FPR1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2554,7 +2554,7 @@ track HNRNPLL_computational
 bigDataUrl HNRNPLL_computational.bigBed
 shortLabel HNRNPLL_comp
 longLabel HNRNPLL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPLL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2562,7 +2562,7 @@ track XPO5_computational
 bigDataUrl XPO5_computational.bigBed
 shortLabel XPO5_comp
 longLabel XPO5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of XPO5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2570,7 +2570,7 @@ track NR5A1_SF1_mut__computational
 bigDataUrl NR5A1_SF1_mut__computational.bigBed
 shortLabel NR5A1_SF1_mut__comp
 longLabel NR5A1_SF1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NR5A1_SF1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2578,7 +2578,7 @@ track HRB98DE_computational
 bigDataUrl HRB98DE_computational.bigBed
 shortLabel HRB98DE_comp
 longLabel HRB98DE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HRB98DE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2586,7 +2586,7 @@ track ZRANB2_computational
 bigDataUrl ZRANB2_computational.bigBed
 shortLabel ZRANB2_comp
 longLabel ZRANB2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZRANB2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2594,7 +2594,7 @@ track RBFOX2_computational
 bigDataUrl RBFOX2_computational.bigBed
 shortLabel RBFOX2_comp
 longLabel RBFOX2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2602,7 +2602,7 @@ track NOVA1_PS_computational
 bigDataUrl NOVA1_PS_computational.bigBed
 shortLabel NOVA1_PS_comp
 longLabel NOVA1_PS binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NOVA1_PS binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2610,7 +2610,7 @@ track NXF1_SBR_computational
 bigDataUrl NXF1_SBR_computational.bigBed
 shortLabel NXF1_SBR_comp
 longLabel NXF1_SBR binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NXF1_SBR binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2618,7 +2618,7 @@ track SRP14_computational
 bigDataUrl SRP14_computational.bigBed
 shortLabel SRP14_comp
 longLabel SRP14 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP14 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2626,7 +2626,7 @@ track TRA2_computational
 bigDataUrl TRA2_computational.bigBed
 shortLabel TRA2_comp
 longLabel TRA2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2634,7 +2634,7 @@ track ROX8_computational
 bigDataUrl ROX8_computational.bigBed
 shortLabel ROX8_comp
 longLabel ROX8 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ROX8 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2642,7 +2642,7 @@ track RBP1-LIKE_X16_computational
 bigDataUrl RBP1-LIKE_X16_computational.bigBed
 shortLabel RBP1-LIKE_X16_comp
 longLabel RBP1-LIKE_X16 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBP1-LIKE_X16 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2650,7 +2650,7 @@ track YBX1-CUSTOM_computational
 bigDataUrl YBX1-CUSTOM_computational.bigBed
 shortLabel YBX1-CUSTOM_comp
 longLabel YBX1-CUSTOM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1-CUSTOM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2658,7 +2658,7 @@ track RBM42_computational
 bigDataUrl RBM42_computational.bigBed
 shortLabel RBM42_comp
 longLabel RBM42 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM42 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2666,7 +2666,7 @@ track ZFP36_computational
 bigDataUrl ZFP36_computational.bigBed
 shortLabel ZFP36_comp
 longLabel ZFP36 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZFP36 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2674,7 +2674,7 @@ track KHDRBS2_computational
 bigDataUrl KHDRBS2_computational.bigBed
 shortLabel KHDRBS2_comp
 longLabel KHDRBS2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHDRBS2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2682,7 +2682,7 @@ track SRSF4_computational
 bigDataUrl SRSF4_computational.bigBed
 shortLabel SRSF4_comp
 longLabel SRSF4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2690,7 +2690,7 @@ track SHEP_computational
 bigDataUrl SHEP_computational.bigBed
 shortLabel SHEP_comp
 longLabel SHEP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SHEP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2698,7 +2698,7 @@ track LIN28A_computational
 bigDataUrl LIN28A_computational.bigBed
 shortLabel LIN28A_comp
 longLabel LIN28A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of LIN28A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2706,7 +2706,7 @@ track HNRNPA1L2_computational
 bigDataUrl HNRNPA1L2_computational.bigBed
 shortLabel HNRNPA1L2_comp
 longLabel HNRNPA1L2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA1L2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2714,7 +2714,7 @@ track CELF2_computational
 bigDataUrl CELF2_computational.bigBed
 shortLabel CELF2_comp
 longLabel CELF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2722,7 +2722,7 @@ track ELAVL4_computational
 bigDataUrl ELAVL4_computational.bigBed
 shortLabel ELAVL4_comp
 longLabel ELAVL4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2730,7 +2730,7 @@ track ZNF346_computational
 bigDataUrl ZNF346_computational.bigBed
 shortLabel ZNF346_comp
 longLabel ZNF346 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZNF346 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2738,7 +2738,7 @@ track PIWIL1_computational
 bigDataUrl PIWIL1_computational.bigBed
 shortLabel PIWIL1_comp
 longLabel PIWIL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PIWIL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2746,7 +2746,7 @@ track CG2931_computational
 bigDataUrl CG2931_computational.bigBed
 shortLabel CG2931_comp
 longLabel CG2931 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG2931 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2754,7 +2754,7 @@ track HNRNPH3_computational
 bigDataUrl HNRNPH3_computational.bigBed
 shortLabel HNRNPH3_comp
 longLabel HNRNPH3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2762,7 +2762,7 @@ track RBMY1A1_RBMY1D_computational
 bigDataUrl RBMY1A1_RBMY1D_computational.bigBed
 shortLabel RBMY1A1_RBMY1D_comp
 longLabel RBMY1A1_RBMY1D binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMY1A1_RBMY1D binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2770,7 +2770,7 @@ track FNE_computational
 bigDataUrl FNE_computational.bigBed
 shortLabel FNE_comp
 longLabel FNE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FNE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2778,7 +2778,7 @@ track HNRNPF_computational
 bigDataUrl HNRNPF_computational.bigBed
 shortLabel HNRNPF_comp
 longLabel HNRNPF binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPF binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility dense
 itemRgb on
 
@@ -2786,7 +2786,7 @@ track PABPC3_computational
 bigDataUrl PABPC3_computational.bigBed
 shortLabel PABPC3_comp
 longLabel PABPC3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2794,7 +2794,7 @@ track TARDBP_computational
 bigDataUrl TARDBP_computational.bigBed
 shortLabel TARDBP_comp
 longLabel TARDBP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TARDBP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2802,7 +2802,7 @@ track QKI_mut__computational
 bigDataUrl QKI_mut__computational.bigBed
 shortLabel QKI_mut__comp
 longLabel QKI_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of QKI_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2810,7 +2810,7 @@ track RSF1_computational
 bigDataUrl RSF1_computational.bigBed
 shortLabel RSF1_comp
 longLabel RSF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RSF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2818,7 +2818,7 @@ track YBX1_computational
 bigDataUrl YBX1_computational.bigBed
 shortLabel YBX1_comp
 longLabel YBX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility dense
 itemRgb on
 
@@ -2826,7 +2826,7 @@ track ELAVL1_computational
 bigDataUrl ELAVL1_computational.bigBed
 shortLabel ELAVL1_comp
 longLabel ELAVL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2834,7 +2834,7 @@ track MATR3_computational
 bigDataUrl MATR3_computational.bigBed
 shortLabel MATR3_comp
 longLabel MATR3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MATR3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2842,7 +2842,7 @@ track G3BP2_computational
 bigDataUrl G3BP2_computational.bigBed
 shortLabel G3BP2_comp
 longLabel G3BP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of G3BP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2850,7 +2850,7 @@ track HNRNPA2B1_computational
 bigDataUrl HNRNPA2B1_computational.bigBed
 shortLabel HNRNPA2B1_comp
 longLabel HNRNPA2B1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA2B1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2858,7 +2858,7 @@ track F2_EEF1ALPHA2_L2F2_computational
 bigDataUrl F2_EEF1ALPHA2_L2F2_computational.bigBed
 shortLabel F2_EEF1ALPHA2_L2F2_comp
 longLabel F2_EEF1ALPHA2_L2F2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of F2_EEF1ALPHA2_L2F2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2866,7 +2866,7 @@ track BRU3_computational
 bigDataUrl BRU3_computational.bigBed
 shortLabel BRU3_comp
 longLabel BRU3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of BRU3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2874,15 +2874,15 @@ track HNRNPC_computational
 bigDataUrl HNRNPC_computational.bigBed
 shortLabel HNRNPC_comp
 longLabel HNRNPC binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPC binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility dense
-itemRgb "on"
+itemRgb on
 
 track CPEB2_computational
 bigDataUrl CPEB2_computational.bigBed
 shortLabel CPEB2_comp
 longLabel CPEB2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPEB2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2890,7 +2890,7 @@ track TIAL1_computational
 bigDataUrl TIAL1_computational.bigBed
 shortLabel TIAL1_comp
 longLabel TIAL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TIAL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2898,7 +2898,7 @@ track RBMX_computational
 bigDataUrl RBMX_computational.bigBed
 shortLabel RBMX_comp
 longLabel RBMX binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMX binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on
 
@@ -2906,6 +2906,6 @@ track SART3_computational
 bigDataUrl SART3_computational.bigBed
 shortLabel SART3_comp
 longLabel SART3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SART3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
+type bigBed 9
 visibility hide
 itemRgb on

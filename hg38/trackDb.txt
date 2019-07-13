@@ -592,9 +592,9 @@ shortLabel NONO binding sites
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 
-track YBX1_experimental
-bigDataUrl YBX1_experimental.bigBed
-shortLabel YBX1 binding sites
+track HNRNPK-CUSTOM_experimental
+bigDataUrl HNRNPK-CUSTOM_experimental.bigBed
+shortLabel HNRNPK-CUSTOM binding sites
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 
@@ -778,9 +778,9 @@ shortLabel NCBP3 binding sites
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 
-track HNRNPK_experimental
-bigDataUrl HNRNPK_experimental.bigBed
-shortLabel HNRNPK binding sites
+track YBX1-CUSTOM_experimental
+bigDataUrl YBX1-CUSTOM_experimental.bigBed
+shortLabel YBX1-CUSTOM binding sites
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
 
@@ -1012,6 +1012,12 @@ shortLabel NUDT21 binding sites
 longLabel NUDT21 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NUDT21 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
 type bigBed
 
+track HNRNPK-CUSTOM_computational
+bigDataUrl HNRNPK-CUSTOM_computational.bigBed
+shortLabel HNRNPK-CUSTOM binding sites
+longLabel HNRNPK-CUSTOM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPK-CUSTOM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
 track CPEB4_computational
 bigDataUrl CPEB4_computational.bigBed
 shortLabel CPEB4 binding sites
@@ -1166,12 +1172,6 @@ track PCBP2_computational
 bigDataUrl PCBP2_computational.bigBed
 shortLabel PCBP2 binding sites
 longLabel PCBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PCBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
-
-track YBX1_computational
-bigDataUrl YBX1_computational.bigBed
-shortLabel YBX1 binding sites
-longLabel YBX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
 type bigBed
 
 track CG7804_computational
@@ -1544,12 +1544,6 @@ track PPIE_computational
 bigDataUrl PPIE_computational.bigBed
 shortLabel PPIE binding sites
 longLabel PPIE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PPIE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
-type bigBed
-
-track HNRNPK_computational
-bigDataUrl HNRNPK_computational.bigBed
-shortLabel HNRNPK binding sites
-longLabel HNRNPK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
 type bigBed
 
 track RBM3_computational
@@ -1988,6 +1982,12 @@ track RBP1-LIKE_X16_computational
 bigDataUrl RBP1-LIKE_X16_computational.bigBed
 shortLabel RBP1-LIKE_X16 binding sites
 longLabel RBP1-LIKE_X16 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBP1-LIKE_X16 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track YBX1-CUSTOM_computational
+bigDataUrl YBX1-CUSTOM_computational.bigBed
+shortLabel YBX1-CUSTOM binding sites
+longLabel YBX1-CUSTOM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1-CUSTOM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
 type bigBed
 
 track RBM42_computational

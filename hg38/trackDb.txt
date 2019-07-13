@@ -35,7 +35,7 @@ bigDataUrl AUF1-UNFILTERED_experimental.bigBed
 shortLabel AUF1-UNFILTERED_exp
 longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
 type bigBed
-visibility hide
+visibility dense
 itemRgb on
 
 track FIP1L1_experimental
@@ -1779,7 +1779,7 @@ bigDataUrl AUF1-UNFILTERED_computational.bigBed
 shortLabel AUF1-UNFILTERED_comp
 longLabel AUF1-UNFILTERED binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AUF1-UNFILTERED binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
 type bigBed
-visibility hide
+visibility dense
 itemRgb on
 
 track RBM8A_computational

@@ -1,0 +1,5 @@
+hub hub
+shortLabel RBPs on Neat1 and Malat1 w.r.t. AUF1
+longLabel RBPs on Neat1 and Malat1 w.r.t. AUF1
+genomesFile RBPs on Neat1 and Malat1 w.r.t. AUF1.genomes.txt
+email mnk1@andrew.cmu.edu

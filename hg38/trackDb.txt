@@ -1,0 +1,2183 @@
+track LIN28A_experimental
+bigDataUrl LIN28A_experimental.bigBed
+shortLabel LIN28A binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track PUM2_experimental
+bigDataUrl PUM2_experimental.bigBed
+shortLabel PUM2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TARDBP_experimental
+bigDataUrl TARDBP_experimental.bigBed
+shortLabel TARDBP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ELAVL1_experimental
+bigDataUrl ELAVL1_experimental.bigBed
+shortLabel ELAVL1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FIP1L1_experimental
+bigDataUrl FIP1L1_experimental.bigBed
+shortLabel FIP1L1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SRSF9_experimental
+bigDataUrl SRSF9_experimental.bigBed
+shortLabel SRSF9 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CPSF6_experimental
+bigDataUrl CPSF6_experimental.bigBed
+shortLabel CPSF6 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DKC1_experimental
+bigDataUrl DKC1_experimental.bigBed
+shortLabel DKC1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DDX6_experimental
+bigDataUrl DDX6_experimental.bigBed
+shortLabel DDX6 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DHX30_experimental
+bigDataUrl DHX30_experimental.bigBed
+shortLabel DHX30 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NUDT21_experimental
+bigDataUrl NUDT21_experimental.bigBed
+shortLabel NUDT21 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track UPF1_experimental
+bigDataUrl UPF1_experimental.bigBed
+shortLabel UPF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RPS5_experimental
+bigDataUrl RPS5_experimental.bigBed
+shortLabel RPS5 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ATXN2_experimental
+bigDataUrl ATXN2_experimental.bigBed
+shortLabel ATXN2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track PCBP2_experimental
+bigDataUrl PCBP2_experimental.bigBed
+shortLabel PCBP2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPU_experimental
+bigDataUrl HNRNPU_experimental.bigBed
+shortLabel HNRNPU binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track UCHL5_experimental
+bigDataUrl UCHL5_experimental.bigBed
+shortLabel UCHL5 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track LARP4_experimental
+bigDataUrl LARP4_experimental.bigBed
+shortLabel LARP4 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FMR1_experimental
+bigDataUrl FMR1_experimental.bigBed
+shortLabel FMR1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ZRANB2_experimental
+bigDataUrl ZRANB2_experimental.bigBed
+shortLabel ZRANB2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track KHSRP_experimental
+bigDataUrl KHSRP_experimental.bigBed
+shortLabel KHSRP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track GTF2F1_experimental
+bigDataUrl GTF2F1_experimental.bigBed
+shortLabel GTF2F1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NOP58_experimental
+bigDataUrl NOP58_experimental.bigBed
+shortLabel NOP58 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track WDR33_experimental
+bigDataUrl WDR33_experimental.bigBed
+shortLabel WDR33 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CPSF1_experimental
+bigDataUrl CPSF1_experimental.bigBed
+shortLabel CPSF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EIF3G_experimental
+bigDataUrl EIF3G_experimental.bigBed
+shortLabel EIF3G binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track XRCC6_experimental
+bigDataUrl XRCC6_experimental.bigBed
+shortLabel XRCC6 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track WTAP_experimental
+bigDataUrl WTAP_experimental.bigBed
+shortLabel WTAP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track BCCIP_experimental
+bigDataUrl BCCIP_experimental.bigBed
+shortLabel BCCIP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track QKI_experimental
+bigDataUrl QKI_experimental.bigBed
+shortLabel QKI binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track METAP2_experimental
+bigDataUrl METAP2_experimental.bigBed
+shortLabel METAP2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track AGGF1_experimental
+bigDataUrl AGGF1_experimental.bigBed
+shortLabel AGGF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track XRN2_experimental
+bigDataUrl XRN2_experimental.bigBed
+shortLabel XRN2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track GNL3_experimental
+bigDataUrl GNL3_experimental.bigBed
+shortLabel GNL3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DGCR8_experimental
+bigDataUrl DGCR8_experimental.bigBed
+shortLabel DGCR8 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track PTBP1_experimental
+bigDataUrl PTBP1_experimental.bigBed
+shortLabel PTBP1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TBRG4_experimental
+bigDataUrl TBRG4_experimental.bigBed
+shortLabel TBRG4 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EIF4G2_experimental
+bigDataUrl EIF4G2_experimental.bigBed
+shortLabel EIF4G2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track PPIL4_experimental
+bigDataUrl PPIL4_experimental.bigBed
+shortLabel PPIL4 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FBL_experimental
+bigDataUrl FBL_experimental.bigBed
+shortLabel FBL binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track IGF2BP1_experimental
+bigDataUrl IGF2BP1_experimental.bigBed
+shortLabel IGF2BP1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM15_experimental
+bigDataUrl RBM15_experimental.bigBed
+shortLabel RBM15 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track MOV10_experimental
+bigDataUrl MOV10_experimental.bigBed
+shortLabel MOV10 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPC_experimental
+bigDataUrl HNRNPC_experimental.bigBed
+shortLabel HNRNPC binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track METTL14_experimental
+bigDataUrl METTL14_experimental.bigBed
+shortLabel METTL14 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track AUF1_experimental
+bigDataUrl AUF1_experimental.bigBed
+shortLabel AUF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBFOX2_experimental
+bigDataUrl RBFOX2_experimental.bigBed
+shortLabel RBFOX2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TARBP2_experimental
+bigDataUrl TARBP2_experimental.bigBed
+shortLabel TARBP2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SMNDC1_experimental
+bigDataUrl SMNDC1_experimental.bigBed
+shortLabel SMNDC1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPH1_experimental
+bigDataUrl HNRNPH1_experimental.bigBed
+shortLabel HNRNPH1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SFPQ_experimental
+bigDataUrl SFPQ_experimental.bigBed
+shortLabel SFPQ binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track U2AF1_experimental
+bigDataUrl U2AF1_experimental.bigBed
+shortLabel U2AF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track MTPAP_experimental
+bigDataUrl MTPAP_experimental.bigBed
+shortLabel MTPAP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPD_experimental
+bigDataUrl HNRNPD_experimental.bigBed
+shortLabel HNRNPD binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM27_experimental
+bigDataUrl RBM27_experimental.bigBed
+shortLabel RBM27 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YTHDC1_experimental
+bigDataUrl YTHDC1_experimental.bigBed
+shortLabel YTHDC1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CPSF7_experimental
+bigDataUrl CPSF7_experimental.bigBed
+shortLabel CPSF7 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track PUS1_experimental
+bigDataUrl PUS1_experimental.bigBed
+shortLabel PUS1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ALKBH1_experimental
+bigDataUrl ALKBH1_experimental.bigBed
+shortLabel ALKBH1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NPM1_experimental
+bigDataUrl NPM1_experimental.bigBed
+shortLabel NPM1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FAM120A_experimental
+bigDataUrl FAM120A_experimental.bigBed
+shortLabel FAM120A binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPUL1_experimental
+bigDataUrl HNRNPUL1_experimental.bigBed
+shortLabel HNRNPUL1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RPS11_experimental
+bigDataUrl RPS11_experimental.bigBed
+shortLabel RPS11 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBPMS_experimental
+bigDataUrl RBPMS_experimental.bigBed
+shortLabel RBPMS binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SF3B1_experimental
+bigDataUrl SF3B1_experimental.bigBed
+shortLabel SF3B1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPA2B1_experimental
+bigDataUrl HNRNPA2B1_experimental.bigBed
+shortLabel HNRNPA2B1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YTHDF1_experimental
+bigDataUrl YTHDF1_experimental.bigBed
+shortLabel YTHDF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DDX3X_experimental
+bigDataUrl DDX3X_experimental.bigBed
+shortLabel DDX3X binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track PRPF8_experimental
+bigDataUrl PRPF8_experimental.bigBed
+shortLabel PRPF8 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track LARP7_experimental
+bigDataUrl LARP7_experimental.bigBed
+shortLabel LARP7 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NCBP2_experimental
+bigDataUrl NCBP2_experimental.bigBed
+shortLabel NCBP2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track AUF1_experimental
+bigDataUrl AUF1_experimental.bigBed
+shortLabel AUF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track GEMIN5_experimental
+bigDataUrl GEMIN5_experimental.bigBed
+shortLabel GEMIN5 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SF3B4_experimental
+bigDataUrl SF3B4_experimental.bigBed
+shortLabel SF3B4 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM47_experimental
+bigDataUrl RBM47_experimental.bigBed
+shortLabel RBM47 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HLTF_experimental
+bigDataUrl HLTF_experimental.bigBed
+shortLabel HLTF binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NKRF_experimental
+bigDataUrl NKRF_experimental.bigBed
+shortLabel NKRF binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPM_experimental
+bigDataUrl HNRNPM_experimental.bigBed
+shortLabel HNRNPM binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CDC40_experimental
+bigDataUrl CDC40_experimental.bigBed
+shortLabel CDC40 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EIF3D_experimental
+bigDataUrl EIF3D_experimental.bigBed
+shortLabel EIF3D binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track IGF2BP3_experimental
+bigDataUrl IGF2BP3_experimental.bigBed
+shortLabel IGF2BP3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EIF3H_experimental
+bigDataUrl EIF3H_experimental.bigBed
+shortLabel EIF3H binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SRSF1_experimental
+bigDataUrl SRSF1_experimental.bigBed
+shortLabel SRSF1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM22_experimental
+bigDataUrl RBM22_experimental.bigBed
+shortLabel RBM22 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track KHDRBS1_experimental
+bigDataUrl KHDRBS1_experimental.bigBed
+shortLabel KHDRBS1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CPSF2_experimental
+bigDataUrl CPSF2_experimental.bigBed
+shortLabel CPSF2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DDX42_experimental
+bigDataUrl DDX42_experimental.bigBed
+shortLabel DDX42 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YWHAG_experimental
+bigDataUrl YWHAG_experimental.bigBed
+shortLabel YWHAG binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM10_experimental
+bigDataUrl RBM10_experimental.bigBed
+shortLabel RBM10 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TIA1_experimental
+bigDataUrl TIA1_experimental.bigBed
+shortLabel TIA1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FTO_experimental
+bigDataUrl FTO_experimental.bigBed
+shortLabel FTO binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM15B_experimental
+bigDataUrl RBM15B_experimental.bigBed
+shortLabel RBM15B binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track LIN28B_experimental
+bigDataUrl LIN28B_experimental.bigBed
+shortLabel LIN28B binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ZNF622_experimental
+bigDataUrl ZNF622_experimental.bigBed
+shortLabel ZNF622 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPF_experimental
+bigDataUrl HNRNPF_experimental.bigBed
+shortLabel HNRNPF binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CNBP_experimental
+bigDataUrl CNBP_experimental.bigBed
+shortLabel CNBP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track MBNL2_experimental
+bigDataUrl MBNL2_experimental.bigBed
+shortLabel MBNL2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SLTM_experimental
+bigDataUrl SLTM_experimental.bigBed
+shortLabel SLTM binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NONO_experimental
+bigDataUrl NONO_experimental.bigBed
+shortLabel NONO binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YBX1_experimental
+bigDataUrl YBX1_experimental.bigBed
+shortLabel YBX1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YTHDF3_experimental
+bigDataUrl YTHDF3_experimental.bigBed
+shortLabel YTHDF3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track STAU1_experimental
+bigDataUrl STAU1_experimental.bigBed
+shortLabel STAU1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CAPRIN1_experimental
+bigDataUrl CAPRIN1_experimental.bigBed
+shortLabel CAPRIN1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track METTL3_experimental
+bigDataUrl METTL3_experimental.bigBed
+shortLabel METTL3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track AKAP8L_experimental
+bigDataUrl AKAP8L_experimental.bigBed
+shortLabel AKAP8L binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPA1_experimental
+bigDataUrl HNRNPA1_experimental.bigBed
+shortLabel HNRNPA1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SLBP_experimental
+bigDataUrl SLBP_experimental.bigBed
+shortLabel SLBP binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SAFB2_experimental
+bigDataUrl SAFB2_experimental.bigBed
+shortLabel SAFB2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EIF3B_experimental
+bigDataUrl EIF3B_experimental.bigBed
+shortLabel EIF3B binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SRSF7_experimental
+bigDataUrl SRSF7_experimental.bigBed
+shortLabel SRSF7 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YTHDC2_experimental
+bigDataUrl YTHDC2_experimental.bigBed
+shortLabel YTHDC2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SERBP1_experimental
+bigDataUrl SERBP1_experimental.bigBed
+shortLabel SERBP1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CPSF4_experimental
+bigDataUrl CPSF4_experimental.bigBed
+shortLabel CPSF4 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track U2AF2_experimental
+bigDataUrl U2AF2_experimental.bigBed
+shortLabel U2AF2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPK_experimental
+bigDataUrl HNRNPK_experimental.bigBed
+shortLabel HNRNPK binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EIF4A3_experimental
+bigDataUrl EIF4A3_experimental.bigBed
+shortLabel EIF4A3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FUBP3_experimental
+bigDataUrl FUBP3_experimental.bigBed
+shortLabel FUBP3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track DROSHA_experimental
+bigDataUrl DROSHA_experimental.bigBed
+shortLabel DROSHA binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YTHDF2_experimental
+bigDataUrl YTHDF2_experimental.bigBed
+shortLabel YTHDF2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track LSM11_experimental
+bigDataUrl LSM11_experimental.bigBed
+shortLabel LSM11 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FUS_experimental
+bigDataUrl FUS_experimental.bigBed
+shortLabel FUS binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RBM5_experimental
+bigDataUrl RBM5_experimental.bigBed
+shortLabel RBM5 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track AARS_experimental
+bigDataUrl AARS_experimental.bigBed
+shortLabel AARS binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ZC3H7B_experimental
+bigDataUrl ZC3H7B_experimental.bigBed
+shortLabel ZC3H7B binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TRA2A_experimental
+bigDataUrl TRA2A_experimental.bigBed
+shortLabel TRA2A binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TAF15_experimental
+bigDataUrl TAF15_experimental.bigBed
+shortLabel TAF15 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CELF2_experimental
+bigDataUrl CELF2_experimental.bigBed
+shortLabel CELF2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track FASTKD2_experimental
+bigDataUrl FASTKD2_experimental.bigBed
+shortLabel FASTKD2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track RTCB_experimental
+bigDataUrl RTCB_experimental.bigBed
+shortLabel RTCB binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NCBP3_experimental
+bigDataUrl NCBP3_experimental.bigBed
+shortLabel NCBP3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track HNRNPK_experimental
+bigDataUrl HNRNPK_experimental.bigBed
+shortLabel HNRNPK binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track EWSR1_experimental
+bigDataUrl EWSR1_experimental.bigBed
+shortLabel EWSR1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track TIAL1_experimental
+bigDataUrl TIAL1_experimental.bigBed
+shortLabel TIAL1 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SRRM4_experimental
+bigDataUrl SRRM4_experimental.bigBed
+shortLabel SRRM4 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track NOP56_experimental
+bigDataUrl NOP56_experimental.bigBed
+shortLabel NOP56 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CSTF2_experimental
+bigDataUrl CSTF2_experimental.bigBed
+shortLabel CSTF2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CPSF3_experimental
+bigDataUrl CPSF3_experimental.bigBed
+shortLabel CPSF3 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track SSB_experimental
+bigDataUrl SSB_experimental.bigBed
+shortLabel SSB binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track ALKBH5_experimental
+bigDataUrl ALKBH5_experimental.bigBed
+shortLabel ALKBH5 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track IGF2BP2_experimental
+bigDataUrl IGF2BP2_experimental.bigBed
+shortLabel IGF2BP2 binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track CSTF2T_experimental
+bigDataUrl CSTF2T_experimental.bigBed
+shortLabel CSTF2T binding sites
+longLabel experimenally verified binding sites, such as PARCLIP,iCLIP, eClip, etc. The data was collected from POSTAR2.
+type bigBed
+
+track YBX2_computational
+bigDataUrl YBX2_computational.bigBed
+shortLabel YBX2 binding sites
+longLabel YBX2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ELAVL2_computational
+bigDataUrl ELAVL2_computational.bigBed
+shortLabel ELAVL2 binding sites
+longLabel ELAVL2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM25_computational
+bigDataUrl RBM25_computational.bigBed
+shortLabel RBM25 binding sites
+longLabel RBM25 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM25 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CG5213_computational
+bigDataUrl CG5213_computational.bigBed
+shortLabel CG5213 binding sites
+longLabel CG5213 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG5213 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SLIRP1_computational
+bigDataUrl SLIRP1_computational.bigBed
+shortLabel SLIRP1 binding sites
+longLabel SLIRP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SLIRP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CELF4_computational
+bigDataUrl CELF4_computational.bigBed
+shortLabel CELF4 binding sites
+longLabel CELF4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SM_SMK_computational
+bigDataUrl SM_SMK_computational.bigBed
+shortLabel SM_SMK binding sites
+longLabel SM_SMK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SM_SMK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CG14718_computational
+bigDataUrl CG14718_computational.bigBed
+shortLabel CG14718 binding sites
+longLabel CG14718 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG14718 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF10_computational
+bigDataUrl SRSF10_computational.bigBed
+shortLabel SRSF10 binding sites
+longLabel SRSF10 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF10 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CPEB1_computational
+bigDataUrl CPEB1_computational.bigBed
+shortLabel CPEB1 binding sites
+longLabel CPEB1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPEB1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track DDX19B_computational
+bigDataUrl DDX19B_computational.bigBed
+shortLabel DDX19B binding sites
+longLabel DDX19B binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DDX19B binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ENOX1_computational
+bigDataUrl ENOX1_computational.bigBed
+shortLabel ENOX1 binding sites
+longLabel ENOX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ENOX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MBNL1_computational
+bigDataUrl MBNL1_computational.bigBed
+shortLabel MBNL1 binding sites
+longLabel MBNL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MBNL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CELF1_computational
+bigDataUrl CELF1_computational.bigBed
+shortLabel CELF1 binding sites
+longLabel CELF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CG11360_computational
+bigDataUrl CG11360_computational.bigBed
+shortLabel CG11360 binding sites
+longLabel CG11360 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG11360 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPCL1_computational
+bigDataUrl HNRNPCL1_computational.bigBed
+shortLabel HNRNPCL1 binding sites
+longLabel HNRNPCL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPCL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SF3B4_computational
+bigDataUrl SF3B4_computational.bigBed
+shortLabel SF3B4 binding sites
+longLabel SF3B4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SF3B4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CPOX_computational
+bigDataUrl CPOX_computational.bigBed
+shortLabel CPOX binding sites
+longLabel CPOX binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPOX binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track EIF4B_computational
+bigDataUrl EIF4B_computational.bigBed
+shortLabel EIF4B binding sites
+longLabel EIF4B binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of EIF4B binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PABPC5_computational
+bigDataUrl PABPC5_computational.bigBed
+shortLabel PABPC5 binding sites
+longLabel PABPC5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CMTR1_computational
+bigDataUrl CMTR1_computational.bigBed
+shortLabel CMTR1 binding sites
+longLabel CMTR1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CMTR1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ERI1_computational
+bigDataUrl ERI1_computational.bigBed
+shortLabel ERI1 binding sites
+longLabel ERI1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ERI1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NOVA2_computational
+bigDataUrl NOVA2_computational.bigBed
+shortLabel NOVA2 binding sites
+longLabel NOVA2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NOVA2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track IGF2BP2_computational
+bigDataUrl IGF2BP2_computational.bigBed
+shortLabel IGF2BP2 binding sites
+longLabel IGF2BP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IGF2BP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track U2AF2_computational
+bigDataUrl U2AF2_computational.bigBed
+shortLabel U2AF2 binding sites
+longLabel U2AF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of U2AF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBMS1_computational
+bigDataUrl RBMS1_computational.bigBed
+shortLabel RBMS1 binding sites
+longLabel RBMS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track AGO2_CG43373_computational
+bigDataUrl AGO2_CG43373_computational.bigBed
+shortLabel AGO2_CG43373 binding sites
+longLabel AGO2_CG43373 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AGO2_CG43373 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NUDT21_computational
+bigDataUrl NUDT21_computational.bigBed
+shortLabel NUDT21 binding sites
+longLabel NUDT21 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NUDT21 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CPEB4_computational
+bigDataUrl CPEB4_computational.bigBed
+shortLabel CPEB4 binding sites
+longLabel CPEB4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPEB4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBFOX2_mut__computational
+bigDataUrl RBFOX2_mut__computational.bigBed
+shortLabel RBFOX2_mut_ binding sites
+longLabel RBFOX2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CSTF2_computational
+bigDataUrl CSTF2_computational.bigBed
+shortLabel CSTF2 binding sites
+longLabel CSTF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CSTF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SUPV3L1_computational
+bigDataUrl SUPV3L1_computational.bigBed
+shortLabel SUPV3L1 binding sites
+longLabel SUPV3L1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SUPV3L1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TIA1_computational
+bigDataUrl TIA1_computational.bigBed
+shortLabel TIA1 binding sites
+longLabel TIA1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TIA1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track QKR58E-1_computational
+bigDataUrl QKR58E-1_computational.bigBed
+shortLabel QKR58E-1 binding sites
+longLabel QKR58E-1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of QKR58E-1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track FUS_computational
+bigDataUrl FUS_computational.bigBed
+shortLabel FUS binding sites
+longLabel FUS binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FUS binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBFOX1_mut__computational
+bigDataUrl RBFOX1_mut__computational.bigBed
+shortLabel RBFOX1_mut_ binding sites
+longLabel RBFOX1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF6_B52_computational
+bigDataUrl SRSF6_B52_computational.bigBed
+shortLabel SRSF6_B52 binding sites
+longLabel SRSF6_B52 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF6_B52 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM41_computational
+bigDataUrl RBM41_computational.bigBed
+shortLabel RBM41 binding sites
+longLabel RBM41 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM41 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SNRNP-U1-70K_computational
+bigDataUrl SNRNP-U1-70K_computational.bigBed
+shortLabel SNRNP-U1-70K binding sites
+longLabel SNRNP-U1-70K binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNRNP-U1-70K binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF1_SF2_mut__computational
+bigDataUrl SRSF1_SF2_mut__computational.bigBed
+shortLabel SRSF1_SF2_mut_ binding sites
+longLabel SRSF1_SF2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF1_SF2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track KHDRBS1_computational
+bigDataUrl KHDRBS1_computational.bigBed
+shortLabel KHDRBS1 binding sites
+longLabel KHDRBS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHDRBS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF7_computational
+bigDataUrl SRSF7_computational.bigBed
+shortLabel SRSF7 binding sites
+longLabel SRSF7 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF7 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM4_computational
+bigDataUrl RBM4_computational.bigBed
+shortLabel RBM4 binding sites
+longLabel RBM4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track FXR2_computational
+bigDataUrl FXR2_computational.bigBed
+shortLabel FXR2 binding sites
+longLabel FXR2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FXR2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track A1CF_computational
+bigDataUrl A1CF_computational.bigBed
+shortLabel A1CF binding sites
+longLabel A1CF binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of A1CF binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track AKAP1_computational
+bigDataUrl AKAP1_computational.bigBed
+shortLabel AKAP1 binding sites
+longLabel AKAP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AKAP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track EIF4A3_CG7483_computational
+bigDataUrl EIF4A3_CG7483_computational.bigBed
+shortLabel EIF4A3_CG7483 binding sites
+longLabel EIF4A3_CG7483 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of EIF4A3_CG7483 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HRB87F_computational
+bigDataUrl HRB87F_computational.bigBed
+shortLabel HRB87F binding sites
+longLabel HRB87F binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HRB87F binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PHAX_computational
+bigDataUrl PHAX_computational.bigBed
+shortLabel PHAX binding sites
+longLabel PHAX binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PHAX binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PPRC1_computational
+bigDataUrl PPRC1_computational.bigBed
+shortLabel PPRC1 binding sites
+longLabel PPRC1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PPRC1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF2_computational
+bigDataUrl SRSF2_computational.bigBed
+shortLabel SRSF2 binding sites
+longLabel SRSF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPA2B1_mut__computational
+bigDataUrl HNRNPA2B1_mut__computational.bigBed
+shortLabel HNRNPA2B1_mut_ binding sites
+longLabel HNRNPA2B1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA2B1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBFOX1_computational
+bigDataUrl RBFOX1_computational.bigBed
+shortLabel RBFOX1 binding sites
+longLabel RBFOX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PCBP2_computational
+bigDataUrl PCBP2_computational.bigBed
+shortLabel PCBP2 binding sites
+longLabel PCBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PCBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track YBX1_computational
+bigDataUrl YBX1_computational.bigBed
+shortLabel YBX1 binding sites
+longLabel YBX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CG7804_computational
+bigDataUrl CG7804_computational.bigBed
+shortLabel CG7804 binding sites
+longLabel CG7804 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG7804 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SYP_computational
+bigDataUrl SYP_computational.bigBed
+shortLabel SYP binding sites
+longLabel SYP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SYP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track AUF1_computational
+bigDataUrl AUF1_computational.bigBed
+shortLabel AUF1 binding sites
+longLabel AUF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AUF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PABPC4_computational
+bigDataUrl PABPC4_computational.bigBed
+shortLabel PABPC4 binding sites
+longLabel PABPC4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PUM1_computational
+bigDataUrl PUM1_computational.bigBed
+shortLabel PUM1 binding sites
+longLabel PUM1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PUM1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF9_computational
+bigDataUrl SRSF9_computational.bigBed
+shortLabel SRSF9 binding sites
+longLabel SRSF9 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF9 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HOW_computational
+bigDataUrl HOW_computational.bigBed
+shortLabel HOW binding sites
+longLabel HOW binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HOW binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBP9_computational
+bigDataUrl RBP9_computational.bigBed
+shortLabel RBP9 binding sites
+longLabel RBP9 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBP9 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track IGF2BP3_computational
+bigDataUrl IGF2BP3_computational.bigBed
+shortLabel IGF2BP3 binding sites
+longLabel IGF2BP3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IGF2BP3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPH1_mut__computational
+bigDataUrl HNRNPH1_mut__computational.bigBed
+shortLabel HNRNPH1_mut_ binding sites
+longLabel HNRNPH1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track GRSF1_computational
+bigDataUrl GRSF1_computational.bigBed
+shortLabel GRSF1 binding sites
+longLabel GRSF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of GRSF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPH1_computational
+bigDataUrl HNRNPH1_computational.bigBed
+shortLabel HNRNPH1 binding sites
+longLabel HNRNPH1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PABPN1_PABP2_computational
+bigDataUrl PABPN1_PABP2_computational.bigBed
+shortLabel PABPN1_PABP2 binding sites
+longLabel PABPN1_PABP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPN1_PABP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRP19_computational
+bigDataUrl SRP19_computational.bigBed
+shortLabel SRP19 binding sites
+longLabel SRP19 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP19 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPD_computational
+bigDataUrl HNRNPD_computational.bigBed
+shortLabel HNRNPD binding sites
+longLabel HNRNPD binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPD binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track OAS1_computational
+bigDataUrl OAS1_computational.bigBed
+shortLabel OAS1 binding sites
+longLabel OAS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of OAS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM24_computational
+bigDataUrl RBM24_computational.bigBed
+shortLabel RBM24 binding sites
+longLabel RBM24 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM24 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ELAVL3_computational
+bigDataUrl ELAVL3_computational.bigBed
+shortLabel ELAVL3 binding sites
+longLabel ELAVL3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF1_SF2_computational
+bigDataUrl SRSF1_SF2_computational.bigBed
+shortLabel SRSF1_SF2 binding sites
+longLabel SRSF1_SF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF1_SF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SNF_computational
+bigDataUrl SNF_computational.bigBed
+shortLabel SNF binding sites
+longLabel SNF binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNF binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ELAV_computational
+bigDataUrl ELAV_computational.bigBed
+shortLabel ELAV binding sites
+longLabel ELAV binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAV binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PABPC1_computational
+bigDataUrl PABPC1_computational.bigBed
+shortLabel PABPC1 binding sites
+longLabel PABPC1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RIT2_RIN_computational
+bigDataUrl RIT2_RIN_computational.bigBed
+shortLabel RIT2_RIN binding sites
+longLabel RIT2_RIN binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RIT2_RIN binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track BRU1_computational
+bigDataUrl BRU1_computational.bigBed
+shortLabel BRU1 binding sites
+longLabel BRU1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of BRU1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ESRP1_computational
+bigDataUrl ESRP1_computational.bigBed
+shortLabel ESRP1 binding sites
+longLabel ESRP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ESRP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CELF5_computational
+bigDataUrl CELF5_computational.bigBed
+shortLabel CELF5 binding sites
+longLabel CELF5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM8A_computational
+bigDataUrl RBM8A_computational.bigBed
+shortLabel RBM8A binding sites
+longLabel RBM8A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM8A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NR5A1_SF1_computational
+bigDataUrl NR5A1_SF1_computational.bigBed
+shortLabel NR5A1_SF1 binding sites
+longLabel NR5A1_SF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NR5A1_SF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF11_computational
+bigDataUrl SRSF11_computational.bigBed
+shortLabel SRSF11 binding sites
+longLabel SRSF11 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF11 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track UBL3_MUB_computational
+bigDataUrl UBL3_MUB_computational.bigBed
+shortLabel UBL3_MUB binding sites
+longLabel UBL3_MUB binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of UBL3_MUB binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SNRNP70_computational
+bigDataUrl SNRNP70_computational.bigBed
+shortLabel SNRNP70 binding sites
+longLabel SNRNP70 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNRNP70 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RNP4F_computational
+bigDataUrl RNP4F_computational.bigBed
+shortLabel RNP4F binding sites
+longLabel RNP4F binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RNP4F binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM5_computational
+bigDataUrl RBM5_computational.bigBed
+shortLabel RBM5 binding sites
+longLabel RBM5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZC3H10_computational
+bigDataUrl ZC3H10_computational.bigBed
+shortLabel ZC3H10 binding sites
+longLabel ZC3H10 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZC3H10 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track DDX58_computational
+bigDataUrl DDX58_computational.bigBed
+shortLabel DDX58 binding sites
+longLabel DDX58 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DDX58 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PSI_computational
+bigDataUrl PSI_computational.bigBed
+shortLabel PSI binding sites
+longLabel PSI binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PSI binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZFP36L2_computational
+bigDataUrl ZFP36L2_computational.bigBed
+shortLabel ZFP36L2 binding sites
+longLabel ZFP36L2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZFP36L2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track U2AF50_computational
+bigDataUrl U2AF50_computational.bigBed
+shortLabel U2AF50 binding sites
+longLabel U2AF50 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of U2AF50 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF3_computational
+bigDataUrl SRSF3_computational.bigBed
+shortLabel SRSF3 binding sites
+longLabel SRSF3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PTBP2_computational
+bigDataUrl PTBP2_computational.bigBed
+shortLabel PTBP2 binding sites
+longLabel PTBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PTBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TARDBP_mut__computational
+bigDataUrl TARDBP_mut__computational.bigBed
+shortLabel TARDBP_mut_ binding sites
+longLabel TARDBP_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TARDBP_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ACO1_computational
+bigDataUrl ACO1_computational.bigBed
+shortLabel ACO1 binding sites
+longLabel ACO1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ACO1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SUS_computational
+bigDataUrl SUS_computational.bigBed
+shortLabel SUS binding sites
+longLabel SUS binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SUS binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RNASEL_computational
+bigDataUrl RNASEL_computational.bigBed
+shortLabel RNASEL binding sites
+longLabel RNASEL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RNASEL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MXT_computational
+bigDataUrl MXT_computational.bigBed
+shortLabel MXT binding sites
+longLabel MXT binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MXT binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HFP_computational
+bigDataUrl HFP_computational.bigBed
+shortLabel HFP binding sites
+longLabel HFP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HFP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPK_computational
+bigDataUrl HNRNPK_computational.bigBed
+shortLabel HNRNPK binding sites
+longLabel HNRNPK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPA1_HRB87F_mut__computational
+bigDataUrl HNRNPA1_HRB87F_mut__computational.bigBed
+shortLabel HNRNPA1_HRB87F_mut_ binding sites
+longLabel HNRNPA1_HRB87F_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA1_HRB87F_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track DHX58_computational
+bigDataUrl DHX58_computational.bigBed
+shortLabel DHX58 binding sites
+longLabel DHX58 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DHX58 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM14_RBM14-RBM4_computational
+bigDataUrl RBM14_RBM14-RBM4_computational.bigBed
+shortLabel RBM14_RBM14-RBM4 binding sites
+longLabel RBM14_RBM14-RBM4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM14_RBM14-RBM4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRP54_SRP54K_computational
+bigDataUrl SRP54_SRP54K_computational.bigBed
+shortLabel SRP54_SRP54K binding sites
+longLabel SRP54_SRP54K binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP54_SRP54K binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SFPQ_LOC654780_computational
+bigDataUrl SFPQ_LOC654780_computational.bigBed
+shortLabel SFPQ_LOC654780 binding sites
+longLabel SFPQ_LOC654780 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SFPQ_LOC654780 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPH2_mut__computational
+bigDataUrl HNRNPH2_mut__computational.bigBed
+shortLabel HNRNPH2_mut_ binding sites
+longLabel HNRNPH2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF6_computational
+bigDataUrl SRSF6_computational.bigBed
+shortLabel SRSF6 binding sites
+longLabel SRSF6 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF6 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SYNCRIP_computational
+bigDataUrl SYNCRIP_computational.bigBed
+shortLabel SYNCRIP binding sites
+longLabel SYNCRIP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SYNCRIP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TRA2A_computational
+bigDataUrl TRA2A_computational.bigBed
+shortLabel TRA2A binding sites
+longLabel TRA2A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NONO_computational
+bigDataUrl NONO_computational.bigBed
+shortLabel NONO binding sites
+longLabel NONO binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NONO binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPA1_HRB87F_computational
+bigDataUrl HNRNPA1_HRB87F_computational.bigBed
+shortLabel HNRNPA1_HRB87F binding sites
+longLabel HNRNPA1_HRB87F binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA1_HRB87F binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track DAZAP1_mut__computational
+bigDataUrl DAZAP1_mut__computational.bigBed
+shortLabel DAZAP1_mut_ binding sites
+longLabel DAZAP1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DAZAP1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TUT1_computational
+bigDataUrl TUT1_computational.bigBed
+shortLabel TUT1 binding sites
+longLabel TUT1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TUT1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PPIE_computational
+bigDataUrl PPIE_computational.bigBed
+shortLabel PPIE binding sites
+longLabel PPIE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PPIE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track AUF1_computational
+bigDataUrl AUF1_computational.bigBed
+shortLabel AUF1 binding sites
+longLabel AUF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AUF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPK_computational
+bigDataUrl HNRNPK_computational.bigBed
+shortLabel HNRNPK binding sites
+longLabel HNRNPK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM3_computational
+bigDataUrl RBM3_computational.bigBed
+shortLabel RBM3 binding sites
+longLabel RBM3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZCRB1_computational
+bigDataUrl ZCRB1_computational.bigBed
+shortLabel ZCRB1 binding sites
+longLabel ZCRB1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZCRB1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM4_LARK_computational
+bigDataUrl RBM4_LARK_computational.bigBed
+shortLabel RBM4_LARK binding sites
+longLabel RBM4_LARK binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM4_LARK binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track FMR1_FRAXA_FMR1-IT1_computational
+bigDataUrl FMR1_FRAXA_FMR1-IT1_computational.bigBed
+shortLabel FMR1_FRAXA_FMR1-IT1 binding sites
+longLabel FMR1_FRAXA_FMR1-IT1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FMR1_FRAXA_FMR1-IT1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track YTHDC1_computational
+bigDataUrl YTHDC1_computational.bigBed
+shortLabel YTHDC1 binding sites
+longLabel YTHDC1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YTHDC1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SNRPA_computational
+bigDataUrl SNRPA_computational.bigBed
+shortLabel SNRPA binding sites
+longLabel SNRPA binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SNRPA binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track QKI_computational
+bigDataUrl QKI_computational.bigBed
+shortLabel QKI binding sites
+longLabel QKI binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of QKI binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF5_computational
+bigDataUrl SRSF5_computational.bigBed
+shortLabel SRSF5 binding sites
+longLabel SRSF5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track REF2_REF2P_computational
+bigDataUrl REF2_REF2P_computational.bigBed
+shortLabel REF2_REF2P binding sites
+longLabel REF2_REF2P binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of REF2_REF2P binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TRA2B_computational
+bigDataUrl TRA2B_computational.bigBed
+shortLabel TRA2B binding sites
+longLabel TRA2B binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2B binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track KHDRBS3_computational
+bigDataUrl KHDRBS3_computational.bigBed
+shortLabel KHDRBS3 binding sites
+longLabel KHDRBS3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHDRBS3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPAB_computational
+bigDataUrl HNRNPAB_computational.bigBed
+shortLabel HNRNPAB binding sites
+longLabel HNRNPAB binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPAB binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM6_computational
+bigDataUrl RBM6_computational.bigBed
+shortLabel RBM6 binding sites
+longLabel RBM6 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM6 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SSB_MTSSB_computational
+bigDataUrl SSB_MTSSB_computational.bigBed
+shortLabel SSB_MTSSB binding sites
+longLabel SSB_MTSSB binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SSB_MTSSB binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPM_computational
+bigDataUrl HNRNPM_computational.bigBed
+shortLabel HNRNPM binding sites
+longLabel HNRNPM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZNF638_computational
+bigDataUrl ZNF638_computational.bigBed
+shortLabel ZNF638 binding sites
+longLabel ZNF638 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZNF638 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPH3_mut__computational
+bigDataUrl HNRNPH3_mut__computational.bigBed
+shortLabel HNRNPH3_mut_ binding sites
+longLabel HNRNPH3_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH3_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track KHSRP_computational
+bigDataUrl KHSRP_computational.bigBed
+shortLabel KHSRP binding sites
+longLabel KHSRP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHSRP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MUC1_MYOD1_PUM_computational
+bigDataUrl MUC1_MYOD1_PUM_computational.bigBed
+shortLabel MUC1_MYOD1_PUM binding sites
+longLabel MUC1_MYOD1_PUM binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MUC1_MYOD1_PUM binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM28_computational
+bigDataUrl RBM28_computational.bigBed
+shortLabel RBM28 binding sites
+longLabel RBM28 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM28 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRP68_computational
+bigDataUrl SRP68_computational.bigBed
+shortLabel SRP68 binding sites
+longLabel SRP68 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP68 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPA0_computational
+bigDataUrl HNRNPA0_computational.bigBed
+shortLabel HNRNPA0 binding sites
+longLabel HNRNPA0 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA0 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPF_mut__computational
+bigDataUrl HNRNPF_mut__computational.bigBed
+shortLabel HNRNPF_mut_ binding sites
+longLabel HNRNPF_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPF_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PTBP1_computational
+bigDataUrl PTBP1_computational.bigBed
+shortLabel PTBP1 binding sites
+longLabel PTBP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PTBP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PAPI_computational
+bigDataUrl PAPI_computational.bigBed
+shortLabel PAPI binding sites
+longLabel PAPI binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PAPI binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM46_computational
+bigDataUrl RBM46_computational.bigBed
+shortLabel RBM46 binding sites
+longLabel RBM46 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM46 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPDL_computational
+bigDataUrl HNRNPDL_computational.bigBed
+shortLabel HNRNPDL binding sites
+longLabel HNRNPDL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPDL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ORB2_computational
+bigDataUrl ORB2_computational.bigBed
+shortLabel ORB2 binding sites
+longLabel ORB2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ORB2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RALY_computational
+bigDataUrl RALY_computational.bigBed
+shortLabel RALY binding sites
+longLabel RALY binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RALY binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ESRP2_computational
+bigDataUrl ESRP2_computational.bigBed
+shortLabel ESRP2 binding sites
+longLabel ESRP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ESRP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CELF6_computational
+bigDataUrl CELF6_computational.bigBed
+shortLabel CELF6 binding sites
+longLabel CELF6 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF6 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track IGHMBP2_computational
+bigDataUrl IGHMBP2_computational.bigBed
+shortLabel IGHMBP2 binding sites
+longLabel IGHMBP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IGHMBP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track YBX1_mut__computational
+bigDataUrl YBX1_mut__computational.bigBed
+shortLabel YBX1_mut_ binding sites
+longLabel YBX1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track AGO1_computational
+bigDataUrl AGO1_computational.bigBed
+shortLabel AGO1 binding sites
+longLabel AGO1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of AGO1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CG7903_computational
+bigDataUrl CG7903_computational.bigBed
+shortLabel CG7903 binding sites
+longLabel CG7903 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG7903 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HRB27C_computational
+bigDataUrl HRB27C_computational.bigBed
+shortLabel HRB27C binding sites
+longLabel HRB27C binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HRB27C binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SAMD4A_computational
+bigDataUrl SAMD4A_computational.bigBed
+shortLabel SAMD4A binding sites
+longLabel SAMD4A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SAMD4A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPU_computational
+bigDataUrl HNRNPU_computational.bigBed
+shortLabel HNRNPU binding sites
+longLabel HNRNPU binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPU binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MOD_MODMDG4_RSD_computational
+bigDataUrl MOD_MODMDG4_RSD_computational.bigBed
+shortLabel MOD_MODMDG4_RSD binding sites
+longLabel MOD_MODMDG4_RSD binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MOD_MODMDG4_RSD binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PUM2_computational
+bigDataUrl PUM2_computational.bigBed
+shortLabel PUM2 binding sites
+longLabel PUM2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PUM2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CNOT4_computational
+bigDataUrl CNOT4_computational.bigBed
+shortLabel CNOT4 binding sites
+longLabel CNOT4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CNOT4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPH2_computational
+bigDataUrl HNRNPH2_computational.bigBed
+shortLabel HNRNPH2 binding sites
+longLabel HNRNPH2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RC3H1_computational
+bigDataUrl RC3H1_computational.bigBed
+shortLabel RC3H1 binding sites
+longLabel RC3H1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RC3H1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ADAR_computational
+bigDataUrl ADAR_computational.bigBed
+shortLabel ADAR binding sites
+longLabel ADAR binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ADAR binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBMS3_computational
+bigDataUrl RBMS3_computational.bigBed
+shortLabel RBMS3 binding sites
+longLabel RBMS3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMS3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track EIF2S1_EIF2ALPHA_computational
+bigDataUrl EIF2S1_EIF2ALPHA_computational.bigBed
+shortLabel EIF2S1_EIF2ALPHA binding sites
+longLabel EIF2S1_EIF2ALPHA binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of EIF2S1_EIF2ALPHA binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track DHX9_computational
+bigDataUrl DHX9_computational.bigBed
+shortLabel DHX9 binding sites
+longLabel DHX9 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DHX9 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF2_mut__computational
+bigDataUrl SRSF2_mut__computational.bigBed
+shortLabel SRSF2_mut_ binding sites
+longLabel SRSF2_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF2_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track FXR1_computational
+bigDataUrl FXR1_computational.bigBed
+shortLabel FXR1 binding sites
+longLabel FXR1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FXR1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MSI1_computational
+bigDataUrl MSI1_computational.bigBed
+shortLabel MSI1 binding sites
+longLabel MSI1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MSI1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPC_mut__computational
+bigDataUrl HNRNPC_mut__computational.bigBed
+shortLabel HNRNPC_mut_ binding sites
+longLabel HNRNPC_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPC_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPL_computational
+bigDataUrl HNRNPL_computational.bigBed
+shortLabel HNRNPL binding sites
+longLabel HNRNPL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track DAZAP1_computational
+bigDataUrl DAZAP1_computational.bigBed
+shortLabel DAZAP1 binding sites
+longLabel DAZAP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of DAZAP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MSI_ADGF-A2_computational
+bigDataUrl MSI_ADGF-A2_computational.bigBed
+shortLabel MSI_ADGF-A2 binding sites
+longLabel MSI_ADGF-A2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MSI_ADGF-A2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track IFIH1_computational
+bigDataUrl IFIH1_computational.bigBed
+shortLabel IFIH1 binding sites
+longLabel IFIH1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of IFIH1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track VTS1_computational
+bigDataUrl VTS1_computational.bigBed
+shortLabel VTS1 binding sites
+longLabel VTS1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of VTS1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SXL_computational
+bigDataUrl SXL_computational.bigBed
+shortLabel SXL binding sites
+longLabel SXL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SXL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF1_computational
+bigDataUrl SRSF1_computational.bigBed
+shortLabel SRSF1 binding sites
+longLabel SRSF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TRA2B_mut__computational
+bigDataUrl TRA2B_mut__computational.bigBed
+shortLabel TRA2B_mut_ binding sites
+longLabel TRA2B_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2B_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PCBP1_computational
+bigDataUrl PCBP1_computational.bigBed
+shortLabel PCBP1 binding sites
+longLabel PCBP1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PCBP1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ARID4A_RBP1_NGR1_SGN1_FPR1_computational
+bigDataUrl ARID4A_RBP1_NGR1_SGN1_FPR1_computational.bigBed
+shortLabel ARID4A_RBP1_NGR1_SGN1_FPR1 binding sites
+longLabel ARID4A_RBP1_NGR1_SGN1_FPR1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ARID4A_RBP1_NGR1_SGN1_FPR1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPLL_computational
+bigDataUrl HNRNPLL_computational.bigBed
+shortLabel HNRNPLL binding sites
+longLabel HNRNPLL binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPLL binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track XPO5_computational
+bigDataUrl XPO5_computational.bigBed
+shortLabel XPO5 binding sites
+longLabel XPO5 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of XPO5 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NR5A1_SF1_mut__computational
+bigDataUrl NR5A1_SF1_mut__computational.bigBed
+shortLabel NR5A1_SF1_mut_ binding sites
+longLabel NR5A1_SF1_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NR5A1_SF1_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HRB98DE_computational
+bigDataUrl HRB98DE_computational.bigBed
+shortLabel HRB98DE binding sites
+longLabel HRB98DE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HRB98DE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZRANB2_computational
+bigDataUrl ZRANB2_computational.bigBed
+shortLabel ZRANB2 binding sites
+longLabel ZRANB2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZRANB2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBFOX2_computational
+bigDataUrl RBFOX2_computational.bigBed
+shortLabel RBFOX2 binding sites
+longLabel RBFOX2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBFOX2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NOVA1_PS_computational
+bigDataUrl NOVA1_PS_computational.bigBed
+shortLabel NOVA1_PS binding sites
+longLabel NOVA1_PS binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NOVA1_PS binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track NXF1_SBR_computational
+bigDataUrl NXF1_SBR_computational.bigBed
+shortLabel NXF1_SBR binding sites
+longLabel NXF1_SBR binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of NXF1_SBR binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRP14_computational
+bigDataUrl SRP14_computational.bigBed
+shortLabel SRP14 binding sites
+longLabel SRP14 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRP14 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TRA2_computational
+bigDataUrl TRA2_computational.bigBed
+shortLabel TRA2 binding sites
+longLabel TRA2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TRA2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ROX8_computational
+bigDataUrl ROX8_computational.bigBed
+shortLabel ROX8 binding sites
+longLabel ROX8 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ROX8 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBP1-LIKE_X16_computational
+bigDataUrl RBP1-LIKE_X16_computational.bigBed
+shortLabel RBP1-LIKE_X16 binding sites
+longLabel RBP1-LIKE_X16 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBP1-LIKE_X16 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBM42_computational
+bigDataUrl RBM42_computational.bigBed
+shortLabel RBM42 binding sites
+longLabel RBM42 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBM42 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZFP36_computational
+bigDataUrl ZFP36_computational.bigBed
+shortLabel ZFP36 binding sites
+longLabel ZFP36 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZFP36 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track KHDRBS2_computational
+bigDataUrl KHDRBS2_computational.bigBed
+shortLabel KHDRBS2 binding sites
+longLabel KHDRBS2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of KHDRBS2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SRSF4_computational
+bigDataUrl SRSF4_computational.bigBed
+shortLabel SRSF4 binding sites
+longLabel SRSF4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SRSF4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SHEP_computational
+bigDataUrl SHEP_computational.bigBed
+shortLabel SHEP binding sites
+longLabel SHEP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SHEP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track LIN28A_computational
+bigDataUrl LIN28A_computational.bigBed
+shortLabel LIN28A binding sites
+longLabel LIN28A binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of LIN28A binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPA1L2_computational
+bigDataUrl HNRNPA1L2_computational.bigBed
+shortLabel HNRNPA1L2 binding sites
+longLabel HNRNPA1L2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA1L2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CELF2_computational
+bigDataUrl CELF2_computational.bigBed
+shortLabel CELF2 binding sites
+longLabel CELF2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CELF2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ELAVL4_computational
+bigDataUrl ELAVL4_computational.bigBed
+shortLabel ELAVL4 binding sites
+longLabel ELAVL4 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL4 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ZNF346_computational
+bigDataUrl ZNF346_computational.bigBed
+shortLabel ZNF346 binding sites
+longLabel ZNF346 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ZNF346 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PIWIL1_computational
+bigDataUrl PIWIL1_computational.bigBed
+shortLabel PIWIL1 binding sites
+longLabel PIWIL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PIWIL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CG2931_computational
+bigDataUrl CG2931_computational.bigBed
+shortLabel CG2931 binding sites
+longLabel CG2931 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CG2931 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPH3_computational
+bigDataUrl HNRNPH3_computational.bigBed
+shortLabel HNRNPH3 binding sites
+longLabel HNRNPH3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPH3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBMY1A1_RBMY1D_computational
+bigDataUrl RBMY1A1_RBMY1D_computational.bigBed
+shortLabel RBMY1A1_RBMY1D binding sites
+longLabel RBMY1A1_RBMY1D binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMY1A1_RBMY1D binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track FNE_computational
+bigDataUrl FNE_computational.bigBed
+shortLabel FNE binding sites
+longLabel FNE binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of FNE binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPF_computational
+bigDataUrl HNRNPF_computational.bigBed
+shortLabel HNRNPF binding sites
+longLabel HNRNPF binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPF binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track PABPC3_computational
+bigDataUrl PABPC3_computational.bigBed
+shortLabel PABPC3 binding sites
+longLabel PABPC3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of PABPC3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TARDBP_computational
+bigDataUrl TARDBP_computational.bigBed
+shortLabel TARDBP binding sites
+longLabel TARDBP binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TARDBP binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track QKI_mut__computational
+bigDataUrl QKI_mut__computational.bigBed
+shortLabel QKI_mut_ binding sites
+longLabel QKI_mut_ binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of QKI_mut_ binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RSF1_computational
+bigDataUrl RSF1_computational.bigBed
+shortLabel RSF1 binding sites
+longLabel RSF1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RSF1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track YBX1_computational
+bigDataUrl YBX1_computational.bigBed
+shortLabel YBX1 binding sites
+longLabel YBX1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of YBX1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track ELAVL1_computational
+bigDataUrl ELAVL1_computational.bigBed
+shortLabel ELAVL1 binding sites
+longLabel ELAVL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of ELAVL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track MATR3_computational
+bigDataUrl MATR3_computational.bigBed
+shortLabel MATR3 binding sites
+longLabel MATR3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of MATR3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track G3BP2_computational
+bigDataUrl G3BP2_computational.bigBed
+shortLabel G3BP2 binding sites
+longLabel G3BP2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of G3BP2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPA2B1_computational
+bigDataUrl HNRNPA2B1_computational.bigBed
+shortLabel HNRNPA2B1 binding sites
+longLabel HNRNPA2B1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPA2B1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track F2_EEF1ALPHA2_L2F2_computational
+bigDataUrl F2_EEF1ALPHA2_L2F2_computational.bigBed
+shortLabel F2_EEF1ALPHA2_L2F2 binding sites
+longLabel F2_EEF1ALPHA2_L2F2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of F2_EEF1ALPHA2_L2F2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track BRU3_computational
+bigDataUrl BRU3_computational.bigBed
+shortLabel BRU3 binding sites
+longLabel BRU3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of BRU3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track HNRNPC_computational
+bigDataUrl HNRNPC_computational.bigBed
+shortLabel HNRNPC binding sites
+longLabel HNRNPC binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of HNRNPC binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track CPEB2_computational
+bigDataUrl CPEB2_computational.bigBed
+shortLabel CPEB2 binding sites
+longLabel CPEB2 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of CPEB2 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track TIAL1_computational
+bigDataUrl TIAL1_computational.bigBed
+shortLabel TIAL1 binding sites
+longLabel TIAL1 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of TIAL1 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track RBMX_computational
+bigDataUrl RBMX_computational.bigBed
+shortLabel RBMX binding sites
+longLabel RBMX binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of RBMX binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed
+
+track SART3_computational
+bigDataUrl SART3_computational.bigBed
+shortLabel SART3 binding sites
+longLabel SART3 binding sites on Neat1 and Malat1 as determined by computational analysis of the presence of SART3 binding motifon Neat1 and Malat1, as determined by databases: RBPDB, RBPMap, and Attract
+type bigBed

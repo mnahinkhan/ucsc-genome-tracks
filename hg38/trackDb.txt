@@ -1,7 +1,7 @@
 track LIN28A_experimental
 bigDataUrl LIN28A_experimental.bigBed
 shortLabel LIN28A_exp
-longLabel Experimenally verified binding sites of LIN28A
+longLabel Computationally generated binding sites of LIN28A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -10,7 +10,7 @@ spectrum on
 track PUM2_experimental
 bigDataUrl PUM2_experimental.bigBed
 shortLabel PUM2_exp
-longLabel Experimenally verified binding sites of PUM2
+longLabel Computationally generated binding sites of PUM2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -19,7 +19,7 @@ spectrum on
 track TARDBP_experimental
 bigDataUrl TARDBP_experimental.bigBed
 shortLabel TARDBP_exp
-longLabel Experimenally verified binding sites of TARDBP
+longLabel Computationally generated binding sites of TARDBP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -28,7 +28,7 @@ spectrum on
 track ELAVL1_experimental
 bigDataUrl ELAVL1_experimental.bigBed
 shortLabel ELAVL1_exp
-longLabel Experimenally verified binding sites of ELAVL1
+longLabel Computationally generated binding sites of ELAVL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -37,7 +37,7 @@ spectrum on
 track AUF1-UNFILTERED_experimental
 bigDataUrl AUF1-UNFILTERED_experimental.bigBed
 shortLabel AUF1-UNFILTERED_exp
-longLabel Experimenally verified binding sites of AUF1-UNFILTERED
+longLabel Computationally generated binding sites of AUF1-UNFILTERED
 type bigBed 9
 visibility dense
 itemRgb on
@@ -46,7 +46,7 @@ spectrum on
 track FIP1L1_experimental
 bigDataUrl FIP1L1_experimental.bigBed
 shortLabel FIP1L1_exp
-longLabel Experimenally verified binding sites of FIP1L1
+longLabel Computationally generated binding sites of FIP1L1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -55,7 +55,7 @@ spectrum on
 track SRSF9_experimental
 bigDataUrl SRSF9_experimental.bigBed
 shortLabel SRSF9_exp
-longLabel Experimenally verified binding sites of SRSF9
+longLabel Computationally generated binding sites of SRSF9
 type bigBed 9
 visibility hide
 itemRgb on
@@ -64,7 +64,7 @@ spectrum on
 track CPSF6_experimental
 bigDataUrl CPSF6_experimental.bigBed
 shortLabel CPSF6_exp
-longLabel Experimenally verified binding sites of CPSF6
+longLabel Computationally generated binding sites of CPSF6
 type bigBed 9
 visibility hide
 itemRgb on
@@ -73,7 +73,7 @@ spectrum on
 track DKC1_experimental
 bigDataUrl DKC1_experimental.bigBed
 shortLabel DKC1_exp
-longLabel Experimenally verified binding sites of DKC1
+longLabel Computationally generated binding sites of DKC1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -82,7 +82,7 @@ spectrum on
 track DDX6_experimental
 bigDataUrl DDX6_experimental.bigBed
 shortLabel DDX6_exp
-longLabel Experimenally verified binding sites of DDX6
+longLabel Computationally generated binding sites of DDX6
 type bigBed 9
 visibility hide
 itemRgb on
@@ -91,7 +91,7 @@ spectrum on
 track DHX30_experimental
 bigDataUrl DHX30_experimental.bigBed
 shortLabel DHX30_exp
-longLabel Experimenally verified binding sites of DHX30
+longLabel Computationally generated binding sites of DHX30
 type bigBed 9
 visibility hide
 itemRgb on
@@ -100,7 +100,7 @@ spectrum on
 track NUDT21_experimental
 bigDataUrl NUDT21_experimental.bigBed
 shortLabel NUDT21_exp
-longLabel Experimenally verified binding sites of NUDT21
+longLabel Computationally generated binding sites of NUDT21
 type bigBed 9
 visibility hide
 itemRgb on
@@ -109,7 +109,7 @@ spectrum on
 track UPF1_experimental
 bigDataUrl UPF1_experimental.bigBed
 shortLabel UPF1_exp
-longLabel Experimenally verified binding sites of UPF1
+longLabel Computationally generated binding sites of UPF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -118,7 +118,7 @@ spectrum on
 track RPS5_experimental
 bigDataUrl RPS5_experimental.bigBed
 shortLabel RPS5_exp
-longLabel Experimenally verified binding sites of RPS5
+longLabel Computationally generated binding sites of RPS5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -127,7 +127,7 @@ spectrum on
 track ATXN2_experimental
 bigDataUrl ATXN2_experimental.bigBed
 shortLabel ATXN2_exp
-longLabel Experimenally verified binding sites of ATXN2
+longLabel Computationally generated binding sites of ATXN2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -136,7 +136,7 @@ spectrum on
 track PCBP2_experimental
 bigDataUrl PCBP2_experimental.bigBed
 shortLabel PCBP2_exp
-longLabel Experimenally verified binding sites of PCBP2
+longLabel Computationally generated binding sites of PCBP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -145,7 +145,7 @@ spectrum on
 track HNRNPU_experimental
 bigDataUrl HNRNPU_experimental.bigBed
 shortLabel HNRNPU_exp
-longLabel Experimenally verified binding sites of HNRNPU
+longLabel Computationally generated binding sites of HNRNPU
 type bigBed 9
 visibility dense
 itemRgb on
@@ -154,7 +154,7 @@ spectrum on
 track UCHL5_experimental
 bigDataUrl UCHL5_experimental.bigBed
 shortLabel UCHL5_exp
-longLabel Experimenally verified binding sites of UCHL5
+longLabel Computationally generated binding sites of UCHL5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -163,7 +163,7 @@ spectrum on
 track LARP4_experimental
 bigDataUrl LARP4_experimental.bigBed
 shortLabel LARP4_exp
-longLabel Experimenally verified binding sites of LARP4
+longLabel Computationally generated binding sites of LARP4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -172,7 +172,7 @@ spectrum on
 track FMR1_experimental
 bigDataUrl FMR1_experimental.bigBed
 shortLabel FMR1_exp
-longLabel Experimenally verified binding sites of FMR1
+longLabel Computationally generated binding sites of FMR1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -181,7 +181,7 @@ spectrum on
 track ZRANB2_experimental
 bigDataUrl ZRANB2_experimental.bigBed
 shortLabel ZRANB2_exp
-longLabel Experimenally verified binding sites of ZRANB2
+longLabel Computationally generated binding sites of ZRANB2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -190,7 +190,7 @@ spectrum on
 track KHSRP_experimental
 bigDataUrl KHSRP_experimental.bigBed
 shortLabel KHSRP_exp
-longLabel Experimenally verified binding sites of KHSRP
+longLabel Computationally generated binding sites of KHSRP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -199,7 +199,7 @@ spectrum on
 track GTF2F1_experimental
 bigDataUrl GTF2F1_experimental.bigBed
 shortLabel GTF2F1_exp
-longLabel Experimenally verified binding sites of GTF2F1
+longLabel Computationally generated binding sites of GTF2F1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -208,7 +208,7 @@ spectrum on
 track NOP58_experimental
 bigDataUrl NOP58_experimental.bigBed
 shortLabel NOP58_exp
-longLabel Experimenally verified binding sites of NOP58
+longLabel Computationally generated binding sites of NOP58
 type bigBed 9
 visibility hide
 itemRgb on
@@ -217,7 +217,7 @@ spectrum on
 track WDR33_experimental
 bigDataUrl WDR33_experimental.bigBed
 shortLabel WDR33_exp
-longLabel Experimenally verified binding sites of WDR33
+longLabel Computationally generated binding sites of WDR33
 type bigBed 9
 visibility hide
 itemRgb on
@@ -226,7 +226,7 @@ spectrum on
 track CPSF1_experimental
 bigDataUrl CPSF1_experimental.bigBed
 shortLabel CPSF1_exp
-longLabel Experimenally verified binding sites of CPSF1
+longLabel Computationally generated binding sites of CPSF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -235,7 +235,7 @@ spectrum on
 track EIF3G_experimental
 bigDataUrl EIF3G_experimental.bigBed
 shortLabel EIF3G_exp
-longLabel Experimenally verified binding sites of EIF3G
+longLabel Computationally generated binding sites of EIF3G
 type bigBed 9
 visibility hide
 itemRgb on
@@ -244,7 +244,7 @@ spectrum on
 track XRCC6_experimental
 bigDataUrl XRCC6_experimental.bigBed
 shortLabel XRCC6_exp
-longLabel Experimenally verified binding sites of XRCC6
+longLabel Computationally generated binding sites of XRCC6
 type bigBed 9
 visibility hide
 itemRgb on
@@ -253,7 +253,7 @@ spectrum on
 track WTAP_experimental
 bigDataUrl WTAP_experimental.bigBed
 shortLabel WTAP_exp
-longLabel Experimenally verified binding sites of WTAP
+longLabel Computationally generated binding sites of WTAP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -262,7 +262,7 @@ spectrum on
 track BCCIP_experimental
 bigDataUrl BCCIP_experimental.bigBed
 shortLabel BCCIP_exp
-longLabel Experimenally verified binding sites of BCCIP
+longLabel Computationally generated binding sites of BCCIP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -271,7 +271,7 @@ spectrum on
 track QKI_experimental
 bigDataUrl QKI_experimental.bigBed
 shortLabel QKI_exp
-longLabel Experimenally verified binding sites of QKI
+longLabel Computationally generated binding sites of QKI
 type bigBed 9
 visibility hide
 itemRgb on
@@ -280,7 +280,7 @@ spectrum on
 track METAP2_experimental
 bigDataUrl METAP2_experimental.bigBed
 shortLabel METAP2_exp
-longLabel Experimenally verified binding sites of METAP2
+longLabel Computationally generated binding sites of METAP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -289,7 +289,7 @@ spectrum on
 track AGGF1_experimental
 bigDataUrl AGGF1_experimental.bigBed
 shortLabel AGGF1_exp
-longLabel Experimenally verified binding sites of AGGF1
+longLabel Computationally generated binding sites of AGGF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -298,7 +298,7 @@ spectrum on
 track XRN2_experimental
 bigDataUrl XRN2_experimental.bigBed
 shortLabel XRN2_exp
-longLabel Experimenally verified binding sites of XRN2
+longLabel Computationally generated binding sites of XRN2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -307,7 +307,7 @@ spectrum on
 track GNL3_experimental
 bigDataUrl GNL3_experimental.bigBed
 shortLabel GNL3_exp
-longLabel Experimenally verified binding sites of GNL3
+longLabel Computationally generated binding sites of GNL3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -316,7 +316,7 @@ spectrum on
 track DGCR8_experimental
 bigDataUrl DGCR8_experimental.bigBed
 shortLabel DGCR8_exp
-longLabel Experimenally verified binding sites of DGCR8
+longLabel Computationally generated binding sites of DGCR8
 type bigBed 9
 visibility hide
 itemRgb on
@@ -325,7 +325,7 @@ spectrum on
 track PTBP1_experimental
 bigDataUrl PTBP1_experimental.bigBed
 shortLabel PTBP1_exp
-longLabel Experimenally verified binding sites of PTBP1
+longLabel Computationally generated binding sites of PTBP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -334,7 +334,7 @@ spectrum on
 track TBRG4_experimental
 bigDataUrl TBRG4_experimental.bigBed
 shortLabel TBRG4_exp
-longLabel Experimenally verified binding sites of TBRG4
+longLabel Computationally generated binding sites of TBRG4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -343,7 +343,7 @@ spectrum on
 track EIF4G2_experimental
 bigDataUrl EIF4G2_experimental.bigBed
 shortLabel EIF4G2_exp
-longLabel Experimenally verified binding sites of EIF4G2
+longLabel Computationally generated binding sites of EIF4G2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -352,7 +352,7 @@ spectrum on
 track PPIL4_experimental
 bigDataUrl PPIL4_experimental.bigBed
 shortLabel PPIL4_exp
-longLabel Experimenally verified binding sites of PPIL4
+longLabel Computationally generated binding sites of PPIL4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -361,7 +361,7 @@ spectrum on
 track FBL_experimental
 bigDataUrl FBL_experimental.bigBed
 shortLabel FBL_exp
-longLabel Experimenally verified binding sites of FBL
+longLabel Computationally generated binding sites of FBL
 type bigBed 9
 visibility hide
 itemRgb on
@@ -370,7 +370,7 @@ spectrum on
 track IGF2BP1_experimental
 bigDataUrl IGF2BP1_experimental.bigBed
 shortLabel IGF2BP1_exp
-longLabel Experimenally verified binding sites of IGF2BP1
+longLabel Computationally generated binding sites of IGF2BP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -379,7 +379,7 @@ spectrum on
 track RBM15_experimental
 bigDataUrl RBM15_experimental.bigBed
 shortLabel RBM15_exp
-longLabel Experimenally verified binding sites of RBM15
+longLabel Computationally generated binding sites of RBM15
 type bigBed 9
 visibility hide
 itemRgb on
@@ -388,7 +388,7 @@ spectrum on
 track MOV10_experimental
 bigDataUrl MOV10_experimental.bigBed
 shortLabel MOV10_exp
-longLabel Experimenally verified binding sites of MOV10
+longLabel Computationally generated binding sites of MOV10
 type bigBed 9
 visibility hide
 itemRgb on
@@ -397,7 +397,7 @@ spectrum on
 track HNRNPC_experimental
 bigDataUrl HNRNPC_experimental.bigBed
 shortLabel HNRNPC_exp
-longLabel Experimenally verified binding sites of HNRNPC
+longLabel Computationally generated binding sites of HNRNPC
 type bigBed 9
 visibility dense
 itemRgb on
@@ -406,7 +406,7 @@ spectrum on
 track METTL14_experimental
 bigDataUrl METTL14_experimental.bigBed
 shortLabel METTL14_exp
-longLabel Experimenally verified binding sites of METTL14
+longLabel Computationally generated binding sites of METTL14
 type bigBed 9
 visibility hide
 itemRgb on
@@ -415,7 +415,7 @@ spectrum on
 track AUF1_experimental
 bigDataUrl AUF1_experimental.bigBed
 shortLabel AUF1_exp
-longLabel Experimenally verified binding sites of AUF1
+longLabel Computationally generated binding sites of AUF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -424,7 +424,7 @@ spectrum on
 track RBFOX2_experimental
 bigDataUrl RBFOX2_experimental.bigBed
 shortLabel RBFOX2_exp
-longLabel Experimenally verified binding sites of RBFOX2
+longLabel Computationally generated binding sites of RBFOX2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -433,7 +433,7 @@ spectrum on
 track TARBP2_experimental
 bigDataUrl TARBP2_experimental.bigBed
 shortLabel TARBP2_exp
-longLabel Experimenally verified binding sites of TARBP2
+longLabel Computationally generated binding sites of TARBP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -442,7 +442,7 @@ spectrum on
 track SMNDC1_experimental
 bigDataUrl SMNDC1_experimental.bigBed
 shortLabel SMNDC1_exp
-longLabel Experimenally verified binding sites of SMNDC1
+longLabel Computationally generated binding sites of SMNDC1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -451,7 +451,7 @@ spectrum on
 track HNRNPH1_experimental
 bigDataUrl HNRNPH1_experimental.bigBed
 shortLabel HNRNPH1_exp
-longLabel Experimenally verified binding sites of HNRNPH1
+longLabel Computationally generated binding sites of HNRNPH1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -460,7 +460,7 @@ spectrum on
 track SFPQ_experimental
 bigDataUrl SFPQ_experimental.bigBed
 shortLabel SFPQ_exp
-longLabel Experimenally verified binding sites of SFPQ
+longLabel Computationally generated binding sites of SFPQ
 type bigBed 9
 visibility hide
 itemRgb on
@@ -469,7 +469,7 @@ spectrum on
 track U2AF1_experimental
 bigDataUrl U2AF1_experimental.bigBed
 shortLabel U2AF1_exp
-longLabel Experimenally verified binding sites of U2AF1
+longLabel Computationally generated binding sites of U2AF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -478,7 +478,7 @@ spectrum on
 track MTPAP_experimental
 bigDataUrl MTPAP_experimental.bigBed
 shortLabel MTPAP_exp
-longLabel Experimenally verified binding sites of MTPAP
+longLabel Computationally generated binding sites of MTPAP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -487,7 +487,7 @@ spectrum on
 track HNRNPD_experimental
 bigDataUrl HNRNPD_experimental.bigBed
 shortLabel HNRNPD_exp
-longLabel Experimenally verified binding sites of HNRNPD
+longLabel Computationally generated binding sites of HNRNPD
 type bigBed 9
 visibility hide
 itemRgb on
@@ -496,7 +496,7 @@ spectrum on
 track RBM27_experimental
 bigDataUrl RBM27_experimental.bigBed
 shortLabel RBM27_exp
-longLabel Experimenally verified binding sites of RBM27
+longLabel Computationally generated binding sites of RBM27
 type bigBed 9
 visibility hide
 itemRgb on
@@ -505,7 +505,7 @@ spectrum on
 track YTHDC1_experimental
 bigDataUrl YTHDC1_experimental.bigBed
 shortLabel YTHDC1_exp
-longLabel Experimenally verified binding sites of YTHDC1
+longLabel Computationally generated binding sites of YTHDC1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -514,7 +514,7 @@ spectrum on
 track CPSF7_experimental
 bigDataUrl CPSF7_experimental.bigBed
 shortLabel CPSF7_exp
-longLabel Experimenally verified binding sites of CPSF7
+longLabel Computationally generated binding sites of CPSF7
 type bigBed 9
 visibility hide
 itemRgb on
@@ -523,7 +523,7 @@ spectrum on
 track PUS1_experimental
 bigDataUrl PUS1_experimental.bigBed
 shortLabel PUS1_exp
-longLabel Experimenally verified binding sites of PUS1
+longLabel Computationally generated binding sites of PUS1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -532,7 +532,7 @@ spectrum on
 track ALKBH1_experimental
 bigDataUrl ALKBH1_experimental.bigBed
 shortLabel ALKBH1_exp
-longLabel Experimenally verified binding sites of ALKBH1
+longLabel Computationally generated binding sites of ALKBH1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -541,7 +541,7 @@ spectrum on
 track NPM1_experimental
 bigDataUrl NPM1_experimental.bigBed
 shortLabel NPM1_exp
-longLabel Experimenally verified binding sites of NPM1
+longLabel Computationally generated binding sites of NPM1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -550,7 +550,7 @@ spectrum on
 track FAM120A_experimental
 bigDataUrl FAM120A_experimental.bigBed
 shortLabel FAM120A_exp
-longLabel Experimenally verified binding sites of FAM120A
+longLabel Computationally generated binding sites of FAM120A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -559,7 +559,7 @@ spectrum on
 track HNRNPUL1_experimental
 bigDataUrl HNRNPUL1_experimental.bigBed
 shortLabel HNRNPUL1_exp
-longLabel Experimenally verified binding sites of HNRNPUL1
+longLabel Computationally generated binding sites of HNRNPUL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -568,7 +568,7 @@ spectrum on
 track RPS11_experimental
 bigDataUrl RPS11_experimental.bigBed
 shortLabel RPS11_exp
-longLabel Experimenally verified binding sites of RPS11
+longLabel Computationally generated binding sites of RPS11
 type bigBed 9
 visibility hide
 itemRgb on
@@ -577,7 +577,7 @@ spectrum on
 track RBPMS_experimental
 bigDataUrl RBPMS_experimental.bigBed
 shortLabel RBPMS_exp
-longLabel Experimenally verified binding sites of RBPMS
+longLabel Computationally generated binding sites of RBPMS
 type bigBed 9
 visibility hide
 itemRgb on
@@ -586,7 +586,7 @@ spectrum on
 track SF3B1_experimental
 bigDataUrl SF3B1_experimental.bigBed
 shortLabel SF3B1_exp
-longLabel Experimenally verified binding sites of SF3B1
+longLabel Computationally generated binding sites of SF3B1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -595,7 +595,7 @@ spectrum on
 track HNRNPA2B1_experimental
 bigDataUrl HNRNPA2B1_experimental.bigBed
 shortLabel HNRNPA2B1_exp
-longLabel Experimenally verified binding sites of HNRNPA2B1
+longLabel Computationally generated binding sites of HNRNPA2B1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -604,7 +604,7 @@ spectrum on
 track YTHDF1_experimental
 bigDataUrl YTHDF1_experimental.bigBed
 shortLabel YTHDF1_exp
-longLabel Experimenally verified binding sites of YTHDF1
+longLabel Computationally generated binding sites of YTHDF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -613,7 +613,7 @@ spectrum on
 track DDX3X_experimental
 bigDataUrl DDX3X_experimental.bigBed
 shortLabel DDX3X_exp
-longLabel Experimenally verified binding sites of DDX3X
+longLabel Computationally generated binding sites of DDX3X
 type bigBed 9
 visibility hide
 itemRgb on
@@ -622,7 +622,7 @@ spectrum on
 track PRPF8_experimental
 bigDataUrl PRPF8_experimental.bigBed
 shortLabel PRPF8_exp
-longLabel Experimenally verified binding sites of PRPF8
+longLabel Computationally generated binding sites of PRPF8
 type bigBed 9
 visibility hide
 itemRgb on
@@ -631,7 +631,7 @@ spectrum on
 track LARP7_experimental
 bigDataUrl LARP7_experimental.bigBed
 shortLabel LARP7_exp
-longLabel Experimenally verified binding sites of LARP7
+longLabel Computationally generated binding sites of LARP7
 type bigBed 9
 visibility hide
 itemRgb on
@@ -640,7 +640,7 @@ spectrum on
 track NCBP2_experimental
 bigDataUrl NCBP2_experimental.bigBed
 shortLabel NCBP2_exp
-longLabel Experimenally verified binding sites of NCBP2
+longLabel Computationally generated binding sites of NCBP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -649,7 +649,7 @@ spectrum on
 track GEMIN5_experimental
 bigDataUrl GEMIN5_experimental.bigBed
 shortLabel GEMIN5_exp
-longLabel Experimenally verified binding sites of GEMIN5
+longLabel Computationally generated binding sites of GEMIN5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -658,7 +658,7 @@ spectrum on
 track SF3B4_experimental
 bigDataUrl SF3B4_experimental.bigBed
 shortLabel SF3B4_exp
-longLabel Experimenally verified binding sites of SF3B4
+longLabel Computationally generated binding sites of SF3B4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -667,7 +667,7 @@ spectrum on
 track RBM47_experimental
 bigDataUrl RBM47_experimental.bigBed
 shortLabel RBM47_exp
-longLabel Experimenally verified binding sites of RBM47
+longLabel Computationally generated binding sites of RBM47
 type bigBed 9
 visibility hide
 itemRgb on
@@ -676,7 +676,7 @@ spectrum on
 track HLTF_experimental
 bigDataUrl HLTF_experimental.bigBed
 shortLabel HLTF_exp
-longLabel Experimenally verified binding sites of HLTF
+longLabel Computationally generated binding sites of HLTF
 type bigBed 9
 visibility hide
 itemRgb on
@@ -685,7 +685,7 @@ spectrum on
 track NKRF_experimental
 bigDataUrl NKRF_experimental.bigBed
 shortLabel NKRF_exp
-longLabel Experimenally verified binding sites of NKRF
+longLabel Computationally generated binding sites of NKRF
 type bigBed 9
 visibility hide
 itemRgb on
@@ -694,7 +694,7 @@ spectrum on
 track HNRNPM_experimental
 bigDataUrl HNRNPM_experimental.bigBed
 shortLabel HNRNPM_exp
-longLabel Experimenally verified binding sites of HNRNPM
+longLabel Computationally generated binding sites of HNRNPM
 type bigBed 9
 visibility hide
 itemRgb on
@@ -703,7 +703,7 @@ spectrum on
 track CDC40_experimental
 bigDataUrl CDC40_experimental.bigBed
 shortLabel CDC40_exp
-longLabel Experimenally verified binding sites of CDC40
+longLabel Computationally generated binding sites of CDC40
 type bigBed 9
 visibility hide
 itemRgb on
@@ -712,7 +712,7 @@ spectrum on
 track EIF3D_experimental
 bigDataUrl EIF3D_experimental.bigBed
 shortLabel EIF3D_exp
-longLabel Experimenally verified binding sites of EIF3D
+longLabel Computationally generated binding sites of EIF3D
 type bigBed 9
 visibility hide
 itemRgb on
@@ -721,7 +721,7 @@ spectrum on
 track IGF2BP3_experimental
 bigDataUrl IGF2BP3_experimental.bigBed
 shortLabel IGF2BP3_exp
-longLabel Experimenally verified binding sites of IGF2BP3
+longLabel Computationally generated binding sites of IGF2BP3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -730,7 +730,7 @@ spectrum on
 track EIF3H_experimental
 bigDataUrl EIF3H_experimental.bigBed
 shortLabel EIF3H_exp
-longLabel Experimenally verified binding sites of EIF3H
+longLabel Computationally generated binding sites of EIF3H
 type bigBed 9
 visibility hide
 itemRgb on
@@ -739,7 +739,7 @@ spectrum on
 track SRSF1_experimental
 bigDataUrl SRSF1_experimental.bigBed
 shortLabel SRSF1_exp
-longLabel Experimenally verified binding sites of SRSF1
+longLabel Computationally generated binding sites of SRSF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -748,7 +748,7 @@ spectrum on
 track RBM22_experimental
 bigDataUrl RBM22_experimental.bigBed
 shortLabel RBM22_exp
-longLabel Experimenally verified binding sites of RBM22
+longLabel Computationally generated binding sites of RBM22
 type bigBed 9
 visibility hide
 itemRgb on
@@ -757,7 +757,7 @@ spectrum on
 track KHDRBS1_experimental
 bigDataUrl KHDRBS1_experimental.bigBed
 shortLabel KHDRBS1_exp
-longLabel Experimenally verified binding sites of KHDRBS1
+longLabel Computationally generated binding sites of KHDRBS1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -766,7 +766,7 @@ spectrum on
 track CPSF2_experimental
 bigDataUrl CPSF2_experimental.bigBed
 shortLabel CPSF2_exp
-longLabel Experimenally verified binding sites of CPSF2
+longLabel Computationally generated binding sites of CPSF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -775,7 +775,7 @@ spectrum on
 track DDX42_experimental
 bigDataUrl DDX42_experimental.bigBed
 shortLabel DDX42_exp
-longLabel Experimenally verified binding sites of DDX42
+longLabel Computationally generated binding sites of DDX42
 type bigBed 9
 visibility hide
 itemRgb on
@@ -784,7 +784,7 @@ spectrum on
 track YWHAG_experimental
 bigDataUrl YWHAG_experimental.bigBed
 shortLabel YWHAG_exp
-longLabel Experimenally verified binding sites of YWHAG
+longLabel Computationally generated binding sites of YWHAG
 type bigBed 9
 visibility hide
 itemRgb on
@@ -793,7 +793,7 @@ spectrum on
 track RBM10_experimental
 bigDataUrl RBM10_experimental.bigBed
 shortLabel RBM10_exp
-longLabel Experimenally verified binding sites of RBM10
+longLabel Computationally generated binding sites of RBM10
 type bigBed 9
 visibility hide
 itemRgb on
@@ -802,7 +802,7 @@ spectrum on
 track TIA1_experimental
 bigDataUrl TIA1_experimental.bigBed
 shortLabel TIA1_exp
-longLabel Experimenally verified binding sites of TIA1
+longLabel Computationally generated binding sites of TIA1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -811,7 +811,7 @@ spectrum on
 track FTO_experimental
 bigDataUrl FTO_experimental.bigBed
 shortLabel FTO_exp
-longLabel Experimenally verified binding sites of FTO
+longLabel Computationally generated binding sites of FTO
 type bigBed 9
 visibility hide
 itemRgb on
@@ -820,7 +820,7 @@ spectrum on
 track RBM15B_experimental
 bigDataUrl RBM15B_experimental.bigBed
 shortLabel RBM15B_exp
-longLabel Experimenally verified binding sites of RBM15B
+longLabel Computationally generated binding sites of RBM15B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -829,7 +829,7 @@ spectrum on
 track LIN28B_experimental
 bigDataUrl LIN28B_experimental.bigBed
 shortLabel LIN28B_exp
-longLabel Experimenally verified binding sites of LIN28B
+longLabel Computationally generated binding sites of LIN28B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -838,7 +838,7 @@ spectrum on
 track ZNF622_experimental
 bigDataUrl ZNF622_experimental.bigBed
 shortLabel ZNF622_exp
-longLabel Experimenally verified binding sites of ZNF622
+longLabel Computationally generated binding sites of ZNF622
 type bigBed 9
 visibility hide
 itemRgb on
@@ -847,7 +847,7 @@ spectrum on
 track HNRNPF_experimental
 bigDataUrl HNRNPF_experimental.bigBed
 shortLabel HNRNPF_exp
-longLabel Experimenally verified binding sites of HNRNPF
+longLabel Computationally generated binding sites of HNRNPF
 type bigBed 9
 visibility dense
 itemRgb on
@@ -856,7 +856,7 @@ spectrum on
 track CNBP_experimental
 bigDataUrl CNBP_experimental.bigBed
 shortLabel CNBP_exp
-longLabel Experimenally verified binding sites of CNBP
+longLabel Computationally generated binding sites of CNBP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -865,7 +865,7 @@ spectrum on
 track MBNL2_experimental
 bigDataUrl MBNL2_experimental.bigBed
 shortLabel MBNL2_exp
-longLabel Experimenally verified binding sites of MBNL2
+longLabel Computationally generated binding sites of MBNL2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -874,7 +874,7 @@ spectrum on
 track SLTM_experimental
 bigDataUrl SLTM_experimental.bigBed
 shortLabel SLTM_exp
-longLabel Experimenally verified binding sites of SLTM
+longLabel Computationally generated binding sites of SLTM
 type bigBed 9
 visibility hide
 itemRgb on
@@ -883,7 +883,7 @@ spectrum on
 track NONO_experimental
 bigDataUrl NONO_experimental.bigBed
 shortLabel NONO_exp
-longLabel Experimenally verified binding sites of NONO
+longLabel Computationally generated binding sites of NONO
 type bigBed 9
 visibility hide
 itemRgb on
@@ -892,7 +892,7 @@ spectrum on
 track HNRNPK-CUSTOM_experimental
 bigDataUrl HNRNPK-CUSTOM_experimental.bigBed
 shortLabel HNRNPK-CUSTOM_exp
-longLabel Experimenally verified binding sites of HNRNPK-CUSTOM
+longLabel Computationally generated binding sites of HNRNPK-CUSTOM
 type bigBed 9
 visibility hide
 itemRgb on
@@ -901,7 +901,7 @@ spectrum on
 track YTHDF3_experimental
 bigDataUrl YTHDF3_experimental.bigBed
 shortLabel YTHDF3_exp
-longLabel Experimenally verified binding sites of YTHDF3
+longLabel Computationally generated binding sites of YTHDF3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -910,7 +910,7 @@ spectrum on
 track STAU1_experimental
 bigDataUrl STAU1_experimental.bigBed
 shortLabel STAU1_exp
-longLabel Experimenally verified binding sites of STAU1
+longLabel Computationally generated binding sites of STAU1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -919,7 +919,7 @@ spectrum on
 track CAPRIN1_experimental
 bigDataUrl CAPRIN1_experimental.bigBed
 shortLabel CAPRIN1_exp
-longLabel Experimenally verified binding sites of CAPRIN1
+longLabel Computationally generated binding sites of CAPRIN1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -928,7 +928,7 @@ spectrum on
 track METTL3_experimental
 bigDataUrl METTL3_experimental.bigBed
 shortLabel METTL3_exp
-longLabel Experimenally verified binding sites of METTL3
+longLabel Computationally generated binding sites of METTL3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -937,7 +937,7 @@ spectrum on
 track AKAP8L_experimental
 bigDataUrl AKAP8L_experimental.bigBed
 shortLabel AKAP8L_exp
-longLabel Experimenally verified binding sites of AKAP8L
+longLabel Computationally generated binding sites of AKAP8L
 type bigBed 9
 visibility hide
 itemRgb on
@@ -946,7 +946,7 @@ spectrum on
 track HNRNPA1_experimental
 bigDataUrl HNRNPA1_experimental.bigBed
 shortLabel HNRNPA1_exp
-longLabel Experimenally verified binding sites of HNRNPA1
+longLabel Computationally generated binding sites of HNRNPA1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -955,7 +955,7 @@ spectrum on
 track SLBP_experimental
 bigDataUrl SLBP_experimental.bigBed
 shortLabel SLBP_exp
-longLabel Experimenally verified binding sites of SLBP
+longLabel Computationally generated binding sites of SLBP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -964,7 +964,7 @@ spectrum on
 track SAFB2_experimental
 bigDataUrl SAFB2_experimental.bigBed
 shortLabel SAFB2_exp
-longLabel Experimenally verified binding sites of SAFB2
+longLabel Computationally generated binding sites of SAFB2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -973,7 +973,7 @@ spectrum on
 track EIF3B_experimental
 bigDataUrl EIF3B_experimental.bigBed
 shortLabel EIF3B_exp
-longLabel Experimenally verified binding sites of EIF3B
+longLabel Computationally generated binding sites of EIF3B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -982,7 +982,7 @@ spectrum on
 track SRSF7_experimental
 bigDataUrl SRSF7_experimental.bigBed
 shortLabel SRSF7_exp
-longLabel Experimenally verified binding sites of SRSF7
+longLabel Computationally generated binding sites of SRSF7
 type bigBed 9
 visibility hide
 itemRgb on
@@ -991,7 +991,7 @@ spectrum on
 track YTHDC2_experimental
 bigDataUrl YTHDC2_experimental.bigBed
 shortLabel YTHDC2_exp
-longLabel Experimenally verified binding sites of YTHDC2
+longLabel Computationally generated binding sites of YTHDC2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1000,7 +1000,7 @@ spectrum on
 track SERBP1_experimental
 bigDataUrl SERBP1_experimental.bigBed
 shortLabel SERBP1_exp
-longLabel Experimenally verified binding sites of SERBP1
+longLabel Computationally generated binding sites of SERBP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1009,7 +1009,7 @@ spectrum on
 track CPSF4_experimental
 bigDataUrl CPSF4_experimental.bigBed
 shortLabel CPSF4_exp
-longLabel Experimenally verified binding sites of CPSF4
+longLabel Computationally generated binding sites of CPSF4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1018,7 +1018,7 @@ spectrum on
 track U2AF2_experimental
 bigDataUrl U2AF2_experimental.bigBed
 shortLabel U2AF2_exp
-longLabel Experimenally verified binding sites of U2AF2
+longLabel Computationally generated binding sites of U2AF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1027,7 +1027,7 @@ spectrum on
 track HNRNPK_experimental
 bigDataUrl HNRNPK_experimental.bigBed
 shortLabel HNRNPK_exp
-longLabel Experimenally verified binding sites of HNRNPK
+longLabel Computationally generated binding sites of HNRNPK
 type bigBed 9
 visibility dense
 itemRgb on
@@ -1036,7 +1036,7 @@ spectrum on
 track EIF4A3_experimental
 bigDataUrl EIF4A3_experimental.bigBed
 shortLabel EIF4A3_exp
-longLabel Experimenally verified binding sites of EIF4A3
+longLabel Computationally generated binding sites of EIF4A3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1045,7 +1045,7 @@ spectrum on
 track FUBP3_experimental
 bigDataUrl FUBP3_experimental.bigBed
 shortLabel FUBP3_exp
-longLabel Experimenally verified binding sites of FUBP3
+longLabel Computationally generated binding sites of FUBP3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1054,7 +1054,7 @@ spectrum on
 track DROSHA_experimental
 bigDataUrl DROSHA_experimental.bigBed
 shortLabel DROSHA_exp
-longLabel Experimenally verified binding sites of DROSHA
+longLabel Computationally generated binding sites of DROSHA
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1063,7 +1063,7 @@ spectrum on
 track YTHDF2_experimental
 bigDataUrl YTHDF2_experimental.bigBed
 shortLabel YTHDF2_exp
-longLabel Experimenally verified binding sites of YTHDF2
+longLabel Computationally generated binding sites of YTHDF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1072,7 +1072,7 @@ spectrum on
 track LSM11_experimental
 bigDataUrl LSM11_experimental.bigBed
 shortLabel LSM11_exp
-longLabel Experimenally verified binding sites of LSM11
+longLabel Computationally generated binding sites of LSM11
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1081,7 +1081,7 @@ spectrum on
 track FUS_experimental
 bigDataUrl FUS_experimental.bigBed
 shortLabel FUS_exp
-longLabel Experimenally verified binding sites of FUS
+longLabel Computationally generated binding sites of FUS
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1090,7 +1090,7 @@ spectrum on
 track RBM5_experimental
 bigDataUrl RBM5_experimental.bigBed
 shortLabel RBM5_exp
-longLabel Experimenally verified binding sites of RBM5
+longLabel Computationally generated binding sites of RBM5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1099,7 +1099,7 @@ spectrum on
 track AARS_experimental
 bigDataUrl AARS_experimental.bigBed
 shortLabel AARS_exp
-longLabel Experimenally verified binding sites of AARS
+longLabel Computationally generated binding sites of AARS
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1108,7 +1108,7 @@ spectrum on
 track ZC3H7B_experimental
 bigDataUrl ZC3H7B_experimental.bigBed
 shortLabel ZC3H7B_exp
-longLabel Experimenally verified binding sites of ZC3H7B
+longLabel Computationally generated binding sites of ZC3H7B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1117,7 +1117,7 @@ spectrum on
 track TRA2A_experimental
 bigDataUrl TRA2A_experimental.bigBed
 shortLabel TRA2A_exp
-longLabel Experimenally verified binding sites of TRA2A
+longLabel Computationally generated binding sites of TRA2A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1126,7 +1126,7 @@ spectrum on
 track TAF15_experimental
 bigDataUrl TAF15_experimental.bigBed
 shortLabel TAF15_exp
-longLabel Experimenally verified binding sites of TAF15
+longLabel Computationally generated binding sites of TAF15
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1135,7 +1135,7 @@ spectrum on
 track CELF2_experimental
 bigDataUrl CELF2_experimental.bigBed
 shortLabel CELF2_exp
-longLabel Experimenally verified binding sites of CELF2
+longLabel Computationally generated binding sites of CELF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1144,7 +1144,7 @@ spectrum on
 track FASTKD2_experimental
 bigDataUrl FASTKD2_experimental.bigBed
 shortLabel FASTKD2_exp
-longLabel Experimenally verified binding sites of FASTKD2
+longLabel Computationally generated binding sites of FASTKD2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1153,7 +1153,7 @@ spectrum on
 track RTCB_experimental
 bigDataUrl RTCB_experimental.bigBed
 shortLabel RTCB_exp
-longLabel Experimenally verified binding sites of RTCB
+longLabel Computationally generated binding sites of RTCB
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1162,7 +1162,7 @@ spectrum on
 track NCBP3_experimental
 bigDataUrl NCBP3_experimental.bigBed
 shortLabel NCBP3_exp
-longLabel Experimenally verified binding sites of NCBP3
+longLabel Computationally generated binding sites of NCBP3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1171,7 +1171,7 @@ spectrum on
 track YBX1-CUSTOM_experimental
 bigDataUrl YBX1-CUSTOM_experimental.bigBed
 shortLabel YBX1-CUSTOM_exp
-longLabel Experimenally verified binding sites of YBX1-CUSTOM
+longLabel Computationally generated binding sites of YBX1-CUSTOM
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1180,7 +1180,7 @@ spectrum on
 track EWSR1_experimental
 bigDataUrl EWSR1_experimental.bigBed
 shortLabel EWSR1_exp
-longLabel Experimenally verified binding sites of EWSR1
+longLabel Computationally generated binding sites of EWSR1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1189,7 +1189,7 @@ spectrum on
 track TIAL1_experimental
 bigDataUrl TIAL1_experimental.bigBed
 shortLabel TIAL1_exp
-longLabel Experimenally verified binding sites of TIAL1
+longLabel Computationally generated binding sites of TIAL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1198,7 +1198,7 @@ spectrum on
 track SRRM4_experimental
 bigDataUrl SRRM4_experimental.bigBed
 shortLabel SRRM4_exp
-longLabel Experimenally verified binding sites of SRRM4
+longLabel Computationally generated binding sites of SRRM4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1207,7 +1207,7 @@ spectrum on
 track NOP56_experimental
 bigDataUrl NOP56_experimental.bigBed
 shortLabel NOP56_exp
-longLabel Experimenally verified binding sites of NOP56
+longLabel Computationally generated binding sites of NOP56
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1216,7 +1216,7 @@ spectrum on
 track CSTF2_experimental
 bigDataUrl CSTF2_experimental.bigBed
 shortLabel CSTF2_exp
-longLabel Experimenally verified binding sites of CSTF2
+longLabel Computationally generated binding sites of CSTF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1225,7 +1225,7 @@ spectrum on
 track CPSF3_experimental
 bigDataUrl CPSF3_experimental.bigBed
 shortLabel CPSF3_exp
-longLabel Experimenally verified binding sites of CPSF3
+longLabel Computationally generated binding sites of CPSF3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1234,7 +1234,7 @@ spectrum on
 track SSB_experimental
 bigDataUrl SSB_experimental.bigBed
 shortLabel SSB_exp
-longLabel Experimenally verified binding sites of SSB
+longLabel Computationally generated binding sites of SSB
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1243,7 +1243,7 @@ spectrum on
 track ALKBH5_experimental
 bigDataUrl ALKBH5_experimental.bigBed
 shortLabel ALKBH5_exp
-longLabel Experimenally verified binding sites of ALKBH5
+longLabel Computationally generated binding sites of ALKBH5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1252,7 +1252,7 @@ spectrum on
 track IGF2BP2_experimental
 bigDataUrl IGF2BP2_experimental.bigBed
 shortLabel IGF2BP2_exp
-longLabel Experimenally verified binding sites of IGF2BP2
+longLabel Computationally generated binding sites of IGF2BP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1261,7 +1261,7 @@ spectrum on
 track CSTF2T_experimental
 bigDataUrl CSTF2T_experimental.bigBed
 shortLabel CSTF2T_exp
-longLabel Experimenally verified binding sites of CSTF2T
+longLabel Computationally generated binding sites of CSTF2T
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1269,8 +1269,8 @@ spectrum on
 
 track YBX2_computational
 bigDataUrl YBX2_computational.bigBed
-shortLabel YBX2_exp
-longLabel Computationally generated binding sites of YBX2
+shortLabel YBX2_comp
+longLabel Experimenally verified binding sites of YBX2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1278,8 +1278,8 @@ spectrum on
 
 track ELAVL2_computational
 bigDataUrl ELAVL2_computational.bigBed
-shortLabel ELAVL2_exp
-longLabel Computationally generated binding sites of ELAVL2
+shortLabel ELAVL2_comp
+longLabel Experimenally verified binding sites of ELAVL2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1287,8 +1287,8 @@ spectrum on
 
 track RBM25_computational
 bigDataUrl RBM25_computational.bigBed
-shortLabel RBM25_exp
-longLabel Computationally generated binding sites of RBM25
+shortLabel RBM25_comp
+longLabel Experimenally verified binding sites of RBM25
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1296,8 +1296,8 @@ spectrum on
 
 track CG5213_computational
 bigDataUrl CG5213_computational.bigBed
-shortLabel CG5213_exp
-longLabel Computationally generated binding sites of CG5213
+shortLabel CG5213_comp
+longLabel Experimenally verified binding sites of CG5213
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1305,8 +1305,8 @@ spectrum on
 
 track SLIRP1_computational
 bigDataUrl SLIRP1_computational.bigBed
-shortLabel SLIRP1_exp
-longLabel Computationally generated binding sites of SLIRP1
+shortLabel SLIRP1_comp
+longLabel Experimenally verified binding sites of SLIRP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1314,8 +1314,8 @@ spectrum on
 
 track CELF4_computational
 bigDataUrl CELF4_computational.bigBed
-shortLabel CELF4_exp
-longLabel Computationally generated binding sites of CELF4
+shortLabel CELF4_comp
+longLabel Experimenally verified binding sites of CELF4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1323,8 +1323,8 @@ spectrum on
 
 track SM_SMK_computational
 bigDataUrl SM_SMK_computational.bigBed
-shortLabel SM_SMK_exp
-longLabel Computationally generated binding sites of SM_SMK
+shortLabel SM_SMK_comp
+longLabel Experimenally verified binding sites of SM_SMK
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1332,8 +1332,8 @@ spectrum on
 
 track CG14718_computational
 bigDataUrl CG14718_computational.bigBed
-shortLabel CG14718_exp
-longLabel Computationally generated binding sites of CG14718
+shortLabel CG14718_comp
+longLabel Experimenally verified binding sites of CG14718
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1341,8 +1341,8 @@ spectrum on
 
 track SRSF10_computational
 bigDataUrl SRSF10_computational.bigBed
-shortLabel SRSF10_exp
-longLabel Computationally generated binding sites of SRSF10
+shortLabel SRSF10_comp
+longLabel Experimenally verified binding sites of SRSF10
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1350,8 +1350,8 @@ spectrum on
 
 track CPEB1_computational
 bigDataUrl CPEB1_computational.bigBed
-shortLabel CPEB1_exp
-longLabel Computationally generated binding sites of CPEB1
+shortLabel CPEB1_comp
+longLabel Experimenally verified binding sites of CPEB1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1359,8 +1359,8 @@ spectrum on
 
 track DDX19B_computational
 bigDataUrl DDX19B_computational.bigBed
-shortLabel DDX19B_exp
-longLabel Computationally generated binding sites of DDX19B
+shortLabel DDX19B_comp
+longLabel Experimenally verified binding sites of DDX19B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1368,8 +1368,8 @@ spectrum on
 
 track ENOX1_computational
 bigDataUrl ENOX1_computational.bigBed
-shortLabel ENOX1_exp
-longLabel Computationally generated binding sites of ENOX1
+shortLabel ENOX1_comp
+longLabel Experimenally verified binding sites of ENOX1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1377,8 +1377,8 @@ spectrum on
 
 track MBNL1_computational
 bigDataUrl MBNL1_computational.bigBed
-shortLabel MBNL1_exp
-longLabel Computationally generated binding sites of MBNL1
+shortLabel MBNL1_comp
+longLabel Experimenally verified binding sites of MBNL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1386,8 +1386,8 @@ spectrum on
 
 track CELF1_computational
 bigDataUrl CELF1_computational.bigBed
-shortLabel CELF1_exp
-longLabel Computationally generated binding sites of CELF1
+shortLabel CELF1_comp
+longLabel Experimenally verified binding sites of CELF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1395,8 +1395,8 @@ spectrum on
 
 track CG11360_computational
 bigDataUrl CG11360_computational.bigBed
-shortLabel CG11360_exp
-longLabel Computationally generated binding sites of CG11360
+shortLabel CG11360_comp
+longLabel Experimenally verified binding sites of CG11360
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1404,8 +1404,8 @@ spectrum on
 
 track HNRNPCL1_computational
 bigDataUrl HNRNPCL1_computational.bigBed
-shortLabel HNRNPCL1_exp
-longLabel Computationally generated binding sites of HNRNPCL1
+shortLabel HNRNPCL1_comp
+longLabel Experimenally verified binding sites of HNRNPCL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1413,8 +1413,8 @@ spectrum on
 
 track SF3B4_computational
 bigDataUrl SF3B4_computational.bigBed
-shortLabel SF3B4_exp
-longLabel Computationally generated binding sites of SF3B4
+shortLabel SF3B4_comp
+longLabel Experimenally verified binding sites of SF3B4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1422,8 +1422,8 @@ spectrum on
 
 track CPOX_computational
 bigDataUrl CPOX_computational.bigBed
-shortLabel CPOX_exp
-longLabel Computationally generated binding sites of CPOX
+shortLabel CPOX_comp
+longLabel Experimenally verified binding sites of CPOX
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1431,8 +1431,8 @@ spectrum on
 
 track EIF4B_computational
 bigDataUrl EIF4B_computational.bigBed
-shortLabel EIF4B_exp
-longLabel Computationally generated binding sites of EIF4B
+shortLabel EIF4B_comp
+longLabel Experimenally verified binding sites of EIF4B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1440,8 +1440,8 @@ spectrum on
 
 track PABPC5_computational
 bigDataUrl PABPC5_computational.bigBed
-shortLabel PABPC5_exp
-longLabel Computationally generated binding sites of PABPC5
+shortLabel PABPC5_comp
+longLabel Experimenally verified binding sites of PABPC5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1449,8 +1449,8 @@ spectrum on
 
 track CMTR1_computational
 bigDataUrl CMTR1_computational.bigBed
-shortLabel CMTR1_exp
-longLabel Computationally generated binding sites of CMTR1
+shortLabel CMTR1_comp
+longLabel Experimenally verified binding sites of CMTR1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1458,8 +1458,8 @@ spectrum on
 
 track ERI1_computational
 bigDataUrl ERI1_computational.bigBed
-shortLabel ERI1_exp
-longLabel Computationally generated binding sites of ERI1
+shortLabel ERI1_comp
+longLabel Experimenally verified binding sites of ERI1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1467,8 +1467,8 @@ spectrum on
 
 track NOVA2_computational
 bigDataUrl NOVA2_computational.bigBed
-shortLabel NOVA2_exp
-longLabel Computationally generated binding sites of NOVA2
+shortLabel NOVA2_comp
+longLabel Experimenally verified binding sites of NOVA2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1476,8 +1476,8 @@ spectrum on
 
 track IGF2BP2_computational
 bigDataUrl IGF2BP2_computational.bigBed
-shortLabel IGF2BP2_exp
-longLabel Computationally generated binding sites of IGF2BP2
+shortLabel IGF2BP2_comp
+longLabel Experimenally verified binding sites of IGF2BP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1485,8 +1485,8 @@ spectrum on
 
 track U2AF2_computational
 bigDataUrl U2AF2_computational.bigBed
-shortLabel U2AF2_exp
-longLabel Computationally generated binding sites of U2AF2
+shortLabel U2AF2_comp
+longLabel Experimenally verified binding sites of U2AF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1494,8 +1494,8 @@ spectrum on
 
 track RBMS1_computational
 bigDataUrl RBMS1_computational.bigBed
-shortLabel RBMS1_exp
-longLabel Computationally generated binding sites of RBMS1
+shortLabel RBMS1_comp
+longLabel Experimenally verified binding sites of RBMS1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1503,8 +1503,8 @@ spectrum on
 
 track AGO2_CG43373_computational
 bigDataUrl AGO2_CG43373_computational.bigBed
-shortLabel AGO2_CG43373_exp
-longLabel Computationally generated binding sites of AGO2_CG43373
+shortLabel AGO2_CG43373_comp
+longLabel Experimenally verified binding sites of AGO2_CG43373
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1512,8 +1512,8 @@ spectrum on
 
 track NUDT21_computational
 bigDataUrl NUDT21_computational.bigBed
-shortLabel NUDT21_exp
-longLabel Computationally generated binding sites of NUDT21
+shortLabel NUDT21_comp
+longLabel Experimenally verified binding sites of NUDT21
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1521,8 +1521,8 @@ spectrum on
 
 track CPEB4_computational
 bigDataUrl CPEB4_computational.bigBed
-shortLabel CPEB4_exp
-longLabel Computationally generated binding sites of CPEB4
+shortLabel CPEB4_comp
+longLabel Experimenally verified binding sites of CPEB4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1530,8 +1530,8 @@ spectrum on
 
 track RBFOX2_mut__computational
 bigDataUrl RBFOX2_mut__computational.bigBed
-shortLabel RBFOX2_mut__exp
-longLabel Computationally generated binding sites of RBFOX2_mut_
+shortLabel RBFOX2_mut__comp
+longLabel Experimenally verified binding sites of RBFOX2_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1539,8 +1539,8 @@ spectrum on
 
 track CSTF2_computational
 bigDataUrl CSTF2_computational.bigBed
-shortLabel CSTF2_exp
-longLabel Computationally generated binding sites of CSTF2
+shortLabel CSTF2_comp
+longLabel Experimenally verified binding sites of CSTF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1548,8 +1548,8 @@ spectrum on
 
 track SUPV3L1_computational
 bigDataUrl SUPV3L1_computational.bigBed
-shortLabel SUPV3L1_exp
-longLabel Computationally generated binding sites of SUPV3L1
+shortLabel SUPV3L1_comp
+longLabel Experimenally verified binding sites of SUPV3L1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1557,8 +1557,8 @@ spectrum on
 
 track TIA1_computational
 bigDataUrl TIA1_computational.bigBed
-shortLabel TIA1_exp
-longLabel Computationally generated binding sites of TIA1
+shortLabel TIA1_comp
+longLabel Experimenally verified binding sites of TIA1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1566,8 +1566,8 @@ spectrum on
 
 track QKR58E-1_computational
 bigDataUrl QKR58E-1_computational.bigBed
-shortLabel QKR58E-1_exp
-longLabel Computationally generated binding sites of QKR58E-1
+shortLabel QKR58E-1_comp
+longLabel Experimenally verified binding sites of QKR58E-1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1575,8 +1575,8 @@ spectrum on
 
 track FUS_computational
 bigDataUrl FUS_computational.bigBed
-shortLabel FUS_exp
-longLabel Computationally generated binding sites of FUS
+shortLabel FUS_comp
+longLabel Experimenally verified binding sites of FUS
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1584,8 +1584,8 @@ spectrum on
 
 track RBFOX1_mut__computational
 bigDataUrl RBFOX1_mut__computational.bigBed
-shortLabel RBFOX1_mut__exp
-longLabel Computationally generated binding sites of RBFOX1_mut_
+shortLabel RBFOX1_mut__comp
+longLabel Experimenally verified binding sites of RBFOX1_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1593,8 +1593,8 @@ spectrum on
 
 track SRSF6_B52_computational
 bigDataUrl SRSF6_B52_computational.bigBed
-shortLabel SRSF6_B52_exp
-longLabel Computationally generated binding sites of SRSF6_B52
+shortLabel SRSF6_B52_comp
+longLabel Experimenally verified binding sites of SRSF6_B52
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1602,8 +1602,8 @@ spectrum on
 
 track RBM41_computational
 bigDataUrl RBM41_computational.bigBed
-shortLabel RBM41_exp
-longLabel Computationally generated binding sites of RBM41
+shortLabel RBM41_comp
+longLabel Experimenally verified binding sites of RBM41
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1611,8 +1611,8 @@ spectrum on
 
 track SNRNP-U1-70K_computational
 bigDataUrl SNRNP-U1-70K_computational.bigBed
-shortLabel SNRNP-U1-70K_exp
-longLabel Computationally generated binding sites of SNRNP-U1-70K
+shortLabel SNRNP-U1-70K_comp
+longLabel Experimenally verified binding sites of SNRNP-U1-70K
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1620,8 +1620,8 @@ spectrum on
 
 track SRSF1_SF2_mut__computational
 bigDataUrl SRSF1_SF2_mut__computational.bigBed
-shortLabel SRSF1_SF2_mut__exp
-longLabel Computationally generated binding sites of SRSF1_SF2_mut_
+shortLabel SRSF1_SF2_mut__comp
+longLabel Experimenally verified binding sites of SRSF1_SF2_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1629,8 +1629,8 @@ spectrum on
 
 track KHDRBS1_computational
 bigDataUrl KHDRBS1_computational.bigBed
-shortLabel KHDRBS1_exp
-longLabel Computationally generated binding sites of KHDRBS1
+shortLabel KHDRBS1_comp
+longLabel Experimenally verified binding sites of KHDRBS1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1638,8 +1638,8 @@ spectrum on
 
 track SRSF7_computational
 bigDataUrl SRSF7_computational.bigBed
-shortLabel SRSF7_exp
-longLabel Computationally generated binding sites of SRSF7
+shortLabel SRSF7_comp
+longLabel Experimenally verified binding sites of SRSF7
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1647,8 +1647,8 @@ spectrum on
 
 track RBM4_computational
 bigDataUrl RBM4_computational.bigBed
-shortLabel RBM4_exp
-longLabel Computationally generated binding sites of RBM4
+shortLabel RBM4_comp
+longLabel Experimenally verified binding sites of RBM4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1656,8 +1656,8 @@ spectrum on
 
 track FXR2_computational
 bigDataUrl FXR2_computational.bigBed
-shortLabel FXR2_exp
-longLabel Computationally generated binding sites of FXR2
+shortLabel FXR2_comp
+longLabel Experimenally verified binding sites of FXR2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1665,8 +1665,8 @@ spectrum on
 
 track A1CF_computational
 bigDataUrl A1CF_computational.bigBed
-shortLabel A1CF_exp
-longLabel Computationally generated binding sites of A1CF
+shortLabel A1CF_comp
+longLabel Experimenally verified binding sites of A1CF
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1674,8 +1674,8 @@ spectrum on
 
 track AKAP1_computational
 bigDataUrl AKAP1_computational.bigBed
-shortLabel AKAP1_exp
-longLabel Computationally generated binding sites of AKAP1
+shortLabel AKAP1_comp
+longLabel Experimenally verified binding sites of AKAP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1683,8 +1683,8 @@ spectrum on
 
 track EIF4A3_CG7483_computational
 bigDataUrl EIF4A3_CG7483_computational.bigBed
-shortLabel EIF4A3_CG7483_exp
-longLabel Computationally generated binding sites of EIF4A3_CG7483
+shortLabel EIF4A3_CG7483_comp
+longLabel Experimenally verified binding sites of EIF4A3_CG7483
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1692,8 +1692,8 @@ spectrum on
 
 track HRB87F_computational
 bigDataUrl HRB87F_computational.bigBed
-shortLabel HRB87F_exp
-longLabel Computationally generated binding sites of HRB87F
+shortLabel HRB87F_comp
+longLabel Experimenally verified binding sites of HRB87F
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1701,8 +1701,8 @@ spectrum on
 
 track PHAX_computational
 bigDataUrl PHAX_computational.bigBed
-shortLabel PHAX_exp
-longLabel Computationally generated binding sites of PHAX
+shortLabel PHAX_comp
+longLabel Experimenally verified binding sites of PHAX
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1710,8 +1710,8 @@ spectrum on
 
 track PPRC1_computational
 bigDataUrl PPRC1_computational.bigBed
-shortLabel PPRC1_exp
-longLabel Computationally generated binding sites of PPRC1
+shortLabel PPRC1_comp
+longLabel Experimenally verified binding sites of PPRC1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1719,8 +1719,8 @@ spectrum on
 
 track SRSF2_computational
 bigDataUrl SRSF2_computational.bigBed
-shortLabel SRSF2_exp
-longLabel Computationally generated binding sites of SRSF2
+shortLabel SRSF2_comp
+longLabel Experimenally verified binding sites of SRSF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1728,8 +1728,8 @@ spectrum on
 
 track HNRNPA2B1_mut__computational
 bigDataUrl HNRNPA2B1_mut__computational.bigBed
-shortLabel HNRNPA2B1_mut__exp
-longLabel Computationally generated binding sites of HNRNPA2B1_mut_
+shortLabel HNRNPA2B1_mut__comp
+longLabel Experimenally verified binding sites of HNRNPA2B1_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1737,8 +1737,8 @@ spectrum on
 
 track RBFOX1_computational
 bigDataUrl RBFOX1_computational.bigBed
-shortLabel RBFOX1_exp
-longLabel Computationally generated binding sites of RBFOX1
+shortLabel RBFOX1_comp
+longLabel Experimenally verified binding sites of RBFOX1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1746,8 +1746,8 @@ spectrum on
 
 track PCBP2_computational
 bigDataUrl PCBP2_computational.bigBed
-shortLabel PCBP2_exp
-longLabel Computationally generated binding sites of PCBP2
+shortLabel PCBP2_comp
+longLabel Experimenally verified binding sites of PCBP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1755,8 +1755,8 @@ spectrum on
 
 track CG7804_computational
 bigDataUrl CG7804_computational.bigBed
-shortLabel CG7804_exp
-longLabel Computationally generated binding sites of CG7804
+shortLabel CG7804_comp
+longLabel Experimenally verified binding sites of CG7804
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1764,8 +1764,8 @@ spectrum on
 
 track SYP_computational
 bigDataUrl SYP_computational.bigBed
-shortLabel SYP_exp
-longLabel Computationally generated binding sites of SYP
+shortLabel SYP_comp
+longLabel Experimenally verified binding sites of SYP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1773,8 +1773,8 @@ spectrum on
 
 track PABPC4_computational
 bigDataUrl PABPC4_computational.bigBed
-shortLabel PABPC4_exp
-longLabel Computationally generated binding sites of PABPC4
+shortLabel PABPC4_comp
+longLabel Experimenally verified binding sites of PABPC4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1782,8 +1782,8 @@ spectrum on
 
 track PUM1_computational
 bigDataUrl PUM1_computational.bigBed
-shortLabel PUM1_exp
-longLabel Computationally generated binding sites of PUM1
+shortLabel PUM1_comp
+longLabel Experimenally verified binding sites of PUM1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1791,8 +1791,8 @@ spectrum on
 
 track SRSF9_computational
 bigDataUrl SRSF9_computational.bigBed
-shortLabel SRSF9_exp
-longLabel Computationally generated binding sites of SRSF9
+shortLabel SRSF9_comp
+longLabel Experimenally verified binding sites of SRSF9
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1800,8 +1800,8 @@ spectrum on
 
 track HOW_computational
 bigDataUrl HOW_computational.bigBed
-shortLabel HOW_exp
-longLabel Computationally generated binding sites of HOW
+shortLabel HOW_comp
+longLabel Experimenally verified binding sites of HOW
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1809,8 +1809,8 @@ spectrum on
 
 track RBP9_computational
 bigDataUrl RBP9_computational.bigBed
-shortLabel RBP9_exp
-longLabel Computationally generated binding sites of RBP9
+shortLabel RBP9_comp
+longLabel Experimenally verified binding sites of RBP9
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1818,8 +1818,8 @@ spectrum on
 
 track IGF2BP3_computational
 bigDataUrl IGF2BP3_computational.bigBed
-shortLabel IGF2BP3_exp
-longLabel Computationally generated binding sites of IGF2BP3
+shortLabel IGF2BP3_comp
+longLabel Experimenally verified binding sites of IGF2BP3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1827,8 +1827,8 @@ spectrum on
 
 track HNRNPH1_mut__computational
 bigDataUrl HNRNPH1_mut__computational.bigBed
-shortLabel HNRNPH1_mut__exp
-longLabel Computationally generated binding sites of HNRNPH1_mut_
+shortLabel HNRNPH1_mut__comp
+longLabel Experimenally verified binding sites of HNRNPH1_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1836,8 +1836,8 @@ spectrum on
 
 track GRSF1_computational
 bigDataUrl GRSF1_computational.bigBed
-shortLabel GRSF1_exp
-longLabel Computationally generated binding sites of GRSF1
+shortLabel GRSF1_comp
+longLabel Experimenally verified binding sites of GRSF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1845,8 +1845,8 @@ spectrum on
 
 track HNRNPH1_computational
 bigDataUrl HNRNPH1_computational.bigBed
-shortLabel HNRNPH1_exp
-longLabel Computationally generated binding sites of HNRNPH1
+shortLabel HNRNPH1_comp
+longLabel Experimenally verified binding sites of HNRNPH1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1854,8 +1854,8 @@ spectrum on
 
 track PABPN1_PABP2_computational
 bigDataUrl PABPN1_PABP2_computational.bigBed
-shortLabel PABPN1_PABP2_exp
-longLabel Computationally generated binding sites of PABPN1_PABP2
+shortLabel PABPN1_PABP2_comp
+longLabel Experimenally verified binding sites of PABPN1_PABP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1863,8 +1863,8 @@ spectrum on
 
 track SRP19_computational
 bigDataUrl SRP19_computational.bigBed
-shortLabel SRP19_exp
-longLabel Computationally generated binding sites of SRP19
+shortLabel SRP19_comp
+longLabel Experimenally verified binding sites of SRP19
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1872,8 +1872,8 @@ spectrum on
 
 track HNRNPD_computational
 bigDataUrl HNRNPD_computational.bigBed
-shortLabel HNRNPD_exp
-longLabel Computationally generated binding sites of HNRNPD
+shortLabel HNRNPD_comp
+longLabel Experimenally verified binding sites of HNRNPD
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1881,8 +1881,8 @@ spectrum on
 
 track OAS1_computational
 bigDataUrl OAS1_computational.bigBed
-shortLabel OAS1_exp
-longLabel Computationally generated binding sites of OAS1
+shortLabel OAS1_comp
+longLabel Experimenally verified binding sites of OAS1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1890,8 +1890,8 @@ spectrum on
 
 track RBM24_computational
 bigDataUrl RBM24_computational.bigBed
-shortLabel RBM24_exp
-longLabel Computationally generated binding sites of RBM24
+shortLabel RBM24_comp
+longLabel Experimenally verified binding sites of RBM24
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1899,8 +1899,8 @@ spectrum on
 
 track ELAVL3_computational
 bigDataUrl ELAVL3_computational.bigBed
-shortLabel ELAVL3_exp
-longLabel Computationally generated binding sites of ELAVL3
+shortLabel ELAVL3_comp
+longLabel Experimenally verified binding sites of ELAVL3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1908,8 +1908,8 @@ spectrum on
 
 track SRSF1_SF2_computational
 bigDataUrl SRSF1_SF2_computational.bigBed
-shortLabel SRSF1_SF2_exp
-longLabel Computationally generated binding sites of SRSF1_SF2
+shortLabel SRSF1_SF2_comp
+longLabel Experimenally verified binding sites of SRSF1_SF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1917,8 +1917,8 @@ spectrum on
 
 track SNF_computational
 bigDataUrl SNF_computational.bigBed
-shortLabel SNF_exp
-longLabel Computationally generated binding sites of SNF
+shortLabel SNF_comp
+longLabel Experimenally verified binding sites of SNF
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1926,8 +1926,8 @@ spectrum on
 
 track ELAV_computational
 bigDataUrl ELAV_computational.bigBed
-shortLabel ELAV_exp
-longLabel Computationally generated binding sites of ELAV
+shortLabel ELAV_comp
+longLabel Experimenally verified binding sites of ELAV
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1935,8 +1935,8 @@ spectrum on
 
 track PABPC1_computational
 bigDataUrl PABPC1_computational.bigBed
-shortLabel PABPC1_exp
-longLabel Computationally generated binding sites of PABPC1
+shortLabel PABPC1_comp
+longLabel Experimenally verified binding sites of PABPC1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1944,8 +1944,8 @@ spectrum on
 
 track RIT2_RIN_computational
 bigDataUrl RIT2_RIN_computational.bigBed
-shortLabel RIT2_RIN_exp
-longLabel Computationally generated binding sites of RIT2_RIN
+shortLabel RIT2_RIN_comp
+longLabel Experimenally verified binding sites of RIT2_RIN
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1953,8 +1953,8 @@ spectrum on
 
 track BRU1_computational
 bigDataUrl BRU1_computational.bigBed
-shortLabel BRU1_exp
-longLabel Computationally generated binding sites of BRU1
+shortLabel BRU1_comp
+longLabel Experimenally verified binding sites of BRU1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1962,8 +1962,8 @@ spectrum on
 
 track ESRP1_computational
 bigDataUrl ESRP1_computational.bigBed
-shortLabel ESRP1_exp
-longLabel Computationally generated binding sites of ESRP1
+shortLabel ESRP1_comp
+longLabel Experimenally verified binding sites of ESRP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1971,8 +1971,8 @@ spectrum on
 
 track CELF5_computational
 bigDataUrl CELF5_computational.bigBed
-shortLabel CELF5_exp
-longLabel Computationally generated binding sites of CELF5
+shortLabel CELF5_comp
+longLabel Experimenally verified binding sites of CELF5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1980,8 +1980,8 @@ spectrum on
 
 track RBM8A_computational
 bigDataUrl RBM8A_computational.bigBed
-shortLabel RBM8A_exp
-longLabel Computationally generated binding sites of RBM8A
+shortLabel RBM8A_comp
+longLabel Experimenally verified binding sites of RBM8A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1989,8 +1989,8 @@ spectrum on
 
 track NR5A1_SF1_computational
 bigDataUrl NR5A1_SF1_computational.bigBed
-shortLabel NR5A1_SF1_exp
-longLabel Computationally generated binding sites of NR5A1_SF1
+shortLabel NR5A1_SF1_comp
+longLabel Experimenally verified binding sites of NR5A1_SF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -1998,8 +1998,8 @@ spectrum on
 
 track SRSF11_computational
 bigDataUrl SRSF11_computational.bigBed
-shortLabel SRSF11_exp
-longLabel Computationally generated binding sites of SRSF11
+shortLabel SRSF11_comp
+longLabel Experimenally verified binding sites of SRSF11
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2007,8 +2007,8 @@ spectrum on
 
 track UBL3_MUB_computational
 bigDataUrl UBL3_MUB_computational.bigBed
-shortLabel UBL3_MUB_exp
-longLabel Computationally generated binding sites of UBL3_MUB
+shortLabel UBL3_MUB_comp
+longLabel Experimenally verified binding sites of UBL3_MUB
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2016,8 +2016,8 @@ spectrum on
 
 track SNRNP70_computational
 bigDataUrl SNRNP70_computational.bigBed
-shortLabel SNRNP70_exp
-longLabel Computationally generated binding sites of SNRNP70
+shortLabel SNRNP70_comp
+longLabel Experimenally verified binding sites of SNRNP70
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2025,8 +2025,8 @@ spectrum on
 
 track RNP4F_computational
 bigDataUrl RNP4F_computational.bigBed
-shortLabel RNP4F_exp
-longLabel Computationally generated binding sites of RNP4F
+shortLabel RNP4F_comp
+longLabel Experimenally verified binding sites of RNP4F
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2034,8 +2034,8 @@ spectrum on
 
 track RBM5_computational
 bigDataUrl RBM5_computational.bigBed
-shortLabel RBM5_exp
-longLabel Computationally generated binding sites of RBM5
+shortLabel RBM5_comp
+longLabel Experimenally verified binding sites of RBM5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2043,8 +2043,8 @@ spectrum on
 
 track ZC3H10_computational
 bigDataUrl ZC3H10_computational.bigBed
-shortLabel ZC3H10_exp
-longLabel Computationally generated binding sites of ZC3H10
+shortLabel ZC3H10_comp
+longLabel Experimenally verified binding sites of ZC3H10
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2052,8 +2052,8 @@ spectrum on
 
 track DDX58_computational
 bigDataUrl DDX58_computational.bigBed
-shortLabel DDX58_exp
-longLabel Computationally generated binding sites of DDX58
+shortLabel DDX58_comp
+longLabel Experimenally verified binding sites of DDX58
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2061,8 +2061,8 @@ spectrum on
 
 track PSI_computational
 bigDataUrl PSI_computational.bigBed
-shortLabel PSI_exp
-longLabel Computationally generated binding sites of PSI
+shortLabel PSI_comp
+longLabel Experimenally verified binding sites of PSI
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2070,8 +2070,8 @@ spectrum on
 
 track ZFP36L2_computational
 bigDataUrl ZFP36L2_computational.bigBed
-shortLabel ZFP36L2_exp
-longLabel Computationally generated binding sites of ZFP36L2
+shortLabel ZFP36L2_comp
+longLabel Experimenally verified binding sites of ZFP36L2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2079,8 +2079,8 @@ spectrum on
 
 track U2AF50_computational
 bigDataUrl U2AF50_computational.bigBed
-shortLabel U2AF50_exp
-longLabel Computationally generated binding sites of U2AF50
+shortLabel U2AF50_comp
+longLabel Experimenally verified binding sites of U2AF50
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2088,8 +2088,8 @@ spectrum on
 
 track SRSF3_computational
 bigDataUrl SRSF3_computational.bigBed
-shortLabel SRSF3_exp
-longLabel Computationally generated binding sites of SRSF3
+shortLabel SRSF3_comp
+longLabel Experimenally verified binding sites of SRSF3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2097,8 +2097,8 @@ spectrum on
 
 track PTBP2_computational
 bigDataUrl PTBP2_computational.bigBed
-shortLabel PTBP2_exp
-longLabel Computationally generated binding sites of PTBP2
+shortLabel PTBP2_comp
+longLabel Experimenally verified binding sites of PTBP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2106,8 +2106,8 @@ spectrum on
 
 track TARDBP_mut__computational
 bigDataUrl TARDBP_mut__computational.bigBed
-shortLabel TARDBP_mut__exp
-longLabel Computationally generated binding sites of TARDBP_mut_
+shortLabel TARDBP_mut__comp
+longLabel Experimenally verified binding sites of TARDBP_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2115,8 +2115,8 @@ spectrum on
 
 track ACO1_computational
 bigDataUrl ACO1_computational.bigBed
-shortLabel ACO1_exp
-longLabel Computationally generated binding sites of ACO1
+shortLabel ACO1_comp
+longLabel Experimenally verified binding sites of ACO1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2124,8 +2124,8 @@ spectrum on
 
 track SUS_computational
 bigDataUrl SUS_computational.bigBed
-shortLabel SUS_exp
-longLabel Computationally generated binding sites of SUS
+shortLabel SUS_comp
+longLabel Experimenally verified binding sites of SUS
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2133,8 +2133,8 @@ spectrum on
 
 track RNASEL_computational
 bigDataUrl RNASEL_computational.bigBed
-shortLabel RNASEL_exp
-longLabel Computationally generated binding sites of RNASEL
+shortLabel RNASEL_comp
+longLabel Experimenally verified binding sites of RNASEL
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2142,8 +2142,8 @@ spectrum on
 
 track MXT_computational
 bigDataUrl MXT_computational.bigBed
-shortLabel MXT_exp
-longLabel Computationally generated binding sites of MXT
+shortLabel MXT_comp
+longLabel Experimenally verified binding sites of MXT
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2151,8 +2151,8 @@ spectrum on
 
 track HFP_computational
 bigDataUrl HFP_computational.bigBed
-shortLabel HFP_exp
-longLabel Computationally generated binding sites of HFP
+shortLabel HFP_comp
+longLabel Experimenally verified binding sites of HFP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2160,8 +2160,8 @@ spectrum on
 
 track HNRNPK_computational
 bigDataUrl HNRNPK_computational.bigBed
-shortLabel HNRNPK_exp
-longLabel Computationally generated binding sites of HNRNPK
+shortLabel HNRNPK_comp
+longLabel Experimenally verified binding sites of HNRNPK
 type bigBed 9
 visibility dense
 itemRgb on
@@ -2169,8 +2169,8 @@ spectrum on
 
 track HNRNPA1_HRB87F_mut__computational
 bigDataUrl HNRNPA1_HRB87F_mut__computational.bigBed
-shortLabel HNRNPA1_HRB87F_mut__exp
-longLabel Computationally generated binding sites of HNRNPA1_HRB87F_mut_
+shortLabel HNRNPA1_HRB87F_mut__comp
+longLabel Experimenally verified binding sites of HNRNPA1_HRB87F_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2178,8 +2178,8 @@ spectrum on
 
 track DHX58_computational
 bigDataUrl DHX58_computational.bigBed
-shortLabel DHX58_exp
-longLabel Computationally generated binding sites of DHX58
+shortLabel DHX58_comp
+longLabel Experimenally verified binding sites of DHX58
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2187,8 +2187,8 @@ spectrum on
 
 track RBM14_RBM14-RBM4_computational
 bigDataUrl RBM14_RBM14-RBM4_computational.bigBed
-shortLabel RBM14_RBM14-RBM4_exp
-longLabel Computationally generated binding sites of RBM14_RBM14-RBM4
+shortLabel RBM14_RBM14-RBM4_comp
+longLabel Experimenally verified binding sites of RBM14_RBM14-RBM4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2196,8 +2196,8 @@ spectrum on
 
 track SRP54_SRP54K_computational
 bigDataUrl SRP54_SRP54K_computational.bigBed
-shortLabel SRP54_SRP54K_exp
-longLabel Computationally generated binding sites of SRP54_SRP54K
+shortLabel SRP54_SRP54K_comp
+longLabel Experimenally verified binding sites of SRP54_SRP54K
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2205,8 +2205,8 @@ spectrum on
 
 track SFPQ_LOC654780_computational
 bigDataUrl SFPQ_LOC654780_computational.bigBed
-shortLabel SFPQ_LOC654780_exp
-longLabel Computationally generated binding sites of SFPQ_LOC654780
+shortLabel SFPQ_LOC654780_comp
+longLabel Experimenally verified binding sites of SFPQ_LOC654780
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2214,8 +2214,8 @@ spectrum on
 
 track HNRNPH2_mut__computational
 bigDataUrl HNRNPH2_mut__computational.bigBed
-shortLabel HNRNPH2_mut__exp
-longLabel Computationally generated binding sites of HNRNPH2_mut_
+shortLabel HNRNPH2_mut__comp
+longLabel Experimenally verified binding sites of HNRNPH2_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2223,8 +2223,8 @@ spectrum on
 
 track SRSF6_computational
 bigDataUrl SRSF6_computational.bigBed
-shortLabel SRSF6_exp
-longLabel Computationally generated binding sites of SRSF6
+shortLabel SRSF6_comp
+longLabel Experimenally verified binding sites of SRSF6
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2232,8 +2232,8 @@ spectrum on
 
 track SYNCRIP_computational
 bigDataUrl SYNCRIP_computational.bigBed
-shortLabel SYNCRIP_exp
-longLabel Computationally generated binding sites of SYNCRIP
+shortLabel SYNCRIP_comp
+longLabel Experimenally verified binding sites of SYNCRIP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2241,8 +2241,8 @@ spectrum on
 
 track TRA2A_computational
 bigDataUrl TRA2A_computational.bigBed
-shortLabel TRA2A_exp
-longLabel Computationally generated binding sites of TRA2A
+shortLabel TRA2A_comp
+longLabel Experimenally verified binding sites of TRA2A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2250,8 +2250,8 @@ spectrum on
 
 track NONO_computational
 bigDataUrl NONO_computational.bigBed
-shortLabel NONO_exp
-longLabel Computationally generated binding sites of NONO
+shortLabel NONO_comp
+longLabel Experimenally verified binding sites of NONO
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2259,8 +2259,8 @@ spectrum on
 
 track HNRNPA1_HRB87F_computational
 bigDataUrl HNRNPA1_HRB87F_computational.bigBed
-shortLabel HNRNPA1_HRB87F_exp
-longLabel Computationally generated binding sites of HNRNPA1_HRB87F
+shortLabel HNRNPA1_HRB87F_comp
+longLabel Experimenally verified binding sites of HNRNPA1_HRB87F
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2268,8 +2268,8 @@ spectrum on
 
 track DAZAP1_mut__computational
 bigDataUrl DAZAP1_mut__computational.bigBed
-shortLabel DAZAP1_mut__exp
-longLabel Computationally generated binding sites of DAZAP1_mut_
+shortLabel DAZAP1_mut__comp
+longLabel Experimenally verified binding sites of DAZAP1_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2277,8 +2277,8 @@ spectrum on
 
 track TUT1_computational
 bigDataUrl TUT1_computational.bigBed
-shortLabel TUT1_exp
-longLabel Computationally generated binding sites of TUT1
+shortLabel TUT1_comp
+longLabel Experimenally verified binding sites of TUT1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2286,8 +2286,8 @@ spectrum on
 
 track PPIE_computational
 bigDataUrl PPIE_computational.bigBed
-shortLabel PPIE_exp
-longLabel Computationally generated binding sites of PPIE
+shortLabel PPIE_comp
+longLabel Experimenally verified binding sites of PPIE
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2295,8 +2295,8 @@ spectrum on
 
 track RBM3_computational
 bigDataUrl RBM3_computational.bigBed
-shortLabel RBM3_exp
-longLabel Computationally generated binding sites of RBM3
+shortLabel RBM3_comp
+longLabel Experimenally verified binding sites of RBM3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2304,8 +2304,8 @@ spectrum on
 
 track ZCRB1_computational
 bigDataUrl ZCRB1_computational.bigBed
-shortLabel ZCRB1_exp
-longLabel Computationally generated binding sites of ZCRB1
+shortLabel ZCRB1_comp
+longLabel Experimenally verified binding sites of ZCRB1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2313,8 +2313,8 @@ spectrum on
 
 track RBM4_LARK_computational
 bigDataUrl RBM4_LARK_computational.bigBed
-shortLabel RBM4_LARK_exp
-longLabel Computationally generated binding sites of RBM4_LARK
+shortLabel RBM4_LARK_comp
+longLabel Experimenally verified binding sites of RBM4_LARK
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2322,8 +2322,8 @@ spectrum on
 
 track FMR1_FRAXA_FMR1-IT1_computational
 bigDataUrl FMR1_FRAXA_FMR1-IT1_computational.bigBed
-shortLabel FMR1_FRAXA_FMR1-IT1_exp
-longLabel Computationally generated binding sites of FMR1_FRAXA_FMR1-IT1
+shortLabel FMR1_FRAXA_FMR1-IT1_comp
+longLabel Experimenally verified binding sites of FMR1_FRAXA_FMR1-IT1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2331,8 +2331,8 @@ spectrum on
 
 track YTHDC1_computational
 bigDataUrl YTHDC1_computational.bigBed
-shortLabel YTHDC1_exp
-longLabel Computationally generated binding sites of YTHDC1
+shortLabel YTHDC1_comp
+longLabel Experimenally verified binding sites of YTHDC1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2340,8 +2340,8 @@ spectrum on
 
 track SNRPA_computational
 bigDataUrl SNRPA_computational.bigBed
-shortLabel SNRPA_exp
-longLabel Computationally generated binding sites of SNRPA
+shortLabel SNRPA_comp
+longLabel Experimenally verified binding sites of SNRPA
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2349,8 +2349,8 @@ spectrum on
 
 track QKI_computational
 bigDataUrl QKI_computational.bigBed
-shortLabel QKI_exp
-longLabel Computationally generated binding sites of QKI
+shortLabel QKI_comp
+longLabel Experimenally verified binding sites of QKI
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2358,8 +2358,8 @@ spectrum on
 
 track SRSF5_computational
 bigDataUrl SRSF5_computational.bigBed
-shortLabel SRSF5_exp
-longLabel Computationally generated binding sites of SRSF5
+shortLabel SRSF5_comp
+longLabel Experimenally verified binding sites of SRSF5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2367,8 +2367,8 @@ spectrum on
 
 track REF2_REF2P_computational
 bigDataUrl REF2_REF2P_computational.bigBed
-shortLabel REF2_REF2P_exp
-longLabel Computationally generated binding sites of REF2_REF2P
+shortLabel REF2_REF2P_comp
+longLabel Experimenally verified binding sites of REF2_REF2P
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2376,8 +2376,8 @@ spectrum on
 
 track TRA2B_computational
 bigDataUrl TRA2B_computational.bigBed
-shortLabel TRA2B_exp
-longLabel Computationally generated binding sites of TRA2B
+shortLabel TRA2B_comp
+longLabel Experimenally verified binding sites of TRA2B
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2385,8 +2385,8 @@ spectrum on
 
 track KHDRBS3_computational
 bigDataUrl KHDRBS3_computational.bigBed
-shortLabel KHDRBS3_exp
-longLabel Computationally generated binding sites of KHDRBS3
+shortLabel KHDRBS3_comp
+longLabel Experimenally verified binding sites of KHDRBS3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2394,8 +2394,8 @@ spectrum on
 
 track HNRNPAB_computational
 bigDataUrl HNRNPAB_computational.bigBed
-shortLabel HNRNPAB_exp
-longLabel Computationally generated binding sites of HNRNPAB
+shortLabel HNRNPAB_comp
+longLabel Experimenally verified binding sites of HNRNPAB
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2403,8 +2403,8 @@ spectrum on
 
 track RBM6_computational
 bigDataUrl RBM6_computational.bigBed
-shortLabel RBM6_exp
-longLabel Computationally generated binding sites of RBM6
+shortLabel RBM6_comp
+longLabel Experimenally verified binding sites of RBM6
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2412,8 +2412,8 @@ spectrum on
 
 track SSB_MTSSB_computational
 bigDataUrl SSB_MTSSB_computational.bigBed
-shortLabel SSB_MTSSB_exp
-longLabel Computationally generated binding sites of SSB_MTSSB
+shortLabel SSB_MTSSB_comp
+longLabel Experimenally verified binding sites of SSB_MTSSB
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2421,8 +2421,8 @@ spectrum on
 
 track HNRNPM_computational
 bigDataUrl HNRNPM_computational.bigBed
-shortLabel HNRNPM_exp
-longLabel Computationally generated binding sites of HNRNPM
+shortLabel HNRNPM_comp
+longLabel Experimenally verified binding sites of HNRNPM
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2430,8 +2430,8 @@ spectrum on
 
 track ZNF638_computational
 bigDataUrl ZNF638_computational.bigBed
-shortLabel ZNF638_exp
-longLabel Computationally generated binding sites of ZNF638
+shortLabel ZNF638_comp
+longLabel Experimenally verified binding sites of ZNF638
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2439,8 +2439,8 @@ spectrum on
 
 track HNRNPH3_mut__computational
 bigDataUrl HNRNPH3_mut__computational.bigBed
-shortLabel HNRNPH3_mut__exp
-longLabel Computationally generated binding sites of HNRNPH3_mut_
+shortLabel HNRNPH3_mut__comp
+longLabel Experimenally verified binding sites of HNRNPH3_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2448,8 +2448,8 @@ spectrum on
 
 track KHSRP_computational
 bigDataUrl KHSRP_computational.bigBed
-shortLabel KHSRP_exp
-longLabel Computationally generated binding sites of KHSRP
+shortLabel KHSRP_comp
+longLabel Experimenally verified binding sites of KHSRP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2457,8 +2457,8 @@ spectrum on
 
 track MUC1_MYOD1_PUM_computational
 bigDataUrl MUC1_MYOD1_PUM_computational.bigBed
-shortLabel MUC1_MYOD1_PUM_exp
-longLabel Computationally generated binding sites of MUC1_MYOD1_PUM
+shortLabel MUC1_MYOD1_PUM_comp
+longLabel Experimenally verified binding sites of MUC1_MYOD1_PUM
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2466,8 +2466,8 @@ spectrum on
 
 track RBM28_computational
 bigDataUrl RBM28_computational.bigBed
-shortLabel RBM28_exp
-longLabel Computationally generated binding sites of RBM28
+shortLabel RBM28_comp
+longLabel Experimenally verified binding sites of RBM28
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2475,8 +2475,8 @@ spectrum on
 
 track SRP68_computational
 bigDataUrl SRP68_computational.bigBed
-shortLabel SRP68_exp
-longLabel Computationally generated binding sites of SRP68
+shortLabel SRP68_comp
+longLabel Experimenally verified binding sites of SRP68
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2484,8 +2484,8 @@ spectrum on
 
 track HNRNPA0_computational
 bigDataUrl HNRNPA0_computational.bigBed
-shortLabel HNRNPA0_exp
-longLabel Computationally generated binding sites of HNRNPA0
+shortLabel HNRNPA0_comp
+longLabel Experimenally verified binding sites of HNRNPA0
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2493,8 +2493,8 @@ spectrum on
 
 track HNRNPF_mut__computational
 bigDataUrl HNRNPF_mut__computational.bigBed
-shortLabel HNRNPF_mut__exp
-longLabel Computationally generated binding sites of HNRNPF_mut_
+shortLabel HNRNPF_mut__comp
+longLabel Experimenally verified binding sites of HNRNPF_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2502,8 +2502,8 @@ spectrum on
 
 track PTBP1_computational
 bigDataUrl PTBP1_computational.bigBed
-shortLabel PTBP1_exp
-longLabel Computationally generated binding sites of PTBP1
+shortLabel PTBP1_comp
+longLabel Experimenally verified binding sites of PTBP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2511,8 +2511,8 @@ spectrum on
 
 track PAPI_computational
 bigDataUrl PAPI_computational.bigBed
-shortLabel PAPI_exp
-longLabel Computationally generated binding sites of PAPI
+shortLabel PAPI_comp
+longLabel Experimenally verified binding sites of PAPI
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2520,8 +2520,8 @@ spectrum on
 
 track RBM46_computational
 bigDataUrl RBM46_computational.bigBed
-shortLabel RBM46_exp
-longLabel Computationally generated binding sites of RBM46
+shortLabel RBM46_comp
+longLabel Experimenally verified binding sites of RBM46
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2529,8 +2529,8 @@ spectrum on
 
 track HNRNPDL_computational
 bigDataUrl HNRNPDL_computational.bigBed
-shortLabel HNRNPDL_exp
-longLabel Computationally generated binding sites of HNRNPDL
+shortLabel HNRNPDL_comp
+longLabel Experimenally verified binding sites of HNRNPDL
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2538,8 +2538,8 @@ spectrum on
 
 track ORB2_computational
 bigDataUrl ORB2_computational.bigBed
-shortLabel ORB2_exp
-longLabel Computationally generated binding sites of ORB2
+shortLabel ORB2_comp
+longLabel Experimenally verified binding sites of ORB2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2547,8 +2547,8 @@ spectrum on
 
 track RALY_computational
 bigDataUrl RALY_computational.bigBed
-shortLabel RALY_exp
-longLabel Computationally generated binding sites of RALY
+shortLabel RALY_comp
+longLabel Experimenally verified binding sites of RALY
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2556,8 +2556,8 @@ spectrum on
 
 track ESRP2_computational
 bigDataUrl ESRP2_computational.bigBed
-shortLabel ESRP2_exp
-longLabel Computationally generated binding sites of ESRP2
+shortLabel ESRP2_comp
+longLabel Experimenally verified binding sites of ESRP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2565,8 +2565,8 @@ spectrum on
 
 track CELF6_computational
 bigDataUrl CELF6_computational.bigBed
-shortLabel CELF6_exp
-longLabel Computationally generated binding sites of CELF6
+shortLabel CELF6_comp
+longLabel Experimenally verified binding sites of CELF6
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2574,8 +2574,8 @@ spectrum on
 
 track IGHMBP2_computational
 bigDataUrl IGHMBP2_computational.bigBed
-shortLabel IGHMBP2_exp
-longLabel Computationally generated binding sites of IGHMBP2
+shortLabel IGHMBP2_comp
+longLabel Experimenally verified binding sites of IGHMBP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2583,8 +2583,8 @@ spectrum on
 
 track YBX1_mut__computational
 bigDataUrl YBX1_mut__computational.bigBed
-shortLabel YBX1_mut__exp
-longLabel Computationally generated binding sites of YBX1_mut_
+shortLabel YBX1_mut__comp
+longLabel Experimenally verified binding sites of YBX1_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2592,8 +2592,8 @@ spectrum on
 
 track AGO1_computational
 bigDataUrl AGO1_computational.bigBed
-shortLabel AGO1_exp
-longLabel Computationally generated binding sites of AGO1
+shortLabel AGO1_comp
+longLabel Experimenally verified binding sites of AGO1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2601,8 +2601,8 @@ spectrum on
 
 track CG7903_computational
 bigDataUrl CG7903_computational.bigBed
-shortLabel CG7903_exp
-longLabel Computationally generated binding sites of CG7903
+shortLabel CG7903_comp
+longLabel Experimenally verified binding sites of CG7903
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2610,8 +2610,8 @@ spectrum on
 
 track HRB27C_computational
 bigDataUrl HRB27C_computational.bigBed
-shortLabel HRB27C_exp
-longLabel Computationally generated binding sites of HRB27C
+shortLabel HRB27C_comp
+longLabel Experimenally verified binding sites of HRB27C
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2619,8 +2619,8 @@ spectrum on
 
 track SAMD4A_computational
 bigDataUrl SAMD4A_computational.bigBed
-shortLabel SAMD4A_exp
-longLabel Computationally generated binding sites of SAMD4A
+shortLabel SAMD4A_comp
+longLabel Experimenally verified binding sites of SAMD4A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2628,8 +2628,8 @@ spectrum on
 
 track HNRNPU_computational
 bigDataUrl HNRNPU_computational.bigBed
-shortLabel HNRNPU_exp
-longLabel Computationally generated binding sites of HNRNPU
+shortLabel HNRNPU_comp
+longLabel Experimenally verified binding sites of HNRNPU
 type bigBed 9
 visibility dense
 itemRgb on
@@ -2637,8 +2637,8 @@ spectrum on
 
 track MOD_MODMDG4_RSD_computational
 bigDataUrl MOD_MODMDG4_RSD_computational.bigBed
-shortLabel MOD_MODMDG4_RSD_exp
-longLabel Computationally generated binding sites of MOD_MODMDG4_RSD
+shortLabel MOD_MODMDG4_RSD_comp
+longLabel Experimenally verified binding sites of MOD_MODMDG4_RSD
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2646,8 +2646,8 @@ spectrum on
 
 track PUM2_computational
 bigDataUrl PUM2_computational.bigBed
-shortLabel PUM2_exp
-longLabel Computationally generated binding sites of PUM2
+shortLabel PUM2_comp
+longLabel Experimenally verified binding sites of PUM2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2655,8 +2655,8 @@ spectrum on
 
 track CNOT4_computational
 bigDataUrl CNOT4_computational.bigBed
-shortLabel CNOT4_exp
-longLabel Computationally generated binding sites of CNOT4
+shortLabel CNOT4_comp
+longLabel Experimenally verified binding sites of CNOT4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2664,8 +2664,8 @@ spectrum on
 
 track HNRNPH2_computational
 bigDataUrl HNRNPH2_computational.bigBed
-shortLabel HNRNPH2_exp
-longLabel Computationally generated binding sites of HNRNPH2
+shortLabel HNRNPH2_comp
+longLabel Experimenally verified binding sites of HNRNPH2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2673,8 +2673,8 @@ spectrum on
 
 track RC3H1_computational
 bigDataUrl RC3H1_computational.bigBed
-shortLabel RC3H1_exp
-longLabel Computationally generated binding sites of RC3H1
+shortLabel RC3H1_comp
+longLabel Experimenally verified binding sites of RC3H1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2682,8 +2682,8 @@ spectrum on
 
 track ADAR_computational
 bigDataUrl ADAR_computational.bigBed
-shortLabel ADAR_exp
-longLabel Computationally generated binding sites of ADAR
+shortLabel ADAR_comp
+longLabel Experimenally verified binding sites of ADAR
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2691,8 +2691,8 @@ spectrum on
 
 track RBMS3_computational
 bigDataUrl RBMS3_computational.bigBed
-shortLabel RBMS3_exp
-longLabel Computationally generated binding sites of RBMS3
+shortLabel RBMS3_comp
+longLabel Experimenally verified binding sites of RBMS3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2700,8 +2700,8 @@ spectrum on
 
 track EIF2S1_EIF2ALPHA_computational
 bigDataUrl EIF2S1_EIF2ALPHA_computational.bigBed
-shortLabel EIF2S1_EIF2ALPHA_exp
-longLabel Computationally generated binding sites of EIF2S1_EIF2ALPHA
+shortLabel EIF2S1_EIF2ALPHA_comp
+longLabel Experimenally verified binding sites of EIF2S1_EIF2ALPHA
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2709,8 +2709,8 @@ spectrum on
 
 track DHX9_computational
 bigDataUrl DHX9_computational.bigBed
-shortLabel DHX9_exp
-longLabel Computationally generated binding sites of DHX9
+shortLabel DHX9_comp
+longLabel Experimenally verified binding sites of DHX9
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2718,8 +2718,8 @@ spectrum on
 
 track SRSF2_mut__computational
 bigDataUrl SRSF2_mut__computational.bigBed
-shortLabel SRSF2_mut__exp
-longLabel Computationally generated binding sites of SRSF2_mut_
+shortLabel SRSF2_mut__comp
+longLabel Experimenally verified binding sites of SRSF2_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2727,8 +2727,8 @@ spectrum on
 
 track FXR1_computational
 bigDataUrl FXR1_computational.bigBed
-shortLabel FXR1_exp
-longLabel Computationally generated binding sites of FXR1
+shortLabel FXR1_comp
+longLabel Experimenally verified binding sites of FXR1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2736,8 +2736,8 @@ spectrum on
 
 track MSI1_computational
 bigDataUrl MSI1_computational.bigBed
-shortLabel MSI1_exp
-longLabel Computationally generated binding sites of MSI1
+shortLabel MSI1_comp
+longLabel Experimenally verified binding sites of MSI1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2745,8 +2745,8 @@ spectrum on
 
 track HNRNPC_mut__computational
 bigDataUrl HNRNPC_mut__computational.bigBed
-shortLabel HNRNPC_mut__exp
-longLabel Computationally generated binding sites of HNRNPC_mut_
+shortLabel HNRNPC_mut__comp
+longLabel Experimenally verified binding sites of HNRNPC_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2754,8 +2754,8 @@ spectrum on
 
 track HNRNPL_computational
 bigDataUrl HNRNPL_computational.bigBed
-shortLabel HNRNPL_exp
-longLabel Computationally generated binding sites of HNRNPL
+shortLabel HNRNPL_comp
+longLabel Experimenally verified binding sites of HNRNPL
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2763,8 +2763,8 @@ spectrum on
 
 track DAZAP1_computational
 bigDataUrl DAZAP1_computational.bigBed
-shortLabel DAZAP1_exp
-longLabel Computationally generated binding sites of DAZAP1
+shortLabel DAZAP1_comp
+longLabel Experimenally verified binding sites of DAZAP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2772,8 +2772,8 @@ spectrum on
 
 track MSI_ADGF-A2_computational
 bigDataUrl MSI_ADGF-A2_computational.bigBed
-shortLabel MSI_ADGF-A2_exp
-longLabel Computationally generated binding sites of MSI_ADGF-A2
+shortLabel MSI_ADGF-A2_comp
+longLabel Experimenally verified binding sites of MSI_ADGF-A2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2781,8 +2781,8 @@ spectrum on
 
 track IFIH1_computational
 bigDataUrl IFIH1_computational.bigBed
-shortLabel IFIH1_exp
-longLabel Computationally generated binding sites of IFIH1
+shortLabel IFIH1_comp
+longLabel Experimenally verified binding sites of IFIH1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2790,8 +2790,8 @@ spectrum on
 
 track VTS1_computational
 bigDataUrl VTS1_computational.bigBed
-shortLabel VTS1_exp
-longLabel Computationally generated binding sites of VTS1
+shortLabel VTS1_comp
+longLabel Experimenally verified binding sites of VTS1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2799,8 +2799,8 @@ spectrum on
 
 track SXL_computational
 bigDataUrl SXL_computational.bigBed
-shortLabel SXL_exp
-longLabel Computationally generated binding sites of SXL
+shortLabel SXL_comp
+longLabel Experimenally verified binding sites of SXL
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2808,8 +2808,8 @@ spectrum on
 
 track SRSF1_computational
 bigDataUrl SRSF1_computational.bigBed
-shortLabel SRSF1_exp
-longLabel Computationally generated binding sites of SRSF1
+shortLabel SRSF1_comp
+longLabel Experimenally verified binding sites of SRSF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2817,8 +2817,8 @@ spectrum on
 
 track TRA2B_mut__computational
 bigDataUrl TRA2B_mut__computational.bigBed
-shortLabel TRA2B_mut__exp
-longLabel Computationally generated binding sites of TRA2B_mut_
+shortLabel TRA2B_mut__comp
+longLabel Experimenally verified binding sites of TRA2B_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2826,8 +2826,8 @@ spectrum on
 
 track PCBP1_computational
 bigDataUrl PCBP1_computational.bigBed
-shortLabel PCBP1_exp
-longLabel Computationally generated binding sites of PCBP1
+shortLabel PCBP1_comp
+longLabel Experimenally verified binding sites of PCBP1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2835,8 +2835,8 @@ spectrum on
 
 track ARID4A_RBP1_NGR1_SGN1_FPR1_computational
 bigDataUrl ARID4A_RBP1_NGR1_SGN1_FPR1_computational.bigBed
-shortLabel ARID4A_RBP1_NGR1_SGN1_FPR1_exp
-longLabel Computationally generated binding sites of ARID4A_RBP1_NGR1_SGN1_FPR1
+shortLabel ARID4A_RBP1_NGR1_SGN1_FPR1_comp
+longLabel Experimenally verified binding sites of ARID4A_RBP1_NGR1_SGN1_FPR1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2844,8 +2844,8 @@ spectrum on
 
 track HNRNPLL_computational
 bigDataUrl HNRNPLL_computational.bigBed
-shortLabel HNRNPLL_exp
-longLabel Computationally generated binding sites of HNRNPLL
+shortLabel HNRNPLL_comp
+longLabel Experimenally verified binding sites of HNRNPLL
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2853,8 +2853,8 @@ spectrum on
 
 track XPO5_computational
 bigDataUrl XPO5_computational.bigBed
-shortLabel XPO5_exp
-longLabel Computationally generated binding sites of XPO5
+shortLabel XPO5_comp
+longLabel Experimenally verified binding sites of XPO5
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2862,8 +2862,8 @@ spectrum on
 
 track NR5A1_SF1_mut__computational
 bigDataUrl NR5A1_SF1_mut__computational.bigBed
-shortLabel NR5A1_SF1_mut__exp
-longLabel Computationally generated binding sites of NR5A1_SF1_mut_
+shortLabel NR5A1_SF1_mut__comp
+longLabel Experimenally verified binding sites of NR5A1_SF1_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2871,8 +2871,8 @@ spectrum on
 
 track HRB98DE_computational
 bigDataUrl HRB98DE_computational.bigBed
-shortLabel HRB98DE_exp
-longLabel Computationally generated binding sites of HRB98DE
+shortLabel HRB98DE_comp
+longLabel Experimenally verified binding sites of HRB98DE
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2880,8 +2880,8 @@ spectrum on
 
 track ZRANB2_computational
 bigDataUrl ZRANB2_computational.bigBed
-shortLabel ZRANB2_exp
-longLabel Computationally generated binding sites of ZRANB2
+shortLabel ZRANB2_comp
+longLabel Experimenally verified binding sites of ZRANB2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2889,8 +2889,8 @@ spectrum on
 
 track RBFOX2_computational
 bigDataUrl RBFOX2_computational.bigBed
-shortLabel RBFOX2_exp
-longLabel Computationally generated binding sites of RBFOX2
+shortLabel RBFOX2_comp
+longLabel Experimenally verified binding sites of RBFOX2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2898,8 +2898,8 @@ spectrum on
 
 track NOVA1_PS_computational
 bigDataUrl NOVA1_PS_computational.bigBed
-shortLabel NOVA1_PS_exp
-longLabel Computationally generated binding sites of NOVA1_PS
+shortLabel NOVA1_PS_comp
+longLabel Experimenally verified binding sites of NOVA1_PS
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2907,8 +2907,8 @@ spectrum on
 
 track NXF1_SBR_computational
 bigDataUrl NXF1_SBR_computational.bigBed
-shortLabel NXF1_SBR_exp
-longLabel Computationally generated binding sites of NXF1_SBR
+shortLabel NXF1_SBR_comp
+longLabel Experimenally verified binding sites of NXF1_SBR
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2916,8 +2916,8 @@ spectrum on
 
 track SRP14_computational
 bigDataUrl SRP14_computational.bigBed
-shortLabel SRP14_exp
-longLabel Computationally generated binding sites of SRP14
+shortLabel SRP14_comp
+longLabel Experimenally verified binding sites of SRP14
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2925,8 +2925,8 @@ spectrum on
 
 track TRA2_computational
 bigDataUrl TRA2_computational.bigBed
-shortLabel TRA2_exp
-longLabel Computationally generated binding sites of TRA2
+shortLabel TRA2_comp
+longLabel Experimenally verified binding sites of TRA2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2934,8 +2934,8 @@ spectrum on
 
 track ROX8_computational
 bigDataUrl ROX8_computational.bigBed
-shortLabel ROX8_exp
-longLabel Computationally generated binding sites of ROX8
+shortLabel ROX8_comp
+longLabel Experimenally verified binding sites of ROX8
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2943,8 +2943,8 @@ spectrum on
 
 track RBP1-LIKE_X16_computational
 bigDataUrl RBP1-LIKE_X16_computational.bigBed
-shortLabel RBP1-LIKE_X16_exp
-longLabel Computationally generated binding sites of RBP1-LIKE_X16
+shortLabel RBP1-LIKE_X16_comp
+longLabel Experimenally verified binding sites of RBP1-LIKE_X16
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2952,8 +2952,8 @@ spectrum on
 
 track RBM42_computational
 bigDataUrl RBM42_computational.bigBed
-shortLabel RBM42_exp
-longLabel Computationally generated binding sites of RBM42
+shortLabel RBM42_comp
+longLabel Experimenally verified binding sites of RBM42
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2961,8 +2961,8 @@ spectrum on
 
 track ZFP36_computational
 bigDataUrl ZFP36_computational.bigBed
-shortLabel ZFP36_exp
-longLabel Computationally generated binding sites of ZFP36
+shortLabel ZFP36_comp
+longLabel Experimenally verified binding sites of ZFP36
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2970,8 +2970,8 @@ spectrum on
 
 track KHDRBS2_computational
 bigDataUrl KHDRBS2_computational.bigBed
-shortLabel KHDRBS2_exp
-longLabel Computationally generated binding sites of KHDRBS2
+shortLabel KHDRBS2_comp
+longLabel Experimenally verified binding sites of KHDRBS2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2979,8 +2979,8 @@ spectrum on
 
 track SRSF4_computational
 bigDataUrl SRSF4_computational.bigBed
-shortLabel SRSF4_exp
-longLabel Computationally generated binding sites of SRSF4
+shortLabel SRSF4_comp
+longLabel Experimenally verified binding sites of SRSF4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2988,8 +2988,8 @@ spectrum on
 
 track SHEP_computational
 bigDataUrl SHEP_computational.bigBed
-shortLabel SHEP_exp
-longLabel Computationally generated binding sites of SHEP
+shortLabel SHEP_comp
+longLabel Experimenally verified binding sites of SHEP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -2997,8 +2997,8 @@ spectrum on
 
 track LIN28A_computational
 bigDataUrl LIN28A_computational.bigBed
-shortLabel LIN28A_exp
-longLabel Computationally generated binding sites of LIN28A
+shortLabel LIN28A_comp
+longLabel Experimenally verified binding sites of LIN28A
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3006,8 +3006,8 @@ spectrum on
 
 track HNRNPA1L2_computational
 bigDataUrl HNRNPA1L2_computational.bigBed
-shortLabel HNRNPA1L2_exp
-longLabel Computationally generated binding sites of HNRNPA1L2
+shortLabel HNRNPA1L2_comp
+longLabel Experimenally verified binding sites of HNRNPA1L2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3015,8 +3015,8 @@ spectrum on
 
 track CELF2_computational
 bigDataUrl CELF2_computational.bigBed
-shortLabel CELF2_exp
-longLabel Computationally generated binding sites of CELF2
+shortLabel CELF2_comp
+longLabel Experimenally verified binding sites of CELF2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3024,8 +3024,8 @@ spectrum on
 
 track ELAVL4_computational
 bigDataUrl ELAVL4_computational.bigBed
-shortLabel ELAVL4_exp
-longLabel Computationally generated binding sites of ELAVL4
+shortLabel ELAVL4_comp
+longLabel Experimenally verified binding sites of ELAVL4
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3033,8 +3033,8 @@ spectrum on
 
 track ZNF346_computational
 bigDataUrl ZNF346_computational.bigBed
-shortLabel ZNF346_exp
-longLabel Computationally generated binding sites of ZNF346
+shortLabel ZNF346_comp
+longLabel Experimenally verified binding sites of ZNF346
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3042,8 +3042,8 @@ spectrum on
 
 track PIWIL1_computational
 bigDataUrl PIWIL1_computational.bigBed
-shortLabel PIWIL1_exp
-longLabel Computationally generated binding sites of PIWIL1
+shortLabel PIWIL1_comp
+longLabel Experimenally verified binding sites of PIWIL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3051,8 +3051,8 @@ spectrum on
 
 track CG2931_computational
 bigDataUrl CG2931_computational.bigBed
-shortLabel CG2931_exp
-longLabel Computationally generated binding sites of CG2931
+shortLabel CG2931_comp
+longLabel Experimenally verified binding sites of CG2931
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3060,8 +3060,8 @@ spectrum on
 
 track HNRNPH3_computational
 bigDataUrl HNRNPH3_computational.bigBed
-shortLabel HNRNPH3_exp
-longLabel Computationally generated binding sites of HNRNPH3
+shortLabel HNRNPH3_comp
+longLabel Experimenally verified binding sites of HNRNPH3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3069,8 +3069,8 @@ spectrum on
 
 track RBMY1A1_RBMY1D_computational
 bigDataUrl RBMY1A1_RBMY1D_computational.bigBed
-shortLabel RBMY1A1_RBMY1D_exp
-longLabel Computationally generated binding sites of RBMY1A1_RBMY1D
+shortLabel RBMY1A1_RBMY1D_comp
+longLabel Experimenally verified binding sites of RBMY1A1_RBMY1D
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3078,8 +3078,8 @@ spectrum on
 
 track FNE_computational
 bigDataUrl FNE_computational.bigBed
-shortLabel FNE_exp
-longLabel Computationally generated binding sites of FNE
+shortLabel FNE_comp
+longLabel Experimenally verified binding sites of FNE
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3087,8 +3087,8 @@ spectrum on
 
 track HNRNPF_computational
 bigDataUrl HNRNPF_computational.bigBed
-shortLabel HNRNPF_exp
-longLabel Computationally generated binding sites of HNRNPF
+shortLabel HNRNPF_comp
+longLabel Experimenally verified binding sites of HNRNPF
 type bigBed 9
 visibility dense
 itemRgb on
@@ -3096,8 +3096,8 @@ spectrum on
 
 track PABPC3_computational
 bigDataUrl PABPC3_computational.bigBed
-shortLabel PABPC3_exp
-longLabel Computationally generated binding sites of PABPC3
+shortLabel PABPC3_comp
+longLabel Experimenally verified binding sites of PABPC3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3105,8 +3105,8 @@ spectrum on
 
 track TARDBP_computational
 bigDataUrl TARDBP_computational.bigBed
-shortLabel TARDBP_exp
-longLabel Computationally generated binding sites of TARDBP
+shortLabel TARDBP_comp
+longLabel Experimenally verified binding sites of TARDBP
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3114,8 +3114,8 @@ spectrum on
 
 track QKI_mut__computational
 bigDataUrl QKI_mut__computational.bigBed
-shortLabel QKI_mut__exp
-longLabel Computationally generated binding sites of QKI_mut_
+shortLabel QKI_mut__comp
+longLabel Experimenally verified binding sites of QKI_mut_
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3123,8 +3123,8 @@ spectrum on
 
 track RSF1_computational
 bigDataUrl RSF1_computational.bigBed
-shortLabel RSF1_exp
-longLabel Computationally generated binding sites of RSF1
+shortLabel RSF1_comp
+longLabel Experimenally verified binding sites of RSF1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3132,8 +3132,8 @@ spectrum on
 
 track YBX1_computational
 bigDataUrl YBX1_computational.bigBed
-shortLabel YBX1_exp
-longLabel Computationally generated binding sites of YBX1
+shortLabel YBX1_comp
+longLabel Experimenally verified binding sites of YBX1
 type bigBed 9
 visibility dense
 itemRgb on
@@ -3141,8 +3141,8 @@ spectrum on
 
 track ELAVL1_computational
 bigDataUrl ELAVL1_computational.bigBed
-shortLabel ELAVL1_exp
-longLabel Computationally generated binding sites of ELAVL1
+shortLabel ELAVL1_comp
+longLabel Experimenally verified binding sites of ELAVL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3150,8 +3150,8 @@ spectrum on
 
 track MATR3_computational
 bigDataUrl MATR3_computational.bigBed
-shortLabel MATR3_exp
-longLabel Computationally generated binding sites of MATR3
+shortLabel MATR3_comp
+longLabel Experimenally verified binding sites of MATR3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3159,8 +3159,8 @@ spectrum on
 
 track G3BP2_computational
 bigDataUrl G3BP2_computational.bigBed
-shortLabel G3BP2_exp
-longLabel Computationally generated binding sites of G3BP2
+shortLabel G3BP2_comp
+longLabel Experimenally verified binding sites of G3BP2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3168,8 +3168,8 @@ spectrum on
 
 track HNRNPA2B1_computational
 bigDataUrl HNRNPA2B1_computational.bigBed
-shortLabel HNRNPA2B1_exp
-longLabel Computationally generated binding sites of HNRNPA2B1
+shortLabel HNRNPA2B1_comp
+longLabel Experimenally verified binding sites of HNRNPA2B1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3177,8 +3177,8 @@ spectrum on
 
 track F2_EEF1ALPHA2_L2F2_computational
 bigDataUrl F2_EEF1ALPHA2_L2F2_computational.bigBed
-shortLabel F2_EEF1ALPHA2_L2F2_exp
-longLabel Computationally generated binding sites of F2_EEF1ALPHA2_L2F2
+shortLabel F2_EEF1ALPHA2_L2F2_comp
+longLabel Experimenally verified binding sites of F2_EEF1ALPHA2_L2F2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3186,8 +3186,8 @@ spectrum on
 
 track BRU3_computational
 bigDataUrl BRU3_computational.bigBed
-shortLabel BRU3_exp
-longLabel Computationally generated binding sites of BRU3
+shortLabel BRU3_comp
+longLabel Experimenally verified binding sites of BRU3
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3195,8 +3195,8 @@ spectrum on
 
 track HNRNPC_computational
 bigDataUrl HNRNPC_computational.bigBed
-shortLabel HNRNPC_exp
-longLabel Computationally generated binding sites of HNRNPC
+shortLabel HNRNPC_comp
+longLabel Experimenally verified binding sites of HNRNPC
 type bigBed 9
 visibility dense
 itemRgb on
@@ -3204,8 +3204,8 @@ spectrum on
 
 track CPEB2_computational
 bigDataUrl CPEB2_computational.bigBed
-shortLabel CPEB2_exp
-longLabel Computationally generated binding sites of CPEB2
+shortLabel CPEB2_comp
+longLabel Experimenally verified binding sites of CPEB2
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3213,8 +3213,8 @@ spectrum on
 
 track TIAL1_computational
 bigDataUrl TIAL1_computational.bigBed
-shortLabel TIAL1_exp
-longLabel Computationally generated binding sites of TIAL1
+shortLabel TIAL1_comp
+longLabel Experimenally verified binding sites of TIAL1
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3222,8 +3222,8 @@ spectrum on
 
 track RBMX_computational
 bigDataUrl RBMX_computational.bigBed
-shortLabel RBMX_exp
-longLabel Computationally generated binding sites of RBMX
+shortLabel RBMX_comp
+longLabel Experimenally verified binding sites of RBMX
 type bigBed 9
 visibility hide
 itemRgb on
@@ -3231,8 +3231,8 @@ spectrum on
 
 track SART3_computational
 bigDataUrl SART3_computational.bigBed
-shortLabel SART3_exp
-longLabel Computationally generated binding sites of SART3
+shortLabel SART3_comp
+longLabel Experimenally verified binding sites of SART3
 type bigBed 9
 visibility hide
 itemRgb on

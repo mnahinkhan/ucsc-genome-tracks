@@ -1519,15 +1519,6 @@ visibility hide
 itemRgb on
 spectrum on
 
-track HNRNPK-CUSTOM_computational
-bigDataUrl HNRNPK-CUSTOM_computational.bigBed
-shortLabel HNRNPK-CUSTOM_comp
-longLabel Experimenally verified binding sites of HNRNPK-CUSTOM
-type bigBed 9
-visibility hide
-itemRgb on
-spectrum on
-
 track CPEB4_computational
 bigDataUrl CPEB4_computational.bigBed
 shortLabel CPEB4_comp
@@ -1780,15 +1771,6 @@ visibility hide
 itemRgb on
 spectrum on
 
-track AUF1_computational
-bigDataUrl AUF1_computational.bigBed
-shortLabel AUF1_comp
-longLabel Experimenally verified binding sites of AUF1
-type bigBed 9
-visibility hide
-itemRgb on
-spectrum on
-
 track PABPC4_computational
 bigDataUrl PABPC4_computational.bigBed
 shortLabel PABPC4_comp
@@ -1993,15 +1975,6 @@ shortLabel CELF5_comp
 longLabel Experimenally verified binding sites of CELF5
 type bigBed 9
 visibility hide
-itemRgb on
-spectrum on
-
-track AUF1-UNFILTERED_computational
-bigDataUrl AUF1-UNFILTERED_computational.bigBed
-shortLabel AUF1-UNFILTERED_comp
-longLabel Experimenally verified binding sites of AUF1-UNFILTERED
-type bigBed 9
-visibility dense
 itemRgb on
 spectrum on
 
@@ -2972,15 +2945,6 @@ track RBP1-LIKE_X16_computational
 bigDataUrl RBP1-LIKE_X16_computational.bigBed
 shortLabel RBP1-LIKE_X16_comp
 longLabel Experimenally verified binding sites of RBP1-LIKE_X16
-type bigBed 9
-visibility hide
-itemRgb on
-spectrum on
-
-track YBX1-CUSTOM_computational
-bigDataUrl YBX1-CUSTOM_computational.bigBed
-shortLabel YBX1-CUSTOM_comp
-longLabel Experimenally verified binding sites of YBX1-CUSTOM
 type bigBed 9
 visibility hide
 itemRgb on

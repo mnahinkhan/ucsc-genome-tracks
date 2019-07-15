@@ -16,6 +16,15 @@ visibility hide
 itemRgb on
 spectrum on
 
+track GRWD1_experimental
+bigDataUrl GRWD1_experimental.bigBed
+shortLabel GRWD1_exp
+longLabel Experimenally verified binding sites of GRWD1
+type bigBed 9
+visibility hide
+itemRgb on
+spectrum on
+
 track TARDBP_experimental
 bigDataUrl TARDBP_experimental.bigBed
 shortLabel TARDBP_exp
@@ -488,6 +497,15 @@ track HNRNPD_experimental
 bigDataUrl HNRNPD_experimental.bigBed
 shortLabel HNRNPD_exp
 longLabel Experimenally verified binding sites of HNRNPD
+type bigBed 9
+visibility hide
+itemRgb on
+spectrum on
+
+track BUD13_experimental
+bigDataUrl BUD13_experimental.bigBed
+shortLabel BUD13_exp
+longLabel Experimenally verified binding sites of BUD13
 type bigBed 9
 visibility hide
 itemRgb on

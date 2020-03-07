@@ -1,0 +1,1099 @@
+track MOV10_experimental
+bigDataUrl MOV10_experimental.bigBed
+shortLabel MOV10_exp
+longLabel Experimenally verified binding sites of MOV10
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track FBL_experimental
+bigDataUrl FBL_experimental.bigBed
+shortLabel FBL_exp
+longLabel Experimenally verified binding sites of FBL
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track PRPF8_experimental
+bigDataUrl PRPF8_experimental.bigBed
+shortLabel PRPF8_exp
+longLabel Experimenally verified binding sites of PRPF8
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track STAU1_experimental
+bigDataUrl STAU1_experimental.bigBed
+shortLabel STAU1_exp
+longLabel Experimenally verified binding sites of STAU1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ALKBH1_experimental
+bigDataUrl ALKBH1_experimental.bigBed
+shortLabel ALKBH1_exp
+longLabel Experimenally verified binding sites of ALKBH1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPH1_experimental
+bigDataUrl HNRNPH1_experimental.bigBed
+shortLabel HNRNPH1_exp
+longLabel Experimenally verified binding sites of HNRNPH1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPF_experimental
+bigDataUrl HNRNPF_experimental.bigBed
+shortLabel HNRNPF_exp
+longLabel Experimenally verified binding sites of HNRNPF
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track AGGF1_experimental
+bigDataUrl AGGF1_experimental.bigBed
+shortLabel AGGF1_exp
+longLabel Experimenally verified binding sites of AGGF1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track UCHL5_experimental
+bigDataUrl UCHL5_experimental.bigBed
+shortLabel UCHL5_exp
+longLabel Experimenally verified binding sites of UCHL5
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track DDX42_experimental
+bigDataUrl DDX42_experimental.bigBed
+shortLabel DDX42_exp
+longLabel Experimenally verified binding sites of DDX42
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track METTL14_experimental
+bigDataUrl METTL14_experimental.bigBed
+shortLabel METTL14_exp
+longLabel Experimenally verified binding sites of METTL14
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPA2B1_experimental
+bigDataUrl HNRNPA2B1_experimental.bigBed
+shortLabel HNRNPA2B1_exp
+longLabel Experimenally verified binding sites of HNRNPA2B1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track GTF2F1_experimental
+bigDataUrl GTF2F1_experimental.bigBed
+shortLabel GTF2F1_exp
+longLabel Experimenally verified binding sites of GTF2F1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CNBP_experimental
+bigDataUrl CNBP_experimental.bigBed
+shortLabel CNBP_exp
+longLabel Experimenally verified binding sites of CNBP
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CPSF6_experimental
+bigDataUrl CPSF6_experimental.bigBed
+shortLabel CPSF6_exp
+longLabel Experimenally verified binding sites of CPSF6
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track QKI_experimental
+bigDataUrl QKI_experimental.bigBed
+shortLabel QKI_exp
+longLabel Experimenally verified binding sites of QKI
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track MBNL2_experimental
+bigDataUrl MBNL2_experimental.bigBed
+shortLabel MBNL2_exp
+longLabel Experimenally verified binding sites of MBNL2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track NCBP2_experimental
+bigDataUrl NCBP2_experimental.bigBed
+shortLabel NCBP2_exp
+longLabel Experimenally verified binding sites of NCBP2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CELF2_experimental
+bigDataUrl CELF2_experimental.bigBed
+shortLabel CELF2_exp
+longLabel Experimenally verified binding sites of CELF2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CAPRIN1_experimental
+bigDataUrl CAPRIN1_experimental.bigBed
+shortLabel CAPRIN1_exp
+longLabel Experimenally verified binding sites of CAPRIN1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SF3B4_experimental
+bigDataUrl SF3B4_experimental.bigBed
+shortLabel SF3B4_exp
+longLabel Experimenally verified binding sites of SF3B4
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBM15B_experimental
+bigDataUrl RBM15B_experimental.bigBed
+shortLabel RBM15B_exp
+longLabel Experimenally verified binding sites of RBM15B
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track LIN28B_experimental
+bigDataUrl LIN28B_experimental.bigBed
+shortLabel LIN28B_exp
+longLabel Experimenally verified binding sites of LIN28B
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track LARP7_experimental
+bigDataUrl LARP7_experimental.bigBed
+shortLabel LARP7_exp
+longLabel Experimenally verified binding sites of LARP7
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track TARDBP_experimental
+bigDataUrl TARDBP_experimental.bigBed
+shortLabel TARDBP_exp
+longLabel Experimenally verified binding sites of TARDBP
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track IGF2BP1_experimental
+bigDataUrl IGF2BP1_experimental.bigBed
+shortLabel IGF2BP1_exp
+longLabel Experimenally verified binding sites of IGF2BP1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track FUS_experimental
+bigDataUrl FUS_experimental.bigBed
+shortLabel FUS_exp
+longLabel Experimenally verified binding sites of FUS
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track WTAP_experimental
+bigDataUrl WTAP_experimental.bigBed
+shortLabel WTAP_exp
+longLabel Experimenally verified binding sites of WTAP
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HLTF_experimental
+bigDataUrl HLTF_experimental.bigBed
+shortLabel HLTF_exp
+longLabel Experimenally verified binding sites of HLTF
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track NPM1_experimental
+bigDataUrl NPM1_experimental.bigBed
+shortLabel NPM1_exp
+longLabel Experimenally verified binding sites of NPM1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track GRWD1_experimental
+bigDataUrl GRWD1_experimental.bigBed
+shortLabel GRWD1_exp
+longLabel Experimenally verified binding sites of GRWD1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track PPIL4_experimental
+bigDataUrl PPIL4_experimental.bigBed
+shortLabel PPIL4_exp
+longLabel Experimenally verified binding sites of PPIL4
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ZRANB2_experimental
+bigDataUrl ZRANB2_experimental.bigBed
+shortLabel ZRANB2_exp
+longLabel Experimenally verified binding sites of ZRANB2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track BUD13_experimental
+bigDataUrl BUD13_experimental.bigBed
+shortLabel BUD13_exp
+longLabel Experimenally verified binding sites of BUD13
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPM_experimental
+bigDataUrl HNRNPM_experimental.bigBed
+shortLabel HNRNPM_exp
+longLabel Experimenally verified binding sites of HNRNPM
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track METTL3_experimental
+bigDataUrl METTL3_experimental.bigBed
+shortLabel METTL3_exp
+longLabel Experimenally verified binding sites of METTL3
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EIF3B_experimental
+bigDataUrl EIF3B_experimental.bigBed
+shortLabel EIF3B_exp
+longLabel Experimenally verified binding sites of EIF3B
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track NOP58_experimental
+bigDataUrl NOP58_experimental.bigBed
+shortLabel NOP58_exp
+longLabel Experimenally verified binding sites of NOP58
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBM22_experimental
+bigDataUrl RBM22_experimental.bigBed
+shortLabel RBM22_exp
+longLabel Experimenally verified binding sites of RBM22
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track U2AF2_experimental
+bigDataUrl U2AF2_experimental.bigBed
+shortLabel U2AF2_exp
+longLabel Experimenally verified binding sites of U2AF2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EIF4G2_experimental
+bigDataUrl EIF4G2_experimental.bigBed
+shortLabel EIF4G2_exp
+longLabel Experimenally verified binding sites of EIF4G2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track KHDRBS1_experimental
+bigDataUrl KHDRBS1_experimental.bigBed
+shortLabel KHDRBS1_exp
+longLabel Experimenally verified binding sites of KHDRBS1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SRRM4_experimental
+bigDataUrl SRRM4_experimental.bigBed
+shortLabel SRRM4_exp
+longLabel Experimenally verified binding sites of SRRM4
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EIF3D_experimental
+bigDataUrl EIF3D_experimental.bigBed
+shortLabel EIF3D_exp
+longLabel Experimenally verified binding sites of EIF3D
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track DIS3L2_experimental
+bigDataUrl DIS3L2_experimental.bigBed
+shortLabel DIS3L2_exp
+longLabel Experimenally verified binding sites of DIS3L2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SMNDC1_experimental
+bigDataUrl SMNDC1_experimental.bigBed
+shortLabel SMNDC1_exp
+longLabel Experimenally verified binding sites of SMNDC1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track YTHDC1_experimental
+bigDataUrl YTHDC1_experimental.bigBed
+shortLabel YTHDC1_exp
+longLabel Experimenally verified binding sites of YTHDC1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CPSF1_experimental
+bigDataUrl CPSF1_experimental.bigBed
+shortLabel CPSF1_exp
+longLabel Experimenally verified binding sites of CPSF1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track NUDT21_experimental
+bigDataUrl NUDT21_experimental.bigBed
+shortLabel NUDT21_exp
+longLabel Experimenally verified binding sites of NUDT21
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SRSF7_experimental
+bigDataUrl SRSF7_experimental.bigBed
+shortLabel SRSF7_exp
+longLabel Experimenally verified binding sites of SRSF7
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track NCBP3_experimental
+bigDataUrl NCBP3_experimental.bigBed
+shortLabel NCBP3_exp
+longLabel Experimenally verified binding sites of NCBP3
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBM15_experimental
+bigDataUrl RBM15_experimental.bigBed
+shortLabel RBM15_exp
+longLabel Experimenally verified binding sites of RBM15
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EWSR1_experimental
+bigDataUrl EWSR1_experimental.bigBed
+shortLabel EWSR1_exp
+longLabel Experimenally verified binding sites of EWSR1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ZC3H7B_experimental
+bigDataUrl ZC3H7B_experimental.bigBed
+shortLabel ZC3H7B_exp
+longLabel Experimenally verified binding sites of ZC3H7B
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SRSF1_experimental
+bigDataUrl SRSF1_experimental.bigBed
+shortLabel SRSF1_exp
+longLabel Experimenally verified binding sites of SRSF1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CPSF7_experimental
+bigDataUrl CPSF7_experimental.bigBed
+shortLabel CPSF7_exp
+longLabel Experimenally verified binding sites of CPSF7
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EIF4A3_experimental
+bigDataUrl EIF4A3_experimental.bigBed
+shortLabel EIF4A3_exp
+longLabel Experimenally verified binding sites of EIF4A3
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track TAF15_experimental
+bigDataUrl TAF15_experimental.bigBed
+shortLabel TAF15_exp
+longLabel Experimenally verified binding sites of TAF15
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBFOX2_experimental
+bigDataUrl RBFOX2_experimental.bigBed
+shortLabel RBFOX2_exp
+longLabel Experimenally verified binding sites of RBFOX2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track YTHDF1_experimental
+bigDataUrl YTHDF1_experimental.bigBed
+shortLabel YTHDF1_exp
+longLabel Experimenally verified binding sites of YTHDF1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track PUM2_experimental
+bigDataUrl PUM2_experimental.bigBed
+shortLabel PUM2_exp
+longLabel Experimenally verified binding sites of PUM2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track FIP1L1_experimental
+bigDataUrl FIP1L1_experimental.bigBed
+shortLabel FIP1L1_exp
+longLabel Experimenally verified binding sites of FIP1L1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPD_experimental
+bigDataUrl HNRNPD_experimental.bigBed
+shortLabel HNRNPD_exp
+longLabel Experimenally verified binding sites of HNRNPD
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBPMS_experimental
+bigDataUrl RBPMS_experimental.bigBed
+shortLabel RBPMS_exp
+longLabel Experimenally verified binding sites of RBPMS
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track TRA2A_experimental
+bigDataUrl TRA2A_experimental.bigBed
+shortLabel TRA2A_exp
+longLabel Experimenally verified binding sites of TRA2A
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EZH2_experimental
+bigDataUrl EZH2_experimental.bigBed
+shortLabel EZH2_exp
+longLabel Experimenally verified binding sites of EZH2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RTCB_experimental
+bigDataUrl RTCB_experimental.bigBed
+shortLabel RTCB_exp
+longLabel Experimenally verified binding sites of RTCB
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CSTF2T_experimental
+bigDataUrl CSTF2T_experimental.bigBed
+shortLabel CSTF2T_exp
+longLabel Experimenally verified binding sites of CSTF2T
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ALKBH5_experimental
+bigDataUrl ALKBH5_experimental.bigBed
+shortLabel ALKBH5_exp
+longLabel Experimenally verified binding sites of ALKBH5
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ATXN2_experimental
+bigDataUrl ATXN2_experimental.bigBed
+shortLabel ATXN2_exp
+longLabel Experimenally verified binding sites of ATXN2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track U2AF1_experimental
+bigDataUrl U2AF1_experimental.bigBed
+shortLabel U2AF1_exp
+longLabel Experimenally verified binding sites of U2AF1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track DDX3X_experimental
+bigDataUrl DDX3X_experimental.bigBed
+shortLabel DDX3X_exp
+longLabel Experimenally verified binding sites of DDX3X
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ZNF622_experimental
+bigDataUrl ZNF622_experimental.bigBed
+shortLabel ZNF622_exp
+longLabel Experimenally verified binding sites of ZNF622
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EIF3G_experimental
+bigDataUrl EIF3G_experimental.bigBed
+shortLabel EIF3G_exp
+longLabel Experimenally verified binding sites of EIF3G
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track EIF3A_experimental
+bigDataUrl EIF3A_experimental.bigBed
+shortLabel EIF3A_exp
+longLabel Experimenally verified binding sites of EIF3A
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track IGF2BP3_experimental
+bigDataUrl IGF2BP3_experimental.bigBed
+shortLabel IGF2BP3_exp
+longLabel Experimenally verified binding sites of IGF2BP3
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track TARBP2_experimental
+bigDataUrl TARBP2_experimental.bigBed
+shortLabel TARBP2_exp
+longLabel Experimenally verified binding sites of TARBP2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track PTBP1_experimental
+bigDataUrl PTBP1_experimental.bigBed
+shortLabel PTBP1_exp
+longLabel Experimenally verified binding sites of PTBP1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track YTHDF2_experimental
+bigDataUrl YTHDF2_experimental.bigBed
+shortLabel YTHDF2_exp
+longLabel Experimenally verified binding sites of YTHDF2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track DGCR8_experimental
+bigDataUrl DGCR8_experimental.bigBed
+shortLabel DGCR8_exp
+longLabel Experimenally verified binding sites of DGCR8
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CPSF4_experimental
+bigDataUrl CPSF4_experimental.bigBed
+shortLabel CPSF4_exp
+longLabel Experimenally verified binding sites of CPSF4
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track DICER1_experimental
+bigDataUrl DICER1_experimental.bigBed
+shortLabel DICER1_exp
+longLabel Experimenally verified binding sites of DICER1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CPSF2_experimental
+bigDataUrl CPSF2_experimental.bigBed
+shortLabel CPSF2_exp
+longLabel Experimenally verified binding sites of CPSF2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CSTF2_experimental
+bigDataUrl CSTF2_experimental.bigBed
+shortLabel CSTF2_exp
+longLabel Experimenally verified binding sites of CSTF2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track YTHDC2_experimental
+bigDataUrl YTHDC2_experimental.bigBed
+shortLabel YTHDC2_exp
+longLabel Experimenally verified binding sites of YTHDC2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBM10_experimental
+bigDataUrl RBM10_experimental.bigBed
+shortLabel RBM10_exp
+longLabel Experimenally verified binding sites of RBM10
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPC_experimental
+bigDataUrl HNRNPC_experimental.bigBed
+shortLabel HNRNPC_exp
+longLabel Experimenally verified binding sites of HNRNPC
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SSB_experimental
+bigDataUrl SSB_experimental.bigBed
+shortLabel SSB_exp
+longLabel Experimenally verified binding sites of SSB
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track UPF1_experimental
+bigDataUrl UPF1_experimental.bigBed
+shortLabel UPF1_exp
+longLabel Experimenally verified binding sites of UPF1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track NOP56_experimental
+bigDataUrl NOP56_experimental.bigBed
+shortLabel NOP56_exp
+longLabel Experimenally verified binding sites of NOP56
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track TIA1_experimental
+bigDataUrl TIA1_experimental.bigBed
+shortLabel TIA1_exp
+longLabel Experimenally verified binding sites of TIA1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPU_experimental
+bigDataUrl HNRNPU_experimental.bigBed
+shortLabel HNRNPU_exp
+longLabel Experimenally verified binding sites of HNRNPU
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SLBP_experimental
+bigDataUrl SLBP_experimental.bigBed
+shortLabel SLBP_exp
+longLabel Experimenally verified binding sites of SLBP
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track YTHDF3_experimental
+bigDataUrl YTHDF3_experimental.bigBed
+shortLabel YTHDF3_exp
+longLabel Experimenally verified binding sites of YTHDF3
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track PCBP2_experimental
+bigDataUrl PCBP2_experimental.bigBed
+shortLabel PCBP2_exp
+longLabel Experimenally verified binding sites of PCBP2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SRSF9_experimental
+bigDataUrl SRSF9_experimental.bigBed
+shortLabel SRSF9_exp
+longLabel Experimenally verified binding sites of SRSF9
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track WDR33_experimental
+bigDataUrl WDR33_experimental.bigBed
+shortLabel WDR33_exp
+longLabel Experimenally verified binding sites of WDR33
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track MTPAP_experimental
+bigDataUrl MTPAP_experimental.bigBed
+shortLabel MTPAP_exp
+longLabel Experimenally verified binding sites of MTPAP
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track LARP4_experimental
+bigDataUrl LARP4_experimental.bigBed
+shortLabel LARP4_exp
+longLabel Experimenally verified binding sites of LARP4
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track HNRNPA1_experimental
+bigDataUrl HNRNPA1_experimental.bigBed
+shortLabel HNRNPA1_exp
+longLabel Experimenally verified binding sites of HNRNPA1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track KHSRP_experimental
+bigDataUrl KHSRP_experimental.bigBed
+shortLabel KHSRP_exp
+longLabel Experimenally verified binding sites of KHSRP
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track TIAL1_experimental
+bigDataUrl TIAL1_experimental.bigBed
+shortLabel TIAL1_exp
+longLabel Experimenally verified binding sites of TIAL1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track RBM47_experimental
+bigDataUrl RBM47_experimental.bigBed
+shortLabel RBM47_exp
+longLabel Experimenally verified binding sites of RBM47
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track IGF2BP2_experimental
+bigDataUrl IGF2BP2_experimental.bigBed
+shortLabel IGF2BP2_exp
+longLabel Experimenally verified binding sites of IGF2BP2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track LIN28A_experimental
+bigDataUrl LIN28A_experimental.bigBed
+shortLabel LIN28A_exp
+longLabel Experimenally verified binding sites of LIN28A
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track FMR1_experimental
+bigDataUrl FMR1_experimental.bigBed
+shortLabel FMR1_exp
+longLabel Experimenally verified binding sites of FMR1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track CPSF3_experimental
+bigDataUrl CPSF3_experimental.bigBed
+shortLabel CPSF3_exp
+longLabel Experimenally verified binding sites of CPSF3
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track ELAVL1_experimental
+bigDataUrl ELAVL1_experimental.bigBed
+shortLabel ELAVL1_exp
+longLabel Experimenally verified binding sites of ELAVL1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SAFB2_experimental
+bigDataUrl SAFB2_experimental.bigBed
+shortLabel SAFB2_exp
+longLabel Experimenally verified binding sites of SAFB2
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on
+
+track SF3B1_experimental
+bigDataUrl SF3B1_experimental.bigBed
+shortLabel SF3B1_exp
+longLabel Experimenally verified binding sites of SF3B1
+type bigBed 9
+visibility dense
+chromosomes chr11
+itemRgb on
+spectrum on

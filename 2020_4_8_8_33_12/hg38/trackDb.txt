@@ -1,0 +1,11 @@
+track MALAT1_attract_density_plot
+bigDataUrl MALAT1_attract_density_plot.bigWig
+shortLabel 00 MALAT1_density
+longLabel Density plot of 121 RBPs on MALAT1 using data from ATTRACT
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr11
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:40

@@ -3,7 +3,7 @@ bigDataUrl ATXN2_postarbinding_sites.bigBed
 shortLabel ATXN2_postar
 longLabel Binding sites of ATXN2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -13,7 +13,7 @@ bigDataUrl FXR2_postarbinding_sites.bigBed
 shortLabel FXR2_postar
 longLabel Binding sites of FXR2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -23,7 +23,7 @@ bigDataUrl EIF4A3_postarbinding_sites.bigBed
 shortLabel EIF4A3_postar
 longLabel Binding sites of EIF4A3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -33,7 +33,7 @@ bigDataUrl TRA2A_postarbinding_sites.bigBed
 shortLabel TRA2A_postar
 longLabel Binding sites of TRA2A derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -43,7 +43,7 @@ bigDataUrl GPKOW_postarbinding_sites.bigBed
 shortLabel GPKOW_postar
 longLabel Binding sites of GPKOW derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -53,7 +53,7 @@ bigDataUrl SND1_postarbinding_sites.bigBed
 shortLabel SND1_postar
 longLabel Binding sites of SND1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -63,7 +63,7 @@ bigDataUrl LIN28A_postarbinding_sites.bigBed
 shortLabel LIN28A_postar
 longLabel Binding sites of LIN28A derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -73,7 +73,7 @@ bigDataUrl CPSF1_postarbinding_sites.bigBed
 shortLabel CPSF1_postar
 longLabel Binding sites of CPSF1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -83,7 +83,7 @@ bigDataUrl HNRNPC_postarbinding_sites.bigBed
 shortLabel HNRNPC_postar
 longLabel Binding sites of HNRNPC derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -93,7 +93,7 @@ bigDataUrl DHX30_postarbinding_sites.bigBed
 shortLabel DHX30_postar
 longLabel Binding sites of DHX30 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -103,7 +103,7 @@ bigDataUrl YTHDF2_postarbinding_sites.bigBed
 shortLabel YTHDF2_postar
 longLabel Binding sites of YTHDF2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -113,7 +113,7 @@ bigDataUrl IGF2BP1_postarbinding_sites.bigBed
 shortLabel IGF2BP1_postar
 longLabel Binding sites of IGF2BP1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -123,7 +123,7 @@ bigDataUrl DDX24_postarbinding_sites.bigBed
 shortLabel DDX24_postar
 longLabel Binding sites of DDX24 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -133,7 +133,7 @@ bigDataUrl AARS_postarbinding_sites.bigBed
 shortLabel AARS_postar
 longLabel Binding sites of AARS derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -143,7 +143,7 @@ bigDataUrl EIF3A_postarbinding_sites.bigBed
 shortLabel EIF3A_postar
 longLabel Binding sites of EIF3A derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -153,7 +153,7 @@ bigDataUrl ZC3H7B_postarbinding_sites.bigBed
 shortLabel ZC3H7B_postar
 longLabel Binding sites of ZC3H7B derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -163,7 +163,7 @@ bigDataUrl CNBP_postarbinding_sites.bigBed
 shortLabel CNBP_postar
 longLabel Binding sites of CNBP derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -173,7 +173,7 @@ bigDataUrl QKI_postarbinding_sites.bigBed
 shortLabel QKI_postar
 longLabel Binding sites of QKI derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -183,7 +183,7 @@ bigDataUrl RBM15B_postarbinding_sites.bigBed
 shortLabel RBM15B_postar
 longLabel Binding sites of RBM15B derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -193,7 +193,7 @@ bigDataUrl EIF3D_postarbinding_sites.bigBed
 shortLabel EIF3D_postar
 longLabel Binding sites of EIF3D derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -203,7 +203,7 @@ bigDataUrl YTHDF3_postarbinding_sites.bigBed
 shortLabel YTHDF3_postar
 longLabel Binding sites of YTHDF3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -213,7 +213,7 @@ bigDataUrl GEMIN5_postarbinding_sites.bigBed
 shortLabel GEMIN5_postar
 longLabel Binding sites of GEMIN5 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -223,7 +223,7 @@ bigDataUrl U2AF2_postarbinding_sites.bigBed
 shortLabel U2AF2_postar
 longLabel Binding sites of U2AF2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -233,7 +233,7 @@ bigDataUrl EIF3H_postarbinding_sites.bigBed
 shortLabel EIF3H_postar
 longLabel Binding sites of EIF3H derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -243,7 +243,7 @@ bigDataUrl NOP58_postarbinding_sites.bigBed
 shortLabel NOP58_postar
 longLabel Binding sites of NOP58 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -253,7 +253,7 @@ bigDataUrl UPF1_postarbinding_sites.bigBed
 shortLabel UPF1_postar
 longLabel Binding sites of UPF1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -263,7 +263,7 @@ bigDataUrl YTHDC2_postarbinding_sites.bigBed
 shortLabel YTHDC2_postar
 longLabel Binding sites of YTHDC2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -273,7 +273,7 @@ bigDataUrl SRSF1_postarbinding_sites.bigBed
 shortLabel SRSF1_postar
 longLabel Binding sites of SRSF1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -283,7 +283,7 @@ bigDataUrl FMR1_postarbinding_sites.bigBed
 shortLabel FMR1_postar
 longLabel Binding sites of FMR1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -293,7 +293,7 @@ bigDataUrl EFTUD2_postarbinding_sites.bigBed
 shortLabel EFTUD2_postar
 longLabel Binding sites of EFTUD2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -303,7 +303,7 @@ bigDataUrl CSTF2_postarbinding_sites.bigBed
 shortLabel CSTF2_postar
 longLabel Binding sites of CSTF2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -313,7 +313,7 @@ bigDataUrl LARP4_postarbinding_sites.bigBed
 shortLabel LARP4_postar
 longLabel Binding sites of LARP4 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -323,7 +323,7 @@ bigDataUrl NUDT21_postarbinding_sites.bigBed
 shortLabel NUDT21_postar
 longLabel Binding sites of NUDT21 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -333,7 +333,7 @@ bigDataUrl TNRC6A_postarbinding_sites.bigBed
 shortLabel TNRC6A_postar
 longLabel Binding sites of TNRC6A derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -343,7 +343,7 @@ bigDataUrl AGGF1_postarbinding_sites.bigBed
 shortLabel AGGF1_postar
 longLabel Binding sites of AGGF1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -353,7 +353,7 @@ bigDataUrl RBM15_postarbinding_sites.bigBed
 shortLabel RBM15_postar
 longLabel Binding sites of RBM15 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -363,7 +363,7 @@ bigDataUrl RBM22_postarbinding_sites.bigBed
 shortLabel RBM22_postar
 longLabel Binding sites of RBM22 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -373,7 +373,7 @@ bigDataUrl STAU1_postarbinding_sites.bigBed
 shortLabel STAU1_postar
 longLabel Binding sites of STAU1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -383,7 +383,7 @@ bigDataUrl DDX55_postarbinding_sites.bigBed
 shortLabel DDX55_postar
 longLabel Binding sites of DDX55 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -393,7 +393,7 @@ bigDataUrl CPSF4_postarbinding_sites.bigBed
 shortLabel CPSF4_postar
 longLabel Binding sites of CPSF4 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -403,7 +403,7 @@ bigDataUrl ELAVL1_postarbinding_sites.bigBed
 shortLabel ELAVL1_postar
 longLabel Binding sites of ELAVL1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -413,7 +413,7 @@ bigDataUrl SSB_postarbinding_sites.bigBed
 shortLabel SSB_postar
 longLabel Binding sites of SSB derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -423,7 +423,7 @@ bigDataUrl PRPF8_postarbinding_sites.bigBed
 shortLabel PRPF8_postar
 longLabel Binding sites of PRPF8 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -433,7 +433,7 @@ bigDataUrl MTPAP_postarbinding_sites.bigBed
 shortLabel MTPAP_postar
 longLabel Binding sites of MTPAP derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -443,7 +443,7 @@ bigDataUrl NCBP3_postarbinding_sites.bigBed
 shortLabel NCBP3_postar
 longLabel Binding sites of NCBP3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -453,7 +453,7 @@ bigDataUrl BUD13_postarbinding_sites.bigBed
 shortLabel BUD13_postar
 longLabel Binding sites of BUD13 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -463,7 +463,7 @@ bigDataUrl YTHDF1_postarbinding_sites.bigBed
 shortLabel YTHDF1_postar
 longLabel Binding sites of YTHDF1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -473,7 +473,7 @@ bigDataUrl PTBP1_postarbinding_sites.bigBed
 shortLabel PTBP1_postar
 longLabel Binding sites of PTBP1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -483,7 +483,7 @@ bigDataUrl FASTKD2_postarbinding_sites.bigBed
 shortLabel FASTKD2_postar
 longLabel Binding sites of FASTKD2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -493,7 +493,7 @@ bigDataUrl TIAL1_postarbinding_sites.bigBed
 shortLabel TIAL1_postar
 longLabel Binding sites of TIAL1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -503,7 +503,7 @@ bigDataUrl IGF2BP2_postarbinding_sites.bigBed
 shortLabel IGF2BP2_postar
 longLabel Binding sites of IGF2BP2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -513,7 +513,7 @@ bigDataUrl SF3B4_postarbinding_sites.bigBed
 shortLabel SF3B4_postar
 longLabel Binding sites of SF3B4 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -523,7 +523,7 @@ bigDataUrl CELF2_postarbinding_sites.bigBed
 shortLabel CELF2_postar
 longLabel Binding sites of CELF2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -533,7 +533,7 @@ bigDataUrl CPSF6_postarbinding_sites.bigBed
 shortLabel CPSF6_postar
 longLabel Binding sites of CPSF6 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -543,7 +543,7 @@ bigDataUrl PPIG_postarbinding_sites.bigBed
 shortLabel PPIG_postar
 longLabel Binding sites of PPIG derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -553,7 +553,7 @@ bigDataUrl MOV10_postarbinding_sites.bigBed
 shortLabel MOV10_postar
 longLabel Binding sites of MOV10 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -563,7 +563,7 @@ bigDataUrl CSTF2T_postarbinding_sites.bigBed
 shortLabel CSTF2T_postar
 longLabel Binding sites of CSTF2T derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -573,7 +573,7 @@ bigDataUrl CAPRIN1_postarbinding_sites.bigBed
 shortLabel CAPRIN1_postar
 longLabel Binding sites of CAPRIN1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -583,7 +583,7 @@ bigDataUrl LIN28B_postarbinding_sites.bigBed
 shortLabel LIN28B_postar
 longLabel Binding sites of LIN28B derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -593,7 +593,7 @@ bigDataUrl HNRNPD_postarbinding_sites.bigBed
 shortLabel HNRNPD_postar
 longLabel Binding sites of HNRNPD derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -603,7 +603,7 @@ bigDataUrl CPSF2_postarbinding_sites.bigBed
 shortLabel CPSF2_postar
 longLabel Binding sites of CPSF2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -613,7 +613,7 @@ bigDataUrl ZRANB2_postarbinding_sites.bigBed
 shortLabel ZRANB2_postar
 longLabel Binding sites of ZRANB2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -623,7 +623,7 @@ bigDataUrl ALKBH5_postarbinding_sites.bigBed
 shortLabel ALKBH5_postar
 longLabel Binding sites of ALKBH5 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -633,7 +633,7 @@ bigDataUrl UCHL5_postarbinding_sites.bigBed
 shortLabel UCHL5_postar
 longLabel Binding sites of UCHL5 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -643,7 +643,7 @@ bigDataUrl FXR1_postarbinding_sites.bigBed
 shortLabel FXR1_postar
 longLabel Binding sites of FXR1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -653,7 +653,7 @@ bigDataUrl TBRG4_postarbinding_sites.bigBed
 shortLabel TBRG4_postar
 longLabel Binding sites of TBRG4 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -663,7 +663,7 @@ bigDataUrl PUM2_postarbinding_sites.bigBed
 shortLabel PUM2_postar
 longLabel Binding sites of PUM2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -673,7 +673,7 @@ bigDataUrl RTCB_postarbinding_sites.bigBed
 shortLabel RTCB_postar
 longLabel Binding sites of RTCB derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -683,7 +683,7 @@ bigDataUrl HNRNPA1_postarbinding_sites.bigBed
 shortLabel HNRNPA1_postar
 longLabel Binding sites of HNRNPA1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -693,7 +693,7 @@ bigDataUrl DDX6_postarbinding_sites.bigBed
 shortLabel DDX6_postar
 longLabel Binding sites of DDX6 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -703,7 +703,7 @@ bigDataUrl DKC1_postarbinding_sites.bigBed
 shortLabel DKC1_postar
 longLabel Binding sites of DKC1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -713,7 +713,7 @@ bigDataUrl CPSF3_postarbinding_sites.bigBed
 shortLabel CPSF3_postar
 longLabel Binding sites of CPSF3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -723,7 +723,7 @@ bigDataUrl SUB1_postarbinding_sites.bigBed
 shortLabel SUB1_postar
 longLabel Binding sites of SUB1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -733,7 +733,7 @@ bigDataUrl FBL_postarbinding_sites.bigBed
 shortLabel FBL_postar
 longLabel Binding sites of FBL derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -743,7 +743,7 @@ bigDataUrl CPSF7_postarbinding_sites.bigBed
 shortLabel CPSF7_postar
 longLabel Binding sites of CPSF7 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -753,7 +753,7 @@ bigDataUrl YBX3_postarbinding_sites.bigBed
 shortLabel YBX3_postar
 longLabel Binding sites of YBX3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -763,7 +763,7 @@ bigDataUrl RBPMS_postarbinding_sites.bigBed
 shortLabel RBPMS_postar
 longLabel Binding sites of RBPMS derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -773,7 +773,7 @@ bigDataUrl WDR33_postarbinding_sites.bigBed
 shortLabel WDR33_postar
 longLabel Binding sites of WDR33 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -783,7 +783,7 @@ bigDataUrl ZNF622_postarbinding_sites.bigBed
 shortLabel ZNF622_postar
 longLabel Binding sites of ZNF622 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -793,7 +793,7 @@ bigDataUrl TAF15_postarbinding_sites.bigBed
 shortLabel TAF15_postar
 longLabel Binding sites of TAF15 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -803,7 +803,7 @@ bigDataUrl SRRM4_postarbinding_sites.bigBed
 shortLabel SRRM4_postar
 longLabel Binding sites of SRRM4 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -813,7 +813,7 @@ bigDataUrl SMNDC1_postarbinding_sites.bigBed
 shortLabel SMNDC1_postar
 longLabel Binding sites of SMNDC1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -823,7 +823,7 @@ bigDataUrl HNRNPM_postarbinding_sites.bigBed
 shortLabel HNRNPM_postar
 longLabel Binding sites of HNRNPM derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -833,7 +833,7 @@ bigDataUrl FUS_postarbinding_sites.bigBed
 shortLabel FUS_postar
 longLabel Binding sites of FUS derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -843,7 +843,7 @@ bigDataUrl GRWD1_postarbinding_sites.bigBed
 shortLabel GRWD1_postar
 longLabel Binding sites of GRWD1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -853,7 +853,7 @@ bigDataUrl TIA1_postarbinding_sites.bigBed
 shortLabel TIA1_postar
 longLabel Binding sites of TIA1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -863,7 +863,7 @@ bigDataUrl EWSR1_postarbinding_sites.bigBed
 shortLabel EWSR1_postar
 longLabel Binding sites of EWSR1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -873,7 +873,7 @@ bigDataUrl DDX3X_postarbinding_sites.bigBed
 shortLabel DDX3X_postar
 longLabel Binding sites of DDX3X derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -883,7 +883,7 @@ bigDataUrl YTHDC1_postarbinding_sites.bigBed
 shortLabel YTHDC1_postar
 longLabel Binding sites of YTHDC1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -893,7 +893,7 @@ bigDataUrl RPS3_postarbinding_sites.bigBed
 shortLabel RPS3_postar
 longLabel Binding sites of RPS3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -903,7 +903,7 @@ bigDataUrl FIP1L1_postarbinding_sites.bigBed
 shortLabel FIP1L1_postar
 longLabel Binding sites of FIP1L1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -913,7 +913,7 @@ bigDataUrl METAP2_postarbinding_sites.bigBed
 shortLabel METAP2_postar
 longLabel Binding sites of METAP2 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -923,7 +923,7 @@ bigDataUrl IGF2BP3_postarbinding_sites.bigBed
 shortLabel IGF2BP3_postar
 longLabel Binding sites of IGF2BP3 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -933,7 +933,7 @@ bigDataUrl DGCR8_postarbinding_sites.bigBed
 shortLabel DGCR8_postar
 longLabel Binding sites of DGCR8 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -943,7 +943,7 @@ bigDataUrl TARDBP_postarbinding_sites.bigBed
 shortLabel TARDBP_postar
 longLabel Binding sites of TARDBP derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -953,7 +953,7 @@ bigDataUrl SF3B1_postarbinding_sites.bigBed
 shortLabel SF3B1_postar
 longLabel Binding sites of SF3B1 derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -963,7 +963,7 @@ bigDataUrl EIF3G_postarbinding_sites.bigBed
 shortLabel EIF3G_postar
 longLabel Binding sites of EIF3G derived from POSTAR (experimental)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -973,7 +973,7 @@ bigDataUrl SAMD4A_attractbinding_sites.bigBed
 shortLabel SAMD4A_attract
 longLabel Binding sites of SAMD4A derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -983,7 +983,7 @@ bigDataUrl SSB_attractbinding_sites.bigBed
 shortLabel SSB_attract
 longLabel Binding sites of SSB derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -993,7 +993,7 @@ bigDataUrl HNRNPCL1_attractbinding_sites.bigBed
 shortLabel HNRNPCL1_attract
 longLabel Binding sites of HNRNPCL1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1003,7 +1003,7 @@ bigDataUrl SRSF3_attractbinding_sites.bigBed
 shortLabel SRSF3_attract
 longLabel Binding sites of SRSF3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1013,7 +1013,7 @@ bigDataUrl HNRNPA2B1_attractbinding_sites.bigBed
 shortLabel HNRNPA2B1_attract
 longLabel Binding sites of HNRNPA2B1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1023,7 +1023,7 @@ bigDataUrl AKAP1_attractbinding_sites.bigBed
 shortLabel AKAP1_attract
 longLabel Binding sites of AKAP1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1033,7 +1033,7 @@ bigDataUrl HNRNPAB_attractbinding_sites.bigBed
 shortLabel HNRNPAB_attract
 longLabel Binding sites of HNRNPAB derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1043,7 +1043,7 @@ bigDataUrl HNRNPU_attractbinding_sites.bigBed
 shortLabel HNRNPU_attract
 longLabel Binding sites of HNRNPU derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1053,7 +1053,7 @@ bigDataUrl HNRNPF_attractbinding_sites.bigBed
 shortLabel HNRNPF_attract
 longLabel Binding sites of HNRNPF derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1063,7 +1063,7 @@ bigDataUrl ELAVL2_attractbinding_sites.bigBed
 shortLabel ELAVL2_attract
 longLabel Binding sites of ELAVL2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1073,7 +1073,7 @@ bigDataUrl TRA2B_attractbinding_sites.bigBed
 shortLabel TRA2B_attract
 longLabel Binding sites of TRA2B derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1083,7 +1083,7 @@ bigDataUrl RBM41_attractbinding_sites.bigBed
 shortLabel RBM41_attract
 longLabel Binding sites of RBM41 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1093,7 +1093,7 @@ bigDataUrl OAS1_attractbinding_sites.bigBed
 shortLabel OAS1_attract
 longLabel Binding sites of OAS1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1103,7 +1103,7 @@ bigDataUrl PCBP1_attractbinding_sites.bigBed
 shortLabel PCBP1_attract
 longLabel Binding sites of PCBP1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1113,7 +1113,7 @@ bigDataUrl KHDRBS1_attractbinding_sites.bigBed
 shortLabel KHDRBS1_attract
 longLabel Binding sites of KHDRBS1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1123,7 +1123,7 @@ bigDataUrl XPO5_attractbinding_sites.bigBed
 shortLabel XPO5_attract
 longLabel Binding sites of XPO5 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1133,7 +1133,7 @@ bigDataUrl ESRP1_attractbinding_sites.bigBed
 shortLabel ESRP1_attract
 longLabel Binding sites of ESRP1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1143,7 +1143,7 @@ bigDataUrl A1CF_attractbinding_sites.bigBed
 shortLabel A1CF_attract
 longLabel Binding sites of A1CF derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1153,7 +1153,7 @@ bigDataUrl CPEB2_attractbinding_sites.bigBed
 shortLabel CPEB2_attract
 longLabel Binding sites of CPEB2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1163,7 +1163,7 @@ bigDataUrl ZNF346_attractbinding_sites.bigBed
 shortLabel ZNF346_attract
 longLabel Binding sites of ZNF346 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1173,7 +1173,7 @@ bigDataUrl DHX58_attractbinding_sites.bigBed
 shortLabel DHX58_attract
 longLabel Binding sites of DHX58 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1183,7 +1183,7 @@ bigDataUrl CELF4_attractbinding_sites.bigBed
 shortLabel CELF4_attract
 longLabel Binding sites of CELF4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1193,7 +1193,7 @@ bigDataUrl PUM1_attractbinding_sites.bigBed
 shortLabel PUM1_attract
 longLabel Binding sites of PUM1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1203,7 +1203,7 @@ bigDataUrl DDX19B_attractbinding_sites.bigBed
 shortLabel DDX19B_attract
 longLabel Binding sites of DDX19B derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1213,7 +1213,7 @@ bigDataUrl RBM46_attractbinding_sites.bigBed
 shortLabel RBM46_attract
 longLabel Binding sites of RBM46 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1223,7 +1223,7 @@ bigDataUrl SFPQ_attractbinding_sites.bigBed
 shortLabel SFPQ_attract
 longLabel Binding sites of SFPQ derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1233,7 +1233,7 @@ bigDataUrl SRP14_attractbinding_sites.bigBed
 shortLabel SRP14_attract
 longLabel Binding sites of SRP14 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1243,7 +1243,7 @@ bigDataUrl RBM24_attractbinding_sites.bigBed
 shortLabel RBM24_attract
 longLabel Binding sites of RBM24 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1253,7 +1253,7 @@ bigDataUrl SRSF11_attractbinding_sites.bigBed
 shortLabel SRSF11_attract
 longLabel Binding sites of SRSF11 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1263,7 +1263,7 @@ bigDataUrl RBMY1A1_attractbinding_sites.bigBed
 shortLabel RBMY1A1_attract
 longLabel Binding sites of RBMY1A1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1273,7 +1273,7 @@ bigDataUrl U2AF2_attractbinding_sites.bigBed
 shortLabel U2AF2_attract
 longLabel Binding sites of U2AF2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1283,7 +1283,7 @@ bigDataUrl HNRNPDL_attractbinding_sites.bigBed
 shortLabel HNRNPDL_attract
 longLabel Binding sites of HNRNPDL derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1293,7 +1293,7 @@ bigDataUrl IFIH1_attractbinding_sites.bigBed
 shortLabel IFIH1_attract
 longLabel Binding sites of IFIH1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1303,7 +1303,7 @@ bigDataUrl EIF4A3_attractbinding_sites.bigBed
 shortLabel EIF4A3_attract
 longLabel Binding sites of EIF4A3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1313,7 +1313,7 @@ bigDataUrl FMR1_attractbinding_sites.bigBed
 shortLabel FMR1_attract
 longLabel Binding sites of FMR1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1323,7 +1323,7 @@ bigDataUrl RBMX_attractbinding_sites.bigBed
 shortLabel RBMX_attract
 longLabel Binding sites of RBMX derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1333,7 +1333,7 @@ bigDataUrl SRSF4_attractbinding_sites.bigBed
 shortLabel SRSF4_attract
 longLabel Binding sites of SRSF4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1343,7 +1343,7 @@ bigDataUrl FXR2_attractbinding_sites.bigBed
 shortLabel FXR2_attract
 longLabel Binding sites of FXR2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1353,7 +1353,7 @@ bigDataUrl HNRNPA1_attractbinding_sites.bigBed
 shortLabel HNRNPA1_attract
 longLabel Binding sites of HNRNPA1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1363,7 +1363,7 @@ bigDataUrl PABPC5_attractbinding_sites.bigBed
 shortLabel PABPC5_attract
 longLabel Binding sites of PABPC5 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1373,7 +1373,7 @@ bigDataUrl G3BP2_attractbinding_sites.bigBed
 shortLabel G3BP2_attract
 longLabel Binding sites of G3BP2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1383,7 +1383,7 @@ bigDataUrl SRSF9_attractbinding_sites.bigBed
 shortLabel SRSF9_attract
 longLabel Binding sites of SRSF9 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1393,7 +1393,7 @@ bigDataUrl PTBP1_attractbinding_sites.bigBed
 shortLabel PTBP1_attract
 longLabel Binding sites of PTBP1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1403,7 +1403,7 @@ bigDataUrl SNRNP70_attractbinding_sites.bigBed
 shortLabel SNRNP70_attract
 longLabel Binding sites of SNRNP70 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1413,7 +1413,7 @@ bigDataUrl NOVA2_attractbinding_sites.bigBed
 shortLabel NOVA2_attract
 longLabel Binding sites of NOVA2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1423,7 +1423,7 @@ bigDataUrl SRSF1_attractbinding_sites.bigBed
 shortLabel SRSF1_attract
 longLabel Binding sites of SRSF1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1433,7 +1433,7 @@ bigDataUrl RBFOX2_attractbinding_sites.bigBed
 shortLabel RBFOX2_attract
 longLabel Binding sites of RBFOX2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1443,7 +1443,7 @@ bigDataUrl TUT1_attractbinding_sites.bigBed
 shortLabel TUT1_attract
 longLabel Binding sites of TUT1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1453,7 +1453,7 @@ bigDataUrl HNRNPD_attractbinding_sites.bigBed
 shortLabel HNRNPD_attract
 longLabel Binding sites of HNRNPD derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1463,7 +1463,7 @@ bigDataUrl CELF1_attractbinding_sites.bigBed
 shortLabel CELF1_attract
 longLabel Binding sites of CELF1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1473,7 +1473,7 @@ bigDataUrl NXF1_attractbinding_sites.bigBed
 shortLabel NXF1_attract
 longLabel Binding sites of NXF1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1483,7 +1483,7 @@ bigDataUrl RALY_attractbinding_sites.bigBed
 shortLabel RALY_attract
 longLabel Binding sites of RALY derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1493,7 +1493,7 @@ bigDataUrl SRP19_attractbinding_sites.bigBed
 shortLabel SRP19_attract
 longLabel Binding sites of SRP19 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1503,7 +1503,7 @@ bigDataUrl SART3_attractbinding_sites.bigBed
 shortLabel SART3_attract
 longLabel Binding sites of SART3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1513,7 +1513,7 @@ bigDataUrl GRSF1_attractbinding_sites.bigBed
 shortLabel GRSF1_attract
 longLabel Binding sites of GRSF1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1523,7 +1523,7 @@ bigDataUrl RNASEL_attractbinding_sites.bigBed
 shortLabel RNASEL_attract
 longLabel Binding sites of RNASEL derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1533,7 +1533,7 @@ bigDataUrl HNRNPL_attractbinding_sites.bigBed
 shortLabel HNRNPL_attract
 longLabel Binding sites of HNRNPL derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1543,7 +1543,7 @@ bigDataUrl KHDRBS3_attractbinding_sites.bigBed
 shortLabel KHDRBS3_attract
 longLabel Binding sites of KHDRBS3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1553,7 +1553,7 @@ bigDataUrl YBX1_attractbinding_sites.bigBed
 shortLabel YBX1_attract
 longLabel Binding sites of YBX1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1563,7 +1563,7 @@ bigDataUrl AGO2_attractbinding_sites.bigBed
 shortLabel AGO2_attract
 longLabel Binding sites of AGO2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1573,7 +1573,7 @@ bigDataUrl MBNL1_attractbinding_sites.bigBed
 shortLabel MBNL1_attract
 longLabel Binding sites of MBNL1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1583,7 +1583,7 @@ bigDataUrl HNRNPK_attractbinding_sites.bigBed
 shortLabel HNRNPK_attract
 longLabel Binding sites of HNRNPK derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1593,7 +1593,7 @@ bigDataUrl YTHDC1_attractbinding_sites.bigBed
 shortLabel YTHDC1_attract
 longLabel Binding sites of YTHDC1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1603,7 +1603,7 @@ bigDataUrl ENOX1_attractbinding_sites.bigBed
 shortLabel ENOX1_attract
 longLabel Binding sites of ENOX1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1613,7 +1613,7 @@ bigDataUrl CELF6_attractbinding_sites.bigBed
 shortLabel CELF6_attract
 longLabel Binding sites of CELF6 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1623,7 +1623,7 @@ bigDataUrl RBM5_attractbinding_sites.bigBed
 shortLabel RBM5_attract
 longLabel Binding sites of RBM5 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1633,7 +1633,7 @@ bigDataUrl CNOT4_attractbinding_sites.bigBed
 shortLabel CNOT4_attract
 longLabel Binding sites of CNOT4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1643,7 +1643,7 @@ bigDataUrl HNRNPC_attractbinding_sites.bigBed
 shortLabel HNRNPC_attract
 longLabel Binding sites of HNRNPC derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1653,7 +1653,7 @@ bigDataUrl ANKHD1_attractbinding_sites.bigBed
 shortLabel ANKHD1_attract
 longLabel Binding sites of ANKHD1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1663,7 +1663,7 @@ bigDataUrl HNRNPH2_attractbinding_sites.bigBed
 shortLabel HNRNPH2_attract
 longLabel Binding sites of HNRNPH2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1673,7 +1673,7 @@ bigDataUrl SRSF6_attractbinding_sites.bigBed
 shortLabel SRSF6_attract
 longLabel Binding sites of SRSF6 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1683,7 +1683,7 @@ bigDataUrl ADAR_attractbinding_sites.bigBed
 shortLabel ADAR_attract
 longLabel Binding sites of ADAR derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1693,7 +1693,7 @@ bigDataUrl IGF2BP2_attractbinding_sites.bigBed
 shortLabel IGF2BP2_attract
 longLabel Binding sites of IGF2BP2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1703,7 +1703,7 @@ bigDataUrl CSTF2_attractbinding_sites.bigBed
 shortLabel CSTF2_attract
 longLabel Binding sites of CSTF2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1713,7 +1713,7 @@ bigDataUrl MATR3_attractbinding_sites.bigBed
 shortLabel MATR3_attract
 longLabel Binding sites of MATR3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1723,7 +1723,7 @@ bigDataUrl HNRNPH3_attractbinding_sites.bigBed
 shortLabel HNRNPH3_attract
 longLabel Binding sites of HNRNPH3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1733,7 +1733,7 @@ bigDataUrl HNRNPA1L2_attractbinding_sites.bigBed
 shortLabel HNRNPA1L2_attract
 longLabel Binding sites of HNRNPA1L2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1743,7 +1743,7 @@ bigDataUrl FXR1_attractbinding_sites.bigBed
 shortLabel FXR1_attract
 longLabel Binding sites of FXR1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1753,7 +1753,7 @@ bigDataUrl SRSF7_attractbinding_sites.bigBed
 shortLabel SRSF7_attract
 longLabel Binding sites of SRSF7 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1763,7 +1763,7 @@ bigDataUrl ERI1_attractbinding_sites.bigBed
 shortLabel ERI1_attract
 longLabel Binding sites of ERI1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1773,7 +1773,7 @@ bigDataUrl IGF2BP3_attractbinding_sites.bigBed
 shortLabel IGF2BP3_attract
 longLabel Binding sites of IGF2BP3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1783,7 +1783,7 @@ bigDataUrl PUM2_attractbinding_sites.bigBed
 shortLabel PUM2_attract
 longLabel Binding sites of PUM2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1793,7 +1793,7 @@ bigDataUrl LIN28A_attractbinding_sites.bigBed
 shortLabel LIN28A_attract
 longLabel Binding sites of LIN28A derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1803,7 +1803,7 @@ bigDataUrl RBM4_attractbinding_sites.bigBed
 shortLabel RBM4_attract
 longLabel Binding sites of RBM4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1813,7 +1813,7 @@ bigDataUrl SYNCRIP_attractbinding_sites.bigBed
 shortLabel SYNCRIP_attract
 longLabel Binding sites of SYNCRIP derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1823,7 +1823,7 @@ bigDataUrl CPEB1_attractbinding_sites.bigBed
 shortLabel CPEB1_attract
 longLabel Binding sites of CPEB1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1833,7 +1833,7 @@ bigDataUrl NONO_attractbinding_sites.bigBed
 shortLabel NONO_attract
 longLabel Binding sites of NONO derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1843,7 +1843,7 @@ bigDataUrl ESRP2_attractbinding_sites.bigBed
 shortLabel ESRP2_attract
 longLabel Binding sites of ESRP2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1853,7 +1853,7 @@ bigDataUrl RBMS3_attractbinding_sites.bigBed
 shortLabel RBMS3_attract
 longLabel Binding sites of RBMS3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1863,7 +1863,7 @@ bigDataUrl RBM14_attractbinding_sites.bigBed
 shortLabel RBM14_attract
 longLabel Binding sites of RBM14 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1873,7 +1873,7 @@ bigDataUrl ACO1_attractbinding_sites.bigBed
 shortLabel ACO1_attract
 longLabel Binding sites of ACO1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1883,7 +1883,7 @@ bigDataUrl SRP68_attractbinding_sites.bigBed
 shortLabel SRP68_attract
 longLabel Binding sites of SRP68 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1893,7 +1893,7 @@ bigDataUrl PCBP2_attractbinding_sites.bigBed
 shortLabel PCBP2_attract
 longLabel Binding sites of PCBP2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1903,7 +1903,7 @@ bigDataUrl HNRNPM_attractbinding_sites.bigBed
 shortLabel HNRNPM_attract
 longLabel Binding sites of HNRNPM derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1913,7 +1913,7 @@ bigDataUrl PPIE_attractbinding_sites.bigBed
 shortLabel PPIE_attract
 longLabel Binding sites of PPIE derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1923,7 +1923,7 @@ bigDataUrl NUDT21_attractbinding_sites.bigBed
 shortLabel NUDT21_attract
 longLabel Binding sites of NUDT21 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1933,7 +1933,7 @@ bigDataUrl KHSRP_attractbinding_sites.bigBed
 shortLabel KHSRP_attract
 longLabel Binding sites of KHSRP derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1943,7 +1943,7 @@ bigDataUrl ZFP36_attractbinding_sites.bigBed
 shortLabel ZFP36_attract
 longLabel Binding sites of ZFP36 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1953,7 +1953,7 @@ bigDataUrl TARDBP_attractbinding_sites.bigBed
 shortLabel TARDBP_attract
 longLabel Binding sites of TARDBP derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1963,7 +1963,7 @@ bigDataUrl HNRNPLL_attractbinding_sites.bigBed
 shortLabel HNRNPLL_attract
 longLabel Binding sites of HNRNPLL derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1973,7 +1973,7 @@ bigDataUrl KHDRBS2_attractbinding_sites.bigBed
 shortLabel KHDRBS2_attract
 longLabel Binding sites of KHDRBS2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1983,7 +1983,7 @@ bigDataUrl QKI_attractbinding_sites.bigBed
 shortLabel QKI_attract
 longLabel Binding sites of QKI derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -1993,7 +1993,7 @@ bigDataUrl ELAVL1_attractbinding_sites.bigBed
 shortLabel ELAVL1_attract
 longLabel Binding sites of ELAVL1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2003,7 +2003,7 @@ bigDataUrl DHX9_attractbinding_sites.bigBed
 shortLabel DHX9_attract
 longLabel Binding sites of DHX9 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2013,7 +2013,7 @@ bigDataUrl RBM42_attractbinding_sites.bigBed
 shortLabel RBM42_attract
 longLabel Binding sites of RBM42 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2023,7 +2023,7 @@ bigDataUrl TRA2A_attractbinding_sites.bigBed
 shortLabel TRA2A_attract
 longLabel Binding sites of TRA2A derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2033,7 +2033,7 @@ bigDataUrl F2_attractbinding_sites.bigBed
 shortLabel F2_attract
 longLabel Binding sites of F2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2043,7 +2043,7 @@ bigDataUrl CMTR1_attractbinding_sites.bigBed
 shortLabel CMTR1_attract
 longLabel Binding sites of CMTR1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2053,7 +2053,7 @@ bigDataUrl MSI1_attractbinding_sites.bigBed
 shortLabel MSI1_attract
 longLabel Binding sites of MSI1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2063,7 +2063,7 @@ bigDataUrl PABPC1_attractbinding_sites.bigBed
 shortLabel PABPC1_attract
 longLabel Binding sites of PABPC1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2073,7 +2073,7 @@ bigDataUrl TIAL1_attractbinding_sites.bigBed
 shortLabel TIAL1_attract
 longLabel Binding sites of TIAL1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2083,7 +2083,7 @@ bigDataUrl IGHMBP2_attractbinding_sites.bigBed
 shortLabel IGHMBP2_attract
 longLabel Binding sites of IGHMBP2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2093,7 +2093,7 @@ bigDataUrl SRP54_attractbinding_sites.bigBed
 shortLabel SRP54_attract
 longLabel Binding sites of SRP54 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2103,7 +2103,7 @@ bigDataUrl FUS_attractbinding_sites.bigBed
 shortLabel FUS_attract
 longLabel Binding sites of FUS derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2113,7 +2113,7 @@ bigDataUrl RBM28_attractbinding_sites.bigBed
 shortLabel RBM28_attract
 longLabel Binding sites of RBM28 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2123,7 +2123,7 @@ bigDataUrl ZRANB2_attractbinding_sites.bigBed
 shortLabel ZRANB2_attract
 longLabel Binding sites of ZRANB2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2133,7 +2133,7 @@ bigDataUrl ZNF638_attractbinding_sites.bigBed
 shortLabel ZNF638_attract
 longLabel Binding sites of ZNF638 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2143,7 +2143,7 @@ bigDataUrl PHAX_attractbinding_sites.bigBed
 shortLabel PHAX_attract
 longLabel Binding sites of PHAX derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2153,7 +2153,7 @@ bigDataUrl PABPC4_attractbinding_sites.bigBed
 shortLabel PABPC4_attract
 longLabel Binding sites of PABPC4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2163,7 +2163,7 @@ bigDataUrl HNRNPA0_attractbinding_sites.bigBed
 shortLabel HNRNPA0_attract
 longLabel Binding sites of HNRNPA0 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2173,7 +2173,7 @@ bigDataUrl SRSF10_attractbinding_sites.bigBed
 shortLabel SRSF10_attract
 longLabel Binding sites of SRSF10 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2183,7 +2183,7 @@ bigDataUrl RBM25_attractbinding_sites.bigBed
 shortLabel RBM25_attract
 longLabel Binding sites of RBM25 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2193,7 +2193,7 @@ bigDataUrl HNRNPH1_attractbinding_sites.bigBed
 shortLabel HNRNPH1_attract
 longLabel Binding sites of HNRNPH1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2203,7 +2203,7 @@ bigDataUrl SRSF5_attractbinding_sites.bigBed
 shortLabel SRSF5_attract
 longLabel Binding sites of SRSF5 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2213,7 +2213,7 @@ bigDataUrl CELF5_attractbinding_sites.bigBed
 shortLabel CELF5_attract
 longLabel Binding sites of CELF5 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2223,7 +2223,7 @@ bigDataUrl ELAVL4_attractbinding_sites.bigBed
 shortLabel ELAVL4_attract
 longLabel Binding sites of ELAVL4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2233,7 +2233,7 @@ bigDataUrl PIWIL1_attractbinding_sites.bigBed
 shortLabel PIWIL1_attract
 longLabel Binding sites of PIWIL1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2243,7 +2243,7 @@ bigDataUrl RBM6_attractbinding_sites.bigBed
 shortLabel RBM6_attract
 longLabel Binding sites of RBM6 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2253,7 +2253,7 @@ bigDataUrl AGO1_attractbinding_sites.bigBed
 shortLabel AGO1_attract
 longLabel Binding sites of AGO1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2263,7 +2263,7 @@ bigDataUrl YBX2_attractbinding_sites.bigBed
 shortLabel YBX2_attract
 longLabel Binding sites of YBX2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2273,7 +2273,7 @@ bigDataUrl RBMS1_attractbinding_sites.bigBed
 shortLabel RBMS1_attract
 longLabel Binding sites of RBMS1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2283,7 +2283,7 @@ bigDataUrl PABPN1_attractbinding_sites.bigBed
 shortLabel PABPN1_attract
 longLabel Binding sites of PABPN1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2293,7 +2293,7 @@ bigDataUrl SF1_attractbinding_sites.bigBed
 shortLabel SF1_attract
 longLabel Binding sites of SF1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2303,7 +2303,7 @@ bigDataUrl CPEB4_attractbinding_sites.bigBed
 shortLabel CPEB4_attract
 longLabel Binding sites of CPEB4 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2313,7 +2313,7 @@ bigDataUrl ELAVL3_attractbinding_sites.bigBed
 shortLabel ELAVL3_attract
 longLabel Binding sites of ELAVL3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2323,7 +2323,7 @@ bigDataUrl RC3H1_attractbinding_sites.bigBed
 shortLabel RC3H1_attract
 longLabel Binding sites of RC3H1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2333,7 +2333,7 @@ bigDataUrl CELF2_attractbinding_sites.bigBed
 shortLabel CELF2_attract
 longLabel Binding sites of CELF2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2343,7 +2343,7 @@ bigDataUrl SNRPA_attractbinding_sites.bigBed
 shortLabel SNRPA_attract
 longLabel Binding sites of SNRPA derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2353,7 +2353,7 @@ bigDataUrl SUPV3L1_attractbinding_sites.bigBed
 shortLabel SUPV3L1_attract
 longLabel Binding sites of SUPV3L1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2363,7 +2363,7 @@ bigDataUrl SRSF2_attractbinding_sites.bigBed
 shortLabel SRSF2_attract
 longLabel Binding sites of SRSF2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2373,7 +2373,7 @@ bigDataUrl RBFOX1_attractbinding_sites.bigBed
 shortLabel RBFOX1_attract
 longLabel Binding sites of RBFOX1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2383,7 +2383,7 @@ bigDataUrl DAZAP1_attractbinding_sites.bigBed
 shortLabel DAZAP1_attract
 longLabel Binding sites of DAZAP1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2393,7 +2393,7 @@ bigDataUrl NOVA1_attractbinding_sites.bigBed
 shortLabel NOVA1_attract
 longLabel Binding sites of NOVA1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2403,7 +2403,7 @@ bigDataUrl NELFE_attractbinding_sites.bigBed
 shortLabel NELFE_attract
 longLabel Binding sites of NELFE derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2413,7 +2413,7 @@ bigDataUrl EIF4B_attractbinding_sites.bigBed
 shortLabel EIF4B_attract
 longLabel Binding sites of EIF4B derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2423,7 +2423,7 @@ bigDataUrl PTBP2_attractbinding_sites.bigBed
 shortLabel PTBP2_attract
 longLabel Binding sites of PTBP2 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2433,7 +2433,7 @@ bigDataUrl PABPC3_attractbinding_sites.bigBed
 shortLabel PABPC3_attract
 longLabel Binding sites of PABPC3 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2443,7 +2443,7 @@ bigDataUrl TIA1_attractbinding_sites.bigBed
 shortLabel TIA1_attract
 longLabel Binding sites of TIA1 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on
@@ -2453,7 +2453,7 @@ bigDataUrl DDX58_attractbinding_sites.bigBed
 shortLabel DDX58_attract
 longLabel Binding sites of DDX58 derived from ATTRACT (computational)
 type bigBed 9 +
-visibility pack
+visibility dense
 chromosomes chr1
 itemRgb on
 spectrum on

@@ -1,0 +1,161 @@
+track ATXN2_postarbinding_sites
+bigDataUrl ATXN2_postarbinding_sites.bigBed
+shortLabel ATXN2_postar
+longLabel Binding sites of ATXN2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track WTAP_postarbinding_sites
+bigDataUrl WTAP_postarbinding_sites.bigBed
+shortLabel WTAP_postar
+longLabel Binding sites of WTAP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track LIN28A_postarbinding_sites
+bigDataUrl LIN28A_postarbinding_sites.bigBed
+shortLabel LIN28A_postar
+longLabel Binding sites of LIN28A derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track CNBP_postarbinding_sites
+bigDataUrl CNBP_postarbinding_sites.bigBed
+shortLabel CNBP_postar
+longLabel Binding sites of CNBP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track YTHDC2_postarbinding_sites
+bigDataUrl YTHDC2_postarbinding_sites.bigBed
+shortLabel YTHDC2_postar
+longLabel Binding sites of YTHDC2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track ELAVL1_postarbinding_sites
+bigDataUrl ELAVL1_postarbinding_sites.bigBed
+shortLabel ELAVL1_postar
+longLabel Binding sites of ELAVL1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track SSB_postarbinding_sites
+bigDataUrl SSB_postarbinding_sites.bigBed
+shortLabel SSB_postar
+longLabel Binding sites of SSB derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track NCBP3_postarbinding_sites
+bigDataUrl NCBP3_postarbinding_sites.bigBed
+shortLabel NCBP3_postar
+longLabel Binding sites of NCBP3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track MOV10_postarbinding_sites
+bigDataUrl MOV10_postarbinding_sites.bigBed
+shortLabel MOV10_postar
+longLabel Binding sites of MOV10 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track LIN28B_postarbinding_sites
+bigDataUrl LIN28B_postarbinding_sites.bigBed
+shortLabel LIN28B_postar
+longLabel Binding sites of LIN28B derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track CPSF2_postarbinding_sites
+bigDataUrl CPSF2_postarbinding_sites.bigBed
+shortLabel CPSF2_postar
+longLabel Binding sites of CPSF2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track MBNL2_postarbinding_sites
+bigDataUrl MBNL2_postarbinding_sites.bigBed
+shortLabel MBNL2_postar
+longLabel Binding sites of MBNL2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track FUS_postarbinding_sites
+bigDataUrl FUS_postarbinding_sites.bigBed
+shortLabel FUS_postar
+longLabel Binding sites of FUS derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track FIP1L1_postarbinding_sites
+bigDataUrl FIP1L1_postarbinding_sites.bigBed
+shortLabel FIP1L1_postar
+longLabel Binding sites of FIP1L1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track TARDBP_postarbinding_sites
+bigDataUrl TARDBP_postarbinding_sites.bigBed
+shortLabel TARDBP_postar
+longLabel Binding sites of TARDBP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr10
+itemRgb on
+spectrum on
+
+track LDB3_postar_density_plot
+bigDataUrl LDB3_postar_density_plot.bigWig
+shortLabel 00 LDB3_density
+longLabel Density plot of 15 RBPs on LDB3 using data from POSTAR
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr10
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:10

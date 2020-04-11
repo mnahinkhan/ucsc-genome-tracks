@@ -1,0 +1,11 @@
+track BUTR1_attract_density_plot
+bigDataUrl BUTR1_attract_density_plot.bigWig
+shortLabel 00 BUTR1_density
+longLabel Density plot of 85 RBPs on BUTR1 using data from ATTRACT
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr1
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:20

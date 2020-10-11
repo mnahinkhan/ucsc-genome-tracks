@@ -1,0 +1,681 @@
+track TRA2B_rbpdbbinding_sites
+bigDataUrl TRA2B_rbpdbbinding_sites.bigBed
+shortLabel TRA2B_rbpdb
+longLabel Binding sites of TRA2B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track KHDRBS2_rbpdbbinding_sites
+bigDataUrl KHDRBS2_rbpdbbinding_sites.bigBed
+shortLabel KHDRBS2_rbpdb
+longLabel Binding sites of KHDRBS2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPD_rbpdbbinding_sites
+bigDataUrl HNRNPD_rbpdbbinding_sites.bigBed
+shortLabel HNRNPD_rbpdb
+longLabel Binding sites of HNRNPD derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRPLL_rbpdbbinding_sites
+bigDataUrl HNRPLL_rbpdbbinding_sites.bigBed
+shortLabel HNRPLL_rbpdb
+longLabel Binding sites of HNRPLL derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track IGF2BP3_rbpdbbinding_sites
+bigDataUrl IGF2BP3_rbpdbbinding_sites.bigBed
+shortLabel IGF2BP3_rbpdb
+longLabel Binding sites of IGF2BP3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PUM1_rbpdbbinding_sites
+bigDataUrl PUM1_rbpdbbinding_sites.bigBed
+shortLabel PUM1_rbpdb
+longLabel Binding sites of PUM1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPK_rbpdbbinding_sites
+bigDataUrl HNRNPK_rbpdbbinding_sites.bigBed
+shortLabel HNRNPK_rbpdb
+longLabel Binding sites of HNRNPK derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track TARDBP_rbpdbbinding_sites
+bigDataUrl TARDBP_rbpdbbinding_sites.bigBed
+shortLabel TARDBP_rbpdb
+longLabel Binding sites of TARDBP derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track SFRS9_rbpdbbinding_sites
+bigDataUrl SFRS9_rbpdbbinding_sites.bigBed
+shortLabel SFRS9_rbpdb
+longLabel Binding sites of SFRS9 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track EIF4B_rbpdbbinding_sites
+bigDataUrl EIF4B_rbpdbbinding_sites.bigBed
+shortLabel EIF4B_rbpdb
+longLabel Binding sites of EIF4B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track RBM9_rbpdbbinding_sites
+bigDataUrl RBM9_rbpdbbinding_sites.bigBed
+shortLabel RBM9_rbpdb
+longLabel Binding sites of RBM9 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track SNRPA_rbpdbbinding_sites
+bigDataUrl SNRPA_rbpdbbinding_sites.bigBed
+shortLabel SNRPA_rbpdb
+longLabel Binding sites of SNRPA derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ELAVL2_rbpdbbinding_sites
+bigDataUrl ELAVL2_rbpdbbinding_sites.bigBed
+shortLabel ELAVL2_rbpdb
+longLabel Binding sites of ELAVL2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PABPC4_rbpdbbinding_sites
+bigDataUrl PABPC4_rbpdbbinding_sites.bigBed
+shortLabel PABPC4_rbpdb
+longLabel Binding sites of PABPC4 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track MEX3A_rbpdbbinding_sites
+bigDataUrl MEX3A_rbpdbbinding_sites.bigBed
+shortLabel MEX3A_rbpdb
+longLabel Binding sites of MEX3A derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PPIE_rbpdbbinding_sites
+bigDataUrl PPIE_rbpdbbinding_sites.bigBed
+shortLabel PPIE_rbpdb
+longLabel Binding sites of PPIE derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track CUGBP1_rbpdbbinding_sites
+bigDataUrl CUGBP1_rbpdbbinding_sites.bigBed
+shortLabel CUGBP1_rbpdb
+longLabel Binding sites of CUGBP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPH3_rbpdbbinding_sites
+bigDataUrl HNRNPH3_rbpdbbinding_sites.bigBed
+shortLabel HNRNPH3_rbpdb
+longLabel Binding sites of HNRNPH3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track KHSRP_rbpdbbinding_sites
+bigDataUrl KHSRP_rbpdbbinding_sites.bigBed
+shortLabel KHSRP_rbpdb
+longLabel Binding sites of KHSRP derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track CUGBP2_rbpdbbinding_sites
+bigDataUrl CUGBP2_rbpdbbinding_sites.bigBed
+shortLabel CUGBP2_rbpdb
+longLabel Binding sites of CUGBP2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track RBMY1A1_rbpdbbinding_sites
+bigDataUrl RBMY1A1_rbpdbbinding_sites.bigBed
+shortLabel RBMY1A1_rbpdb
+longLabel Binding sites of RBMY1A1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track MEX3B_rbpdbbinding_sites
+bigDataUrl MEX3B_rbpdbbinding_sites.bigBed
+shortLabel MEX3B_rbpdb
+longLabel Binding sites of MEX3B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPL_rbpdbbinding_sites
+bigDataUrl HNRNPL_rbpdbbinding_sites.bigBed
+shortLabel HNRNPL_rbpdb
+longLabel Binding sites of HNRNPL derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track FMR1_rbpdbbinding_sites
+bigDataUrl FMR1_rbpdbbinding_sites.bigBed
+shortLabel FMR1_rbpdb
+longLabel Binding sites of FMR1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PTBP1_rbpdbbinding_sites
+bigDataUrl PTBP1_rbpdbbinding_sites.bigBed
+shortLabel PTBP1_rbpdb
+longLabel Binding sites of PTBP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track SFRS1_rbpdbbinding_sites
+bigDataUrl SFRS1_rbpdbbinding_sites.bigBed
+shortLabel SFRS1_rbpdb
+longLabel Binding sites of SFRS1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPC_rbpdbbinding_sites
+bigDataUrl HNRNPC_rbpdbbinding_sites.bigBed
+shortLabel HNRNPC_rbpdb
+longLabel Binding sites of HNRNPC derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track CSTF2T_rbpdbbinding_sites
+bigDataUrl CSTF2T_rbpdbbinding_sites.bigBed
+shortLabel CSTF2T_rbpdb
+longLabel Binding sites of CSTF2T derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track RBMX_rbpdbbinding_sites
+bigDataUrl RBMX_rbpdbbinding_sites.bigBed
+shortLabel RBMX_rbpdb
+longLabel Binding sites of RBMX derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ELAVL1_rbpdbbinding_sites
+bigDataUrl ELAVL1_rbpdbbinding_sites.bigBed
+shortLabel ELAVL1_rbpdb
+longLabel Binding sites of ELAVL1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track KHDRBS1_rbpdbbinding_sites
+bigDataUrl KHDRBS1_rbpdbbinding_sites.bigBed
+shortLabel KHDRBS1_rbpdb
+longLabel Binding sites of KHDRBS1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PUM2_rbpdbbinding_sites
+bigDataUrl PUM2_rbpdbbinding_sites.bigBed
+shortLabel PUM2_rbpdb
+longLabel Binding sites of PUM2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ZNF74_rbpdbbinding_sites
+bigDataUrl ZNF74_rbpdbbinding_sites.bigBed
+shortLabel ZNF74_rbpdb
+longLabel Binding sites of ZNF74 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPH2_rbpdbbinding_sites
+bigDataUrl HNRNPH2_rbpdbbinding_sites.bigBed
+shortLabel HNRNPH2_rbpdb
+longLabel Binding sites of HNRNPH2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPA1_rbpdbbinding_sites
+bigDataUrl HNRNPA1_rbpdbbinding_sites.bigBed
+shortLabel HNRNPA1_rbpdb
+longLabel Binding sites of HNRNPA1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ZNF239_rbpdbbinding_sites
+bigDataUrl ZNF239_rbpdbbinding_sites.bigBed
+shortLabel ZNF239_rbpdb
+longLabel Binding sites of ZNF239 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track AKAP1_rbpdbbinding_sites
+bigDataUrl AKAP1_rbpdbbinding_sites.bigBed
+shortLabel AKAP1_rbpdb
+longLabel Binding sites of AKAP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track RDM1_rbpdbbinding_sites
+bigDataUrl RDM1_rbpdbbinding_sites.bigBed
+shortLabel RDM1_rbpdb
+longLabel Binding sites of RDM1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ELAVL3_rbpdbbinding_sites
+bigDataUrl ELAVL3_rbpdbbinding_sites.bigBed
+shortLabel ELAVL3_rbpdb
+longLabel Binding sites of ELAVL3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track LARP7_rbpdbbinding_sites
+bigDataUrl LARP7_rbpdbbinding_sites.bigBed
+shortLabel LARP7_rbpdb
+longLabel Binding sites of LARP7 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track QKI_rbpdbbinding_sites
+bigDataUrl QKI_rbpdbbinding_sites.bigBed
+shortLabel QKI_rbpdb
+longLabel Binding sites of QKI derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track TIA1_rbpdbbinding_sites
+bigDataUrl TIA1_rbpdbbinding_sites.bigBed
+shortLabel TIA1_rbpdb
+longLabel Binding sites of TIA1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track MBNL1_rbpdbbinding_sites
+bigDataUrl MBNL1_rbpdbbinding_sites.bigBed
+shortLabel MBNL1_rbpdb
+longLabel Binding sites of MBNL1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PABPC1_rbpdbbinding_sites
+bigDataUrl PABPC1_rbpdbbinding_sites.bigBed
+shortLabel PABPC1_rbpdb
+longLabel Binding sites of PABPC1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ZFP36_rbpdbbinding_sites
+bigDataUrl ZFP36_rbpdbbinding_sites.bigBed
+shortLabel ZFP36_rbpdb
+longLabel Binding sites of ZFP36 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track IGF2BP2_rbpdbbinding_sites
+bigDataUrl IGF2BP2_rbpdbbinding_sites.bigBed
+shortLabel IGF2BP2_rbpdb
+longLabel Binding sites of IGF2BP2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track GRSF1_rbpdbbinding_sites
+bigDataUrl GRSF1_rbpdbbinding_sites.bigBed
+shortLabel GRSF1_rbpdb
+longLabel Binding sites of GRSF1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track KHDRBS3_rbpdbbinding_sites
+bigDataUrl KHDRBS3_rbpdbbinding_sites.bigBed
+shortLabel KHDRBS3_rbpdb
+longLabel Binding sites of KHDRBS3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ZC3H7B_rbpdbbinding_sites
+bigDataUrl ZC3H7B_rbpdbbinding_sites.bigBed
+shortLabel ZC3H7B_rbpdb
+longLabel Binding sites of ZC3H7B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PABPN1_rbpdbbinding_sites
+bigDataUrl PABPN1_rbpdbbinding_sites.bigBed
+shortLabel PABPN1_rbpdb
+longLabel Binding sites of PABPN1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track KIN_rbpdbbinding_sites
+bigDataUrl KIN_rbpdbbinding_sites.bigBed
+shortLabel KIN_rbpdb
+longLabel Binding sites of KIN derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track IGF2BP1_rbpdbbinding_sites
+bigDataUrl IGF2BP1_rbpdbbinding_sites.bigBed
+shortLabel IGF2BP1_rbpdb
+longLabel Binding sites of IGF2BP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track PNPT1_rbpdbbinding_sites
+bigDataUrl PNPT1_rbpdbbinding_sites.bigBed
+shortLabel PNPT1_rbpdb
+longLabel Binding sites of PNPT1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPF_rbpdbbinding_sites
+bigDataUrl HNRNPF_rbpdbbinding_sites.bigBed
+shortLabel HNRNPF_rbpdb
+longLabel Binding sites of HNRNPF derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track RBM4_rbpdbbinding_sites
+bigDataUrl RBM4_rbpdbbinding_sites.bigBed
+shortLabel RBM4_rbpdb
+longLabel Binding sites of RBM4 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track SFRS13A_rbpdbbinding_sites
+bigDataUrl SFRS13A_rbpdbbinding_sites.bigBed
+shortLabel SFRS13A_rbpdb
+longLabel Binding sites of SFRS13A derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track U2AF2_rbpdbbinding_sites
+bigDataUrl U2AF2_rbpdbbinding_sites.bigBed
+shortLabel U2AF2_rbpdb
+longLabel Binding sites of U2AF2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track CSTF2_rbpdbbinding_sites
+bigDataUrl CSTF2_rbpdbbinding_sites.bigBed
+shortLabel CSTF2_rbpdb
+longLabel Binding sites of CSTF2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track TIAL1_rbpdbbinding_sites
+bigDataUrl TIAL1_rbpdbbinding_sites.bigBed
+shortLabel TIAL1_rbpdb
+longLabel Binding sites of TIAL1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track NUFIP1_rbpdbbinding_sites
+bigDataUrl NUFIP1_rbpdbbinding_sites.bigBed
+shortLabel NUFIP1_rbpdb
+longLabel Binding sites of NUFIP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track NOVA1_rbpdbbinding_sites
+bigDataUrl NOVA1_rbpdbbinding_sites.bigBed
+shortLabel NOVA1_rbpdb
+longLabel Binding sites of NOVA1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track FUS_rbpdbbinding_sites
+bigDataUrl FUS_rbpdbbinding_sites.bigBed
+shortLabel FUS_rbpdb
+longLabel Binding sites of FUS derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track MEX3C_rbpdbbinding_sites
+bigDataUrl MEX3C_rbpdbbinding_sites.bigBed
+shortLabel MEX3C_rbpdb
+longLabel Binding sites of MEX3C derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ACO1_rbpdbbinding_sites
+bigDataUrl ACO1_rbpdbbinding_sites.bigBed
+shortLabel ACO1_rbpdb
+longLabel Binding sites of ACO1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track YTHDC1_rbpdbbinding_sites
+bigDataUrl YTHDC1_rbpdbbinding_sites.bigBed
+shortLabel YTHDC1_rbpdb
+longLabel Binding sites of YTHDC1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track ELAVL4_rbpdbbinding_sites
+bigDataUrl ELAVL4_rbpdbbinding_sites.bigBed
+shortLabel ELAVL4_rbpdb
+longLabel Binding sites of ELAVL4 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track SSB_rbpdbbinding_sites
+bigDataUrl SSB_rbpdbbinding_sites.bigBed
+shortLabel SSB_rbpdb
+longLabel Binding sites of SSB derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr4
+itemRgb on
+spectrum on
+
+track HNRNPD_rbpdb_density_plot
+bigDataUrl HNRNPD_rbpdb_density_plot.bigWig
+shortLabel 00 HNRNPD_density
+longLabel Density plot of 67 RBPs on HNRNPD using data from RBPDB
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr4
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:30

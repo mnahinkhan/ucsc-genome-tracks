@@ -1,0 +1,3715 @@
+track ATXN2_postarbinding_sites
+bigDataUrl ATXN2_postarbinding_sites.bigBed
+shortLabel ATXN2_postar
+longLabel Binding sites of ATXN2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TROVE2_postarbinding_sites
+bigDataUrl TROVE2_postarbinding_sites.bigBed
+shortLabel TROVE2_postar
+longLabel Binding sites of TROVE2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FXR2_postarbinding_sites
+bigDataUrl FXR2_postarbinding_sites.bigBed
+shortLabel FXR2_postar
+longLabel Binding sites of FXR2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF4A3_postarbinding_sites
+bigDataUrl EIF4A3_postarbinding_sites.bigBed
+shortLabel EIF4A3_postar
+longLabel Binding sites of EIF4A3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NKRF_postarbinding_sites
+bigDataUrl NKRF_postarbinding_sites.bigBed
+shortLabel NKRF_postar
+longLabel Binding sites of NKRF derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TRA2A_postarbinding_sites
+bigDataUrl TRA2A_postarbinding_sites.bigBed
+shortLabel TRA2A_postar
+longLabel Binding sites of TRA2A derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track WTAP_postarbinding_sites
+bigDataUrl WTAP_postarbinding_sites.bigBed
+shortLabel WTAP_postar
+longLabel Binding sites of WTAP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GPKOW_postarbinding_sites
+bigDataUrl GPKOW_postarbinding_sites.bigBed
+shortLabel GPKOW_postar
+longLabel Binding sites of GPKOW derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM27_postarbinding_sites
+bigDataUrl RBM27_postarbinding_sites.bigBed
+shortLabel RBM27_postar
+longLabel Binding sites of RBM27 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM10_postarbinding_sites
+bigDataUrl RBM10_postarbinding_sites.bigBed
+shortLabel RBM10_postar
+longLabel Binding sites of RBM10 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AKAP8L_postarbinding_sites
+bigDataUrl AKAP8L_postarbinding_sites.bigBed
+shortLabel AKAP8L_postar
+longLabel Binding sites of AKAP8L derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SND1_postarbinding_sites
+bigDataUrl SND1_postarbinding_sites.bigBed
+shortLabel SND1_postar
+longLabel Binding sites of SND1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LIN28A_postarbinding_sites
+bigDataUrl LIN28A_postarbinding_sites.bigBed
+shortLabel LIN28A_postar
+longLabel Binding sites of LIN28A derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FTO_postarbinding_sites
+bigDataUrl FTO_postarbinding_sites.bigBed
+shortLabel FTO_postar
+longLabel Binding sites of FTO derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPSF1_postarbinding_sites
+bigDataUrl CPSF1_postarbinding_sites.bigBed
+shortLabel CPSF1_postar
+longLabel Binding sites of CPSF1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPC_postarbinding_sites
+bigDataUrl HNRNPC_postarbinding_sites.bigBed
+shortLabel HNRNPC_postar
+longLabel Binding sites of HNRNPC derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA2B1_postarbinding_sites
+bigDataUrl HNRNPA2B1_postarbinding_sites.bigBed
+shortLabel HNRNPA2B1_postar
+longLabel Binding sites of HNRNPA2B1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DHX30_postarbinding_sites
+bigDataUrl DHX30_postarbinding_sites.bigBed
+shortLabel DHX30_postar
+longLabel Binding sites of DHX30 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDF2_postarbinding_sites
+bigDataUrl YTHDF2_postarbinding_sites.bigBed
+shortLabel YTHDF2_postar
+longLabel Binding sites of YTHDF2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP1_postarbinding_sites
+bigDataUrl IGF2BP1_postarbinding_sites.bigBed
+shortLabel IGF2BP1_postar
+longLabel Binding sites of IGF2BP1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX24_postarbinding_sites
+bigDataUrl DDX24_postarbinding_sites.bigBed
+shortLabel DDX24_postar
+longLabel Binding sites of DDX24 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AARS_postarbinding_sites
+bigDataUrl AARS_postarbinding_sites.bigBed
+shortLabel AARS_postar
+longLabel Binding sites of AARS derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GNL3_postarbinding_sites
+bigDataUrl GNL3_postarbinding_sites.bigBed
+shortLabel GNL3_postar
+longLabel Binding sites of GNL3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SUPV3L1_postarbinding_sites
+bigDataUrl SUPV3L1_postarbinding_sites.bigBed
+shortLabel SUPV3L1_postar
+longLabel Binding sites of SUPV3L1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF3A_postarbinding_sites
+bigDataUrl EIF3A_postarbinding_sites.bigBed
+shortLabel EIF3A_postar
+longLabel Binding sites of EIF3A derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZC3H7B_postarbinding_sites
+bigDataUrl ZC3H7B_postarbinding_sites.bigBed
+shortLabel ZC3H7B_postar
+longLabel Binding sites of ZC3H7B derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX42_postarbinding_sites
+bigDataUrl DDX42_postarbinding_sites.bigBed
+shortLabel DDX42_postar
+longLabel Binding sites of DDX42 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHSRP_postarbinding_sites
+bigDataUrl KHSRP_postarbinding_sites.bigBed
+shortLabel KHSRP_postar
+longLabel Binding sites of KHSRP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YWHAG_postarbinding_sites
+bigDataUrl YWHAG_postarbinding_sites.bigBed
+shortLabel YWHAG_postar
+longLabel Binding sites of YWHAG derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PCBP2_postarbinding_sites
+bigDataUrl PCBP2_postarbinding_sites.bigBed
+shortLabel PCBP2_postar
+longLabel Binding sites of PCBP2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DICER1_postarbinding_sites
+bigDataUrl DICER1_postarbinding_sites.bigBed
+shortLabel DICER1_postar
+longLabel Binding sites of DICER1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RPS5_postarbinding_sites
+bigDataUrl RPS5_postarbinding_sites.bigBed
+shortLabel RPS5_postar
+longLabel Binding sites of RPS5 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CNBP_postarbinding_sites
+bigDataUrl CNBP_postarbinding_sites.bigBed
+shortLabel CNBP_postar
+longLabel Binding sites of CNBP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track XPO5_postarbinding_sites
+bigDataUrl XPO5_postarbinding_sites.bigBed
+shortLabel XPO5_postar
+longLabel Binding sites of XPO5 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track QKI_postarbinding_sites
+bigDataUrl QKI_postarbinding_sites.bigBed
+shortLabel QKI_postar
+longLabel Binding sites of QKI derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM15B_postarbinding_sites
+bigDataUrl RBM15B_postarbinding_sites.bigBed
+shortLabel RBM15B_postar
+longLabel Binding sites of RBM15B derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF3D_postarbinding_sites
+bigDataUrl EIF3D_postarbinding_sites.bigBed
+shortLabel EIF3D_postar
+longLabel Binding sites of EIF3D derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPH1_postarbinding_sites
+bigDataUrl HNRNPH1_postarbinding_sites.bigBed
+shortLabel HNRNPH1_postar
+longLabel Binding sites of HNRNPH1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDF3_postarbinding_sites
+bigDataUrl YTHDF3_postarbinding_sites.bigBed
+shortLabel YTHDF3_postar
+longLabel Binding sites of YTHDF3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GEMIN5_postarbinding_sites
+bigDataUrl GEMIN5_postarbinding_sites.bigBed
+shortLabel GEMIN5_postar
+longLabel Binding sites of GEMIN5 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track U2AF2_postarbinding_sites
+bigDataUrl U2AF2_postarbinding_sites.bigBed
+shortLabel U2AF2_postar
+longLabel Binding sites of U2AF2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF3H_postarbinding_sites
+bigDataUrl EIF3H_postarbinding_sites.bigBed
+shortLabel EIF3H_postar
+longLabel Binding sites of EIF3H derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NOP58_postarbinding_sites
+bigDataUrl NOP58_postarbinding_sites.bigBed
+shortLabel NOP58_postar
+longLabel Binding sites of NOP58 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SLBP_postarbinding_sites
+bigDataUrl SLBP_postarbinding_sites.bigBed
+shortLabel SLBP_postar
+longLabel Binding sites of SLBP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track UPF1_postarbinding_sites
+bigDataUrl UPF1_postarbinding_sites.bigBed
+shortLabel UPF1_postar
+longLabel Binding sites of UPF1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LSM11_postarbinding_sites
+bigDataUrl LSM11_postarbinding_sites.bigBed
+shortLabel LSM11_postar
+longLabel Binding sites of LSM11 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDC2_postarbinding_sites
+bigDataUrl YTHDC2_postarbinding_sites.bigBed
+shortLabel YTHDC2_postar
+longLabel Binding sites of YTHDC2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF1_postarbinding_sites
+bigDataUrl SRSF1_postarbinding_sites.bigBed
+shortLabel SRSF1_postar
+longLabel Binding sites of SRSF1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track METTL3_postarbinding_sites
+bigDataUrl METTL3_postarbinding_sites.bigBed
+shortLabel METTL3_postar
+longLabel Binding sites of METTL3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FMR1_postarbinding_sites
+bigDataUrl FMR1_postarbinding_sites.bigBed
+shortLabel FMR1_postar
+longLabel Binding sites of FMR1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EFTUD2_postarbinding_sites
+bigDataUrl EFTUD2_postarbinding_sites.bigBed
+shortLabel EFTUD2_postar
+longLabel Binding sites of EFTUD2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CSTF2_postarbinding_sites
+bigDataUrl CSTF2_postarbinding_sites.bigBed
+shortLabel CSTF2_postar
+longLabel Binding sites of CSTF2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AUH_postarbinding_sites
+bigDataUrl AUH_postarbinding_sites.bigBed
+shortLabel AUH_postar
+longLabel Binding sites of AUH derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SLTM_postarbinding_sites
+bigDataUrl SLTM_postarbinding_sites.bigBed
+shortLabel SLTM_postar
+longLabel Binding sites of SLTM derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LARP4_postarbinding_sites
+bigDataUrl LARP4_postarbinding_sites.bigBed
+shortLabel LARP4_postar
+longLabel Binding sites of LARP4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NUDT21_postarbinding_sites
+bigDataUrl NUDT21_postarbinding_sites.bigBed
+shortLabel NUDT21_postar
+longLabel Binding sites of NUDT21 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AGGF1_postarbinding_sites
+bigDataUrl AGGF1_postarbinding_sites.bigBed
+shortLabel AGGF1_postar
+longLabel Binding sites of AGGF1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CDC40_postarbinding_sites
+bigDataUrl CDC40_postarbinding_sites.bigBed
+shortLabel CDC40_postar
+longLabel Binding sites of CDC40 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM15_postarbinding_sites
+bigDataUrl RBM15_postarbinding_sites.bigBed
+shortLabel RBM15_postar
+longLabel Binding sites of RBM15 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM22_postarbinding_sites
+bigDataUrl RBM22_postarbinding_sites.bigBed
+shortLabel RBM22_postar
+longLabel Binding sites of RBM22 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF9_postarbinding_sites
+bigDataUrl SRSF9_postarbinding_sites.bigBed
+shortLabel SRSF9_postar
+longLabel Binding sites of SRSF9 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track STAU1_postarbinding_sites
+bigDataUrl STAU1_postarbinding_sites.bigBed
+shortLabel STAU1_postar
+longLabel Binding sites of STAU1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX55_postarbinding_sites
+bigDataUrl DDX55_postarbinding_sites.bigBed
+shortLabel DDX55_postar
+longLabel Binding sites of DDX55 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPF_postarbinding_sites
+bigDataUrl HNRNPF_postarbinding_sites.bigBed
+shortLabel HNRNPF_postar
+longLabel Binding sites of HNRNPF derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPSF4_postarbinding_sites
+bigDataUrl CPSF4_postarbinding_sites.bigBed
+shortLabel CPSF4_postar
+longLabel Binding sites of CPSF4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBFOX2_postarbinding_sites
+bigDataUrl RBFOX2_postarbinding_sites.bigBed
+shortLabel RBFOX2_postar
+longLabel Binding sites of RBFOX2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL1_postarbinding_sites
+bigDataUrl ELAVL1_postarbinding_sites.bigBed
+shortLabel ELAVL1_postar
+longLabel Binding sites of ELAVL1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SSB_postarbinding_sites
+bigDataUrl SSB_postarbinding_sites.bigBed
+shortLabel SSB_postar
+longLabel Binding sites of SSB derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PRPF8_postarbinding_sites
+bigDataUrl PRPF8_postarbinding_sites.bigBed
+shortLabel PRPF8_postar
+longLabel Binding sites of PRPF8 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SFPQ_postarbinding_sites
+bigDataUrl SFPQ_postarbinding_sites.bigBed
+shortLabel SFPQ_postar
+longLabel Binding sites of SFPQ derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MTPAP_postarbinding_sites
+bigDataUrl MTPAP_postarbinding_sites.bigBed
+shortLabel MTPAP_postar
+longLabel Binding sites of MTPAP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NCBP3_postarbinding_sites
+bigDataUrl NCBP3_postarbinding_sites.bigBed
+shortLabel NCBP3_postar
+longLabel Binding sites of NCBP3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track BUD13_postarbinding_sites
+bigDataUrl BUD13_postarbinding_sites.bigBed
+shortLabel BUD13_postar
+longLabel Binding sites of BUD13 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDF1_postarbinding_sites
+bigDataUrl YTHDF1_postarbinding_sites.bigBed
+shortLabel YTHDF1_postar
+longLabel Binding sites of YTHDF1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PTBP1_postarbinding_sites
+bigDataUrl PTBP1_postarbinding_sites.bigBed
+shortLabel PTBP1_postar
+longLabel Binding sites of PTBP1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FASTKD2_postarbinding_sites
+bigDataUrl FASTKD2_postarbinding_sites.bigBed
+shortLabel FASTKD2_postar
+longLabel Binding sites of FASTKD2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TIAL1_postarbinding_sites
+bigDataUrl TIAL1_postarbinding_sites.bigBed
+shortLabel TIAL1_postar
+longLabel Binding sites of TIAL1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SERBP1_postarbinding_sites
+bigDataUrl SERBP1_postarbinding_sites.bigBed
+shortLabel SERBP1_postar
+longLabel Binding sites of SERBP1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP2_postarbinding_sites
+bigDataUrl IGF2BP2_postarbinding_sites.bigBed
+shortLabel IGF2BP2_postar
+longLabel Binding sites of IGF2BP2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF3B_postarbinding_sites
+bigDataUrl EIF3B_postarbinding_sites.bigBed
+shortLabel EIF3B_postar
+longLabel Binding sites of EIF3B derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SF3B4_postarbinding_sites
+bigDataUrl SF3B4_postarbinding_sites.bigBed
+shortLabel SF3B4_postar
+longLabel Binding sites of SF3B4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SF3A3_postarbinding_sites
+bigDataUrl SF3A3_postarbinding_sites.bigBed
+shortLabel SF3A3_postar
+longLabel Binding sites of SF3A3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CELF2_postarbinding_sites
+bigDataUrl CELF2_postarbinding_sites.bigBed
+shortLabel CELF2_postar
+longLabel Binding sites of CELF2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RPS11_postarbinding_sites
+bigDataUrl RPS11_postarbinding_sites.bigBed
+shortLabel RPS11_postar
+longLabel Binding sites of RPS11 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NOP56_postarbinding_sites
+bigDataUrl NOP56_postarbinding_sites.bigBed
+shortLabel NOP56_postar
+longLabel Binding sites of NOP56 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPSF6_postarbinding_sites
+bigDataUrl CPSF6_postarbinding_sites.bigBed
+shortLabel CPSF6_postar
+longLabel Binding sites of CPSF6 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PPIG_postarbinding_sites
+bigDataUrl PPIG_postarbinding_sites.bigBed
+shortLabel PPIG_postar
+longLabel Binding sites of PPIG derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MOV10_postarbinding_sites
+bigDataUrl MOV10_postarbinding_sites.bigBed
+shortLabel MOV10_postar
+longLabel Binding sites of MOV10 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CSTF2T_postarbinding_sites
+bigDataUrl CSTF2T_postarbinding_sites.bigBed
+shortLabel CSTF2T_postar
+longLabel Binding sites of CSTF2T derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PPIL4_postarbinding_sites
+bigDataUrl PPIL4_postarbinding_sites.bigBed
+shortLabel PPIL4_postar
+longLabel Binding sites of PPIL4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CAPRIN1_postarbinding_sites
+bigDataUrl CAPRIN1_postarbinding_sites.bigBed
+shortLabel CAPRIN1_postar
+longLabel Binding sites of CAPRIN1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LIN28B_postarbinding_sites
+bigDataUrl LIN28B_postarbinding_sites.bigBed
+shortLabel LIN28B_postar
+longLabel Binding sites of LIN28B derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPD_postarbinding_sites
+bigDataUrl HNRNPD_postarbinding_sites.bigBed
+shortLabel HNRNPD_postar
+longLabel Binding sites of HNRNPD derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPSF2_postarbinding_sites
+bigDataUrl CPSF2_postarbinding_sites.bigBed
+shortLabel CPSF2_postar
+longLabel Binding sites of CPSF2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF4G2_postarbinding_sites
+bigDataUrl EIF4G2_postarbinding_sites.bigBed
+shortLabel EIF4G2_postar
+longLabel Binding sites of EIF4G2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZRANB2_postarbinding_sites
+bigDataUrl ZRANB2_postarbinding_sites.bigBed
+shortLabel ZRANB2_postar
+longLabel Binding sites of ZRANB2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ALKBH5_postarbinding_sites
+bigDataUrl ALKBH5_postarbinding_sites.bigBed
+shortLabel ALKBH5_postar
+longLabel Binding sites of ALKBH5 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track UCHL5_postarbinding_sites
+bigDataUrl UCHL5_postarbinding_sites.bigBed
+shortLabel UCHL5_postar
+longLabel Binding sites of UCHL5 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MBNL2_postarbinding_sites
+bigDataUrl MBNL2_postarbinding_sites.bigBed
+shortLabel MBNL2_postar
+longLabel Binding sites of MBNL2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FXR1_postarbinding_sites
+bigDataUrl FXR1_postarbinding_sites.bigBed
+shortLabel FXR1_postar
+longLabel Binding sites of FXR1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF7_postarbinding_sites
+bigDataUrl SRSF7_postarbinding_sites.bigBed
+shortLabel SRSF7_postar
+longLabel Binding sites of SRSF7 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track XRN2_postarbinding_sites
+bigDataUrl XRN2_postarbinding_sites.bigBed
+shortLabel XRN2_postar
+longLabel Binding sites of XRN2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TBRG4_postarbinding_sites
+bigDataUrl TBRG4_postarbinding_sites.bigBed
+shortLabel TBRG4_postar
+longLabel Binding sites of TBRG4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM5_postarbinding_sites
+bigDataUrl RBM5_postarbinding_sites.bigBed
+shortLabel RBM5_postar
+longLabel Binding sites of RBM5 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PUM2_postarbinding_sites
+bigDataUrl PUM2_postarbinding_sites.bigBed
+shortLabel PUM2_postar
+longLabel Binding sites of PUM2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RTCB_postarbinding_sites
+bigDataUrl RTCB_postarbinding_sites.bigBed
+shortLabel RTCB_postar
+longLabel Binding sites of RTCB derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA1_postarbinding_sites
+bigDataUrl HNRNPA1_postarbinding_sites.bigBed
+shortLabel HNRNPA1_postar
+longLabel Binding sites of HNRNPA1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DIS3L2_postarbinding_sites
+bigDataUrl DIS3L2_postarbinding_sites.bigBed
+shortLabel DIS3L2_postar
+longLabel Binding sites of DIS3L2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS1_postarbinding_sites
+bigDataUrl KHDRBS1_postarbinding_sites.bigBed
+shortLabel KHDRBS1_postar
+longLabel Binding sites of KHDRBS1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NONO_postarbinding_sites
+bigDataUrl NONO_postarbinding_sites.bigBed
+shortLabel NONO_postar
+longLabel Binding sites of NONO derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX6_postarbinding_sites
+bigDataUrl DDX6_postarbinding_sites.bigBed
+shortLabel DDX6_postar
+longLabel Binding sites of DDX6 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPSF3_postarbinding_sites
+bigDataUrl CPSF3_postarbinding_sites.bigBed
+shortLabel CPSF3_postar
+longLabel Binding sites of CPSF3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SUB1_postarbinding_sites
+bigDataUrl SUB1_postarbinding_sites.bigBed
+shortLabel SUB1_postar
+longLabel Binding sites of SUB1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FBL_postarbinding_sites
+bigDataUrl FBL_postarbinding_sites.bigBed
+shortLabel FBL_postar
+longLabel Binding sites of FBL derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPSF7_postarbinding_sites
+bigDataUrl CPSF7_postarbinding_sites.bigBed
+shortLabel CPSF7_postar
+longLabel Binding sites of CPSF7 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FAM120A_postarbinding_sites
+bigDataUrl FAM120A_postarbinding_sites.bigBed
+shortLabel FAM120A_postar
+longLabel Binding sites of FAM120A derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YBX3_postarbinding_sites
+bigDataUrl YBX3_postarbinding_sites.bigBed
+shortLabel YBX3_postar
+longLabel Binding sites of YBX3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBPMS_postarbinding_sites
+bigDataUrl RBPMS_postarbinding_sites.bigBed
+shortLabel RBPMS_postar
+longLabel Binding sites of RBPMS derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track WDR33_postarbinding_sites
+bigDataUrl WDR33_postarbinding_sites.bigBed
+shortLabel WDR33_postar
+longLabel Binding sites of WDR33 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZNF622_postarbinding_sites
+bigDataUrl ZNF622_postarbinding_sites.bigBed
+shortLabel ZNF622_postar
+longLabel Binding sites of ZNF622 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TAF15_postarbinding_sites
+bigDataUrl TAF15_postarbinding_sites.bigBed
+shortLabel TAF15_postar
+longLabel Binding sites of TAF15 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM47_postarbinding_sites
+bigDataUrl RBM47_postarbinding_sites.bigBed
+shortLabel RBM47_postar
+longLabel Binding sites of RBM47 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRRM4_postarbinding_sites
+bigDataUrl SRRM4_postarbinding_sites.bigBed
+shortLabel SRRM4_postar
+longLabel Binding sites of SRRM4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FKBP4_postarbinding_sites
+bigDataUrl FKBP4_postarbinding_sites.bigBed
+shortLabel FKBP4_postar
+longLabel Binding sites of FKBP4 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SMNDC1_postarbinding_sites
+bigDataUrl SMNDC1_postarbinding_sites.bigBed
+shortLabel SMNDC1_postar
+longLabel Binding sites of SMNDC1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track XRCC6_postarbinding_sites
+bigDataUrl XRCC6_postarbinding_sites.bigBed
+shortLabel XRCC6_postar
+longLabel Binding sites of XRCC6 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPM_postarbinding_sites
+bigDataUrl HNRNPM_postarbinding_sites.bigBed
+shortLabel HNRNPM_postar
+longLabel Binding sites of HNRNPM derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LARP7_postarbinding_sites
+bigDataUrl LARP7_postarbinding_sites.bigBed
+shortLabel LARP7_postar
+longLabel Binding sites of LARP7 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FUS_postarbinding_sites
+bigDataUrl FUS_postarbinding_sites.bigBed
+shortLabel FUS_postar
+longLabel Binding sites of FUS derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GRWD1_postarbinding_sites
+bigDataUrl GRWD1_postarbinding_sites.bigBed
+shortLabel GRWD1_postar
+longLabel Binding sites of GRWD1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TIA1_postarbinding_sites
+bigDataUrl TIA1_postarbinding_sites.bigBed
+shortLabel TIA1_postar
+longLabel Binding sites of TIA1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EWSR1_postarbinding_sites
+bigDataUrl EWSR1_postarbinding_sites.bigBed
+shortLabel EWSR1_postar
+longLabel Binding sites of EWSR1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NCBP2_postarbinding_sites
+bigDataUrl NCBP2_postarbinding_sites.bigBed
+shortLabel NCBP2_postar
+longLabel Binding sites of NCBP2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track U2AF1_postarbinding_sites
+bigDataUrl U2AF1_postarbinding_sites.bigBed
+shortLabel U2AF1_postar
+longLabel Binding sites of U2AF1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DROSHA_postarbinding_sites
+bigDataUrl DROSHA_postarbinding_sites.bigBed
+shortLabel DROSHA_postar
+longLabel Binding sites of DROSHA derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX3X_postarbinding_sites
+bigDataUrl DDX3X_postarbinding_sites.bigBed
+shortLabel DDX3X_postar
+longLabel Binding sites of DDX3X derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDC1_postarbinding_sites
+bigDataUrl YTHDC1_postarbinding_sites.bigBed
+shortLabel YTHDC1_postar
+longLabel Binding sites of YTHDC1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPU_postarbinding_sites
+bigDataUrl HNRNPU_postarbinding_sites.bigBed
+shortLabel HNRNPU_postar
+longLabel Binding sites of HNRNPU derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RPS3_postarbinding_sites
+bigDataUrl RPS3_postarbinding_sites.bigBed
+shortLabel RPS3_postar
+longLabel Binding sites of RPS3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GTF2F1_postarbinding_sites
+bigDataUrl GTF2F1_postarbinding_sites.bigBed
+shortLabel GTF2F1_postar
+longLabel Binding sites of GTF2F1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FIP1L1_postarbinding_sites
+bigDataUrl FIP1L1_postarbinding_sites.bigBed
+shortLabel FIP1L1_postar
+longLabel Binding sites of FIP1L1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track METAP2_postarbinding_sites
+bigDataUrl METAP2_postarbinding_sites.bigBed
+shortLabel METAP2_postar
+longLabel Binding sites of METAP2 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP3_postarbinding_sites
+bigDataUrl IGF2BP3_postarbinding_sites.bigBed
+shortLabel IGF2BP3_postar
+longLabel Binding sites of IGF2BP3 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DGCR8_postarbinding_sites
+bigDataUrl DGCR8_postarbinding_sites.bigBed
+shortLabel DGCR8_postar
+longLabel Binding sites of DGCR8 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TARDBP_postarbinding_sites
+bigDataUrl TARDBP_postarbinding_sites.bigBed
+shortLabel TARDBP_postar
+longLabel Binding sites of TARDBP derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SF3B1_postarbinding_sites
+bigDataUrl SF3B1_postarbinding_sites.bigBed
+shortLabel SF3B1_postar
+longLabel Binding sites of SF3B1 derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF3G_postarbinding_sites
+bigDataUrl EIF3G_postarbinding_sites.bigBed
+shortLabel EIF3G_postar
+longLabel Binding sites of EIF3G derived from POSTAR (experimental)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TRA2B_rbpdbbinding_sites
+bigDataUrl TRA2B_rbpdbbinding_sites.bigBed
+shortLabel TRA2B_rbpdb
+longLabel Binding sites of TRA2B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS2_rbpdbbinding_sites
+bigDataUrl KHDRBS2_rbpdbbinding_sites.bigBed
+shortLabel KHDRBS2_rbpdb
+longLabel Binding sites of KHDRBS2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track A2BP1_rbpdbbinding_sites
+bigDataUrl A2BP1_rbpdbbinding_sites.bigBed
+shortLabel A2BP1_rbpdb
+longLabel Binding sites of A2BP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPD_rbpdbbinding_sites
+bigDataUrl HNRNPD_rbpdbbinding_sites.bigBed
+shortLabel HNRNPD_rbpdb
+longLabel Binding sites of HNRNPD derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRPLL_rbpdbbinding_sites
+bigDataUrl HNRPLL_rbpdbbinding_sites.bigBed
+shortLabel HNRPLL_rbpdb
+longLabel Binding sites of HNRPLL derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP3_rbpdbbinding_sites
+bigDataUrl IGF2BP3_rbpdbbinding_sites.bigBed
+shortLabel IGF2BP3_rbpdb
+longLabel Binding sites of IGF2BP3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PUM1_rbpdbbinding_sites
+bigDataUrl PUM1_rbpdbbinding_sites.bigBed
+shortLabel PUM1_rbpdb
+longLabel Binding sites of PUM1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPK_rbpdbbinding_sites
+bigDataUrl HNRNPK_rbpdbbinding_sites.bigBed
+shortLabel HNRNPK_rbpdb
+longLabel Binding sites of HNRNPK derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SFRS9_rbpdbbinding_sites
+bigDataUrl SFRS9_rbpdbbinding_sites.bigBed
+shortLabel SFRS9_rbpdb
+longLabel Binding sites of SFRS9 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF4B_rbpdbbinding_sites
+bigDataUrl EIF4B_rbpdbbinding_sites.bigBed
+shortLabel EIF4B_rbpdb
+longLabel Binding sites of EIF4B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM9_rbpdbbinding_sites
+bigDataUrl RBM9_rbpdbbinding_sites.bigBed
+shortLabel RBM9_rbpdb
+longLabel Binding sites of RBM9 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SNRPA_rbpdbbinding_sites
+bigDataUrl SNRPA_rbpdbbinding_sites.bigBed
+shortLabel SNRPA_rbpdb
+longLabel Binding sites of SNRPA derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL2_rbpdbbinding_sites
+bigDataUrl ELAVL2_rbpdbbinding_sites.bigBed
+shortLabel ELAVL2_rbpdb
+longLabel Binding sites of ELAVL2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPC4_rbpdbbinding_sites
+bigDataUrl PABPC4_rbpdbbinding_sites.bigBed
+shortLabel PABPC4_rbpdb
+longLabel Binding sites of PABPC4 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MEX3A_rbpdbbinding_sites
+bigDataUrl MEX3A_rbpdbbinding_sites.bigBed
+shortLabel MEX3A_rbpdb
+longLabel Binding sites of MEX3A derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PPIE_rbpdbbinding_sites
+bigDataUrl PPIE_rbpdbbinding_sites.bigBed
+shortLabel PPIE_rbpdb
+longLabel Binding sites of PPIE derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YBX1_rbpdbbinding_sites
+bigDataUrl YBX1_rbpdbbinding_sites.bigBed
+shortLabel YBX1_rbpdb
+longLabel Binding sites of YBX1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CUGBP1_rbpdbbinding_sites
+bigDataUrl CUGBP1_rbpdbbinding_sites.bigBed
+shortLabel CUGBP1_rbpdb
+longLabel Binding sites of CUGBP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPH3_rbpdbbinding_sites
+bigDataUrl HNRNPH3_rbpdbbinding_sites.bigBed
+shortLabel HNRNPH3_rbpdb
+longLabel Binding sites of HNRNPH3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHSRP_rbpdbbinding_sites
+bigDataUrl KHSRP_rbpdbbinding_sites.bigBed
+shortLabel KHSRP_rbpdb
+longLabel Binding sites of KHSRP derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CUGBP2_rbpdbbinding_sites
+bigDataUrl CUGBP2_rbpdbbinding_sites.bigBed
+shortLabel CUGBP2_rbpdb
+longLabel Binding sites of CUGBP2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBMY1A1_rbpdbbinding_sites
+bigDataUrl RBMY1A1_rbpdbbinding_sites.bigBed
+shortLabel RBMY1A1_rbpdb
+longLabel Binding sites of RBMY1A1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MEX3B_rbpdbbinding_sites
+bigDataUrl MEX3B_rbpdbbinding_sites.bigBed
+shortLabel MEX3B_rbpdb
+longLabel Binding sites of MEX3B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPL_rbpdbbinding_sites
+bigDataUrl HNRNPL_rbpdbbinding_sites.bigBed
+shortLabel HNRNPL_rbpdb
+longLabel Binding sites of HNRNPL derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FMR1_rbpdbbinding_sites
+bigDataUrl FMR1_rbpdbbinding_sites.bigBed
+shortLabel FMR1_rbpdb
+longLabel Binding sites of FMR1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PTBP1_rbpdbbinding_sites
+bigDataUrl PTBP1_rbpdbbinding_sites.bigBed
+shortLabel PTBP1_rbpdb
+longLabel Binding sites of PTBP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SFRS1_rbpdbbinding_sites
+bigDataUrl SFRS1_rbpdbbinding_sites.bigBed
+shortLabel SFRS1_rbpdb
+longLabel Binding sites of SFRS1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPC_rbpdbbinding_sites
+bigDataUrl HNRNPC_rbpdbbinding_sites.bigBed
+shortLabel HNRNPC_rbpdb
+longLabel Binding sites of HNRNPC derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBMX_rbpdbbinding_sites
+bigDataUrl RBMX_rbpdbbinding_sites.bigBed
+shortLabel RBMX_rbpdb
+longLabel Binding sites of RBMX derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL1_rbpdbbinding_sites
+bigDataUrl ELAVL1_rbpdbbinding_sites.bigBed
+shortLabel ELAVL1_rbpdb
+longLabel Binding sites of ELAVL1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS1_rbpdbbinding_sites
+bigDataUrl KHDRBS1_rbpdbbinding_sites.bigBed
+shortLabel KHDRBS1_rbpdb
+longLabel Binding sites of KHDRBS1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PUM2_rbpdbbinding_sites
+bigDataUrl PUM2_rbpdbbinding_sites.bigBed
+shortLabel PUM2_rbpdb
+longLabel Binding sites of PUM2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZNF74_rbpdbbinding_sites
+bigDataUrl ZNF74_rbpdbbinding_sites.bigBed
+shortLabel ZNF74_rbpdb
+longLabel Binding sites of ZNF74 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPH2_rbpdbbinding_sites
+bigDataUrl HNRNPH2_rbpdbbinding_sites.bigBed
+shortLabel HNRNPH2_rbpdb
+longLabel Binding sites of HNRNPH2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA1_rbpdbbinding_sites
+bigDataUrl HNRNPA1_rbpdbbinding_sites.bigBed
+shortLabel HNRNPA1_rbpdb
+longLabel Binding sites of HNRNPA1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPAB_rbpdbbinding_sites
+bigDataUrl HNRNPAB_rbpdbbinding_sites.bigBed
+shortLabel HNRNPAB_rbpdb
+longLabel Binding sites of HNRNPAB derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZNF239_rbpdbbinding_sites
+bigDataUrl ZNF239_rbpdbbinding_sites.bigBed
+shortLabel ZNF239_rbpdb
+longLabel Binding sites of ZNF239 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AKAP1_rbpdbbinding_sites
+bigDataUrl AKAP1_rbpdbbinding_sites.bigBed
+shortLabel AKAP1_rbpdb
+longLabel Binding sites of AKAP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RDM1_rbpdbbinding_sites
+bigDataUrl RDM1_rbpdbbinding_sites.bigBed
+shortLabel RDM1_rbpdb
+longLabel Binding sites of RDM1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track U2AF1_rbpdbbinding_sites
+bigDataUrl U2AF1_rbpdbbinding_sites.bigBed
+shortLabel U2AF1_rbpdb
+longLabel Binding sites of U2AF1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL3_rbpdbbinding_sites
+bigDataUrl ELAVL3_rbpdbbinding_sites.bigBed
+shortLabel ELAVL3_rbpdb
+longLabel Binding sites of ELAVL3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LARP7_rbpdbbinding_sites
+bigDataUrl LARP7_rbpdbbinding_sites.bigBed
+shortLabel LARP7_rbpdb
+longLabel Binding sites of LARP7 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track QKI_rbpdbbinding_sites
+bigDataUrl QKI_rbpdbbinding_sites.bigBed
+shortLabel QKI_rbpdb
+longLabel Binding sites of QKI derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TIA1_rbpdbbinding_sites
+bigDataUrl TIA1_rbpdbbinding_sites.bigBed
+shortLabel TIA1_rbpdb
+longLabel Binding sites of TIA1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MBNL1_rbpdbbinding_sites
+bigDataUrl MBNL1_rbpdbbinding_sites.bigBed
+shortLabel MBNL1_rbpdb
+longLabel Binding sites of MBNL1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CSDE1_rbpdbbinding_sites
+bigDataUrl CSDE1_rbpdbbinding_sites.bigBed
+shortLabel CSDE1_rbpdb
+longLabel Binding sites of CSDE1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPC1_rbpdbbinding_sites
+bigDataUrl PABPC1_rbpdbbinding_sites.bigBed
+shortLabel PABPC1_rbpdb
+longLabel Binding sites of PABPC1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZFP36_rbpdbbinding_sites
+bigDataUrl ZFP36_rbpdbbinding_sites.bigBed
+shortLabel ZFP36_rbpdb
+longLabel Binding sites of ZFP36 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP2_rbpdbbinding_sites
+bigDataUrl IGF2BP2_rbpdbbinding_sites.bigBed
+shortLabel IGF2BP2_rbpdb
+longLabel Binding sites of IGF2BP2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GRSF1_rbpdbbinding_sites
+bigDataUrl GRSF1_rbpdbbinding_sites.bigBed
+shortLabel GRSF1_rbpdb
+longLabel Binding sites of GRSF1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SFRS7_rbpdbbinding_sites
+bigDataUrl SFRS7_rbpdbbinding_sites.bigBed
+shortLabel SFRS7_rbpdb
+longLabel Binding sites of SFRS7 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS3_rbpdbbinding_sites
+bigDataUrl KHDRBS3_rbpdbbinding_sites.bigBed
+shortLabel KHDRBS3_rbpdb
+longLabel Binding sites of KHDRBS3 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZC3H7B_rbpdbbinding_sites
+bigDataUrl ZC3H7B_rbpdbbinding_sites.bigBed
+shortLabel ZC3H7B_rbpdb
+longLabel Binding sites of ZC3H7B derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPN1_rbpdbbinding_sites
+bigDataUrl PABPN1_rbpdbbinding_sites.bigBed
+shortLabel PABPN1_rbpdb
+longLabel Binding sites of PABPN1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KIN_rbpdbbinding_sites
+bigDataUrl KIN_rbpdbbinding_sites.bigBed
+shortLabel KIN_rbpdb
+longLabel Binding sites of KIN derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP1_rbpdbbinding_sites
+bigDataUrl IGF2BP1_rbpdbbinding_sites.bigBed
+shortLabel IGF2BP1_rbpdb
+longLabel Binding sites of IGF2BP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PNPT1_rbpdbbinding_sites
+bigDataUrl PNPT1_rbpdbbinding_sites.bigBed
+shortLabel PNPT1_rbpdb
+longLabel Binding sites of PNPT1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPF_rbpdbbinding_sites
+bigDataUrl HNRNPF_rbpdbbinding_sites.bigBed
+shortLabel HNRNPF_rbpdb
+longLabel Binding sites of HNRNPF derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM4_rbpdbbinding_sites
+bigDataUrl RBM4_rbpdbbinding_sites.bigBed
+shortLabel RBM4_rbpdb
+longLabel Binding sites of RBM4 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SFRS13A_rbpdbbinding_sites
+bigDataUrl SFRS13A_rbpdbbinding_sites.bigBed
+shortLabel SFRS13A_rbpdb
+longLabel Binding sites of SFRS13A derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track U2AF2_rbpdbbinding_sites
+bigDataUrl U2AF2_rbpdbbinding_sites.bigBed
+shortLabel U2AF2_rbpdb
+longLabel Binding sites of U2AF2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CSTF2_rbpdbbinding_sites
+bigDataUrl CSTF2_rbpdbbinding_sites.bigBed
+shortLabel CSTF2_rbpdb
+longLabel Binding sites of CSTF2 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TIAL1_rbpdbbinding_sites
+bigDataUrl TIAL1_rbpdbbinding_sites.bigBed
+shortLabel TIAL1_rbpdb
+longLabel Binding sites of TIAL1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NUFIP1_rbpdbbinding_sites
+bigDataUrl NUFIP1_rbpdbbinding_sites.bigBed
+shortLabel NUFIP1_rbpdb
+longLabel Binding sites of NUFIP1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PARN_rbpdbbinding_sites
+bigDataUrl PARN_rbpdbbinding_sites.bigBed
+shortLabel PARN_rbpdb
+longLabel Binding sites of PARN derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NOVA1_rbpdbbinding_sites
+bigDataUrl NOVA1_rbpdbbinding_sites.bigBed
+shortLabel NOVA1_rbpdb
+longLabel Binding sites of NOVA1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FUS_rbpdbbinding_sites
+bigDataUrl FUS_rbpdbbinding_sites.bigBed
+shortLabel FUS_rbpdb
+longLabel Binding sites of FUS derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MEX3C_rbpdbbinding_sites
+bigDataUrl MEX3C_rbpdbbinding_sites.bigBed
+shortLabel MEX3C_rbpdb
+longLabel Binding sites of MEX3C derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ACO1_rbpdbbinding_sites
+bigDataUrl ACO1_rbpdbbinding_sites.bigBed
+shortLabel ACO1_rbpdb
+longLabel Binding sites of ACO1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDC1_rbpdbbinding_sites
+bigDataUrl YTHDC1_rbpdbbinding_sites.bigBed
+shortLabel YTHDC1_rbpdb
+longLabel Binding sites of YTHDC1 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL4_rbpdbbinding_sites
+bigDataUrl ELAVL4_rbpdbbinding_sites.bigBed
+shortLabel ELAVL4_rbpdb
+longLabel Binding sites of ELAVL4 derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SSB_rbpdbbinding_sites
+bigDataUrl SSB_rbpdbbinding_sites.bigBed
+shortLabel SSB_rbpdb
+longLabel Binding sites of SSB derived from RBPDB (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SAMD4A_attractbinding_sites
+bigDataUrl SAMD4A_attractbinding_sites.bigBed
+shortLabel SAMD4A_attract
+longLabel Binding sites of SAMD4A derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SSB_attractbinding_sites
+bigDataUrl SSB_attractbinding_sites.bigBed
+shortLabel SSB_attract
+longLabel Binding sites of SSB derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPCL1_attractbinding_sites
+bigDataUrl HNRNPCL1_attractbinding_sites.bigBed
+shortLabel HNRNPCL1_attract
+longLabel Binding sites of HNRNPCL1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF3_attractbinding_sites
+bigDataUrl SRSF3_attractbinding_sites.bigBed
+shortLabel SRSF3_attract
+longLabel Binding sites of SRSF3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA2B1_attractbinding_sites
+bigDataUrl HNRNPA2B1_attractbinding_sites.bigBed
+shortLabel HNRNPA2B1_attract
+longLabel Binding sites of HNRNPA2B1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AKAP1_attractbinding_sites
+bigDataUrl AKAP1_attractbinding_sites.bigBed
+shortLabel AKAP1_attract
+longLabel Binding sites of AKAP1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPAB_attractbinding_sites
+bigDataUrl HNRNPAB_attractbinding_sites.bigBed
+shortLabel HNRNPAB_attract
+longLabel Binding sites of HNRNPAB derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPU_attractbinding_sites
+bigDataUrl HNRNPU_attractbinding_sites.bigBed
+shortLabel HNRNPU_attract
+longLabel Binding sites of HNRNPU derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPF_attractbinding_sites
+bigDataUrl HNRNPF_attractbinding_sites.bigBed
+shortLabel HNRNPF_attract
+longLabel Binding sites of HNRNPF derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL2_attractbinding_sites
+bigDataUrl ELAVL2_attractbinding_sites.bigBed
+shortLabel ELAVL2_attract
+longLabel Binding sites of ELAVL2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TRA2B_attractbinding_sites
+bigDataUrl TRA2B_attractbinding_sites.bigBed
+shortLabel TRA2B_attract
+longLabel Binding sites of TRA2B derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM41_attractbinding_sites
+bigDataUrl RBM41_attractbinding_sites.bigBed
+shortLabel RBM41_attract
+longLabel Binding sites of RBM41 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track OAS1_attractbinding_sites
+bigDataUrl OAS1_attractbinding_sites.bigBed
+shortLabel OAS1_attract
+longLabel Binding sites of OAS1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PCBP1_attractbinding_sites
+bigDataUrl PCBP1_attractbinding_sites.bigBed
+shortLabel PCBP1_attract
+longLabel Binding sites of PCBP1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS1_attractbinding_sites
+bigDataUrl KHDRBS1_attractbinding_sites.bigBed
+shortLabel KHDRBS1_attract
+longLabel Binding sites of KHDRBS1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track XPO5_attractbinding_sites
+bigDataUrl XPO5_attractbinding_sites.bigBed
+shortLabel XPO5_attract
+longLabel Binding sites of XPO5 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ESRP1_attractbinding_sites
+bigDataUrl ESRP1_attractbinding_sites.bigBed
+shortLabel ESRP1_attract
+longLabel Binding sites of ESRP1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track A1CF_attractbinding_sites
+bigDataUrl A1CF_attractbinding_sites.bigBed
+shortLabel A1CF_attract
+longLabel Binding sites of A1CF derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPEB2_attractbinding_sites
+bigDataUrl CPEB2_attractbinding_sites.bigBed
+shortLabel CPEB2_attract
+longLabel Binding sites of CPEB2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZNF346_attractbinding_sites
+bigDataUrl ZNF346_attractbinding_sites.bigBed
+shortLabel ZNF346_attract
+longLabel Binding sites of ZNF346 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DHX58_attractbinding_sites
+bigDataUrl DHX58_attractbinding_sites.bigBed
+shortLabel DHX58_attract
+longLabel Binding sites of DHX58 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CELF4_attractbinding_sites
+bigDataUrl CELF4_attractbinding_sites.bigBed
+shortLabel CELF4_attract
+longLabel Binding sites of CELF4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PUM1_attractbinding_sites
+bigDataUrl PUM1_attractbinding_sites.bigBed
+shortLabel PUM1_attract
+longLabel Binding sites of PUM1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX19B_attractbinding_sites
+bigDataUrl DDX19B_attractbinding_sites.bigBed
+shortLabel DDX19B_attract
+longLabel Binding sites of DDX19B derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM46_attractbinding_sites
+bigDataUrl RBM46_attractbinding_sites.bigBed
+shortLabel RBM46_attract
+longLabel Binding sites of RBM46 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SFPQ_attractbinding_sites
+bigDataUrl SFPQ_attractbinding_sites.bigBed
+shortLabel SFPQ_attract
+longLabel Binding sites of SFPQ derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRP14_attractbinding_sites
+bigDataUrl SRP14_attractbinding_sites.bigBed
+shortLabel SRP14_attract
+longLabel Binding sites of SRP14 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF11_attractbinding_sites
+bigDataUrl SRSF11_attractbinding_sites.bigBed
+shortLabel SRSF11_attract
+longLabel Binding sites of SRSF11 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBMY1A1_attractbinding_sites
+bigDataUrl RBMY1A1_attractbinding_sites.bigBed
+shortLabel RBMY1A1_attract
+longLabel Binding sites of RBMY1A1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track U2AF2_attractbinding_sites
+bigDataUrl U2AF2_attractbinding_sites.bigBed
+shortLabel U2AF2_attract
+longLabel Binding sites of U2AF2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPDL_attractbinding_sites
+bigDataUrl HNRNPDL_attractbinding_sites.bigBed
+shortLabel HNRNPDL_attract
+longLabel Binding sites of HNRNPDL derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IFIH1_attractbinding_sites
+bigDataUrl IFIH1_attractbinding_sites.bigBed
+shortLabel IFIH1_attract
+longLabel Binding sites of IFIH1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF4A3_attractbinding_sites
+bigDataUrl EIF4A3_attractbinding_sites.bigBed
+shortLabel EIF4A3_attract
+longLabel Binding sites of EIF4A3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FMR1_attractbinding_sites
+bigDataUrl FMR1_attractbinding_sites.bigBed
+shortLabel FMR1_attract
+longLabel Binding sites of FMR1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBMX_attractbinding_sites
+bigDataUrl RBMX_attractbinding_sites.bigBed
+shortLabel RBMX_attract
+longLabel Binding sites of RBMX derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF4_attractbinding_sites
+bigDataUrl SRSF4_attractbinding_sites.bigBed
+shortLabel SRSF4_attract
+longLabel Binding sites of SRSF4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FXR2_attractbinding_sites
+bigDataUrl FXR2_attractbinding_sites.bigBed
+shortLabel FXR2_attract
+longLabel Binding sites of FXR2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA1_attractbinding_sites
+bigDataUrl HNRNPA1_attractbinding_sites.bigBed
+shortLabel HNRNPA1_attract
+longLabel Binding sites of HNRNPA1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPC5_attractbinding_sites
+bigDataUrl PABPC5_attractbinding_sites.bigBed
+shortLabel PABPC5_attract
+longLabel Binding sites of PABPC5 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track G3BP2_attractbinding_sites
+bigDataUrl G3BP2_attractbinding_sites.bigBed
+shortLabel G3BP2_attract
+longLabel Binding sites of G3BP2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF9_attractbinding_sites
+bigDataUrl SRSF9_attractbinding_sites.bigBed
+shortLabel SRSF9_attract
+longLabel Binding sites of SRSF9 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PTBP1_attractbinding_sites
+bigDataUrl PTBP1_attractbinding_sites.bigBed
+shortLabel PTBP1_attract
+longLabel Binding sites of PTBP1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NOVA2_attractbinding_sites
+bigDataUrl NOVA2_attractbinding_sites.bigBed
+shortLabel NOVA2_attract
+longLabel Binding sites of NOVA2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF1_attractbinding_sites
+bigDataUrl SRSF1_attractbinding_sites.bigBed
+shortLabel SRSF1_attract
+longLabel Binding sites of SRSF1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBFOX2_attractbinding_sites
+bigDataUrl RBFOX2_attractbinding_sites.bigBed
+shortLabel RBFOX2_attract
+longLabel Binding sites of RBFOX2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TUT1_attractbinding_sites
+bigDataUrl TUT1_attractbinding_sites.bigBed
+shortLabel TUT1_attract
+longLabel Binding sites of TUT1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPD_attractbinding_sites
+bigDataUrl HNRNPD_attractbinding_sites.bigBed
+shortLabel HNRNPD_attract
+longLabel Binding sites of HNRNPD derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CELF1_attractbinding_sites
+bigDataUrl CELF1_attractbinding_sites.bigBed
+shortLabel CELF1_attract
+longLabel Binding sites of CELF1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NXF1_attractbinding_sites
+bigDataUrl NXF1_attractbinding_sites.bigBed
+shortLabel NXF1_attract
+longLabel Binding sites of NXF1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RALY_attractbinding_sites
+bigDataUrl RALY_attractbinding_sites.bigBed
+shortLabel RALY_attract
+longLabel Binding sites of RALY derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRP19_attractbinding_sites
+bigDataUrl SRP19_attractbinding_sites.bigBed
+shortLabel SRP19_attract
+longLabel Binding sites of SRP19 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SART3_attractbinding_sites
+bigDataUrl SART3_attractbinding_sites.bigBed
+shortLabel SART3_attract
+longLabel Binding sites of SART3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track GRSF1_attractbinding_sites
+bigDataUrl GRSF1_attractbinding_sites.bigBed
+shortLabel GRSF1_attract
+longLabel Binding sites of GRSF1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RNASEL_attractbinding_sites
+bigDataUrl RNASEL_attractbinding_sites.bigBed
+shortLabel RNASEL_attract
+longLabel Binding sites of RNASEL derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPL_attractbinding_sites
+bigDataUrl HNRNPL_attractbinding_sites.bigBed
+shortLabel HNRNPL_attract
+longLabel Binding sites of HNRNPL derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS3_attractbinding_sites
+bigDataUrl KHDRBS3_attractbinding_sites.bigBed
+shortLabel KHDRBS3_attract
+longLabel Binding sites of KHDRBS3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YBX1_attractbinding_sites
+bigDataUrl YBX1_attractbinding_sites.bigBed
+shortLabel YBX1_attract
+longLabel Binding sites of YBX1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AGO2_attractbinding_sites
+bigDataUrl AGO2_attractbinding_sites.bigBed
+shortLabel AGO2_attract
+longLabel Binding sites of AGO2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MBNL1_attractbinding_sites
+bigDataUrl MBNL1_attractbinding_sites.bigBed
+shortLabel MBNL1_attract
+longLabel Binding sites of MBNL1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPK_attractbinding_sites
+bigDataUrl HNRNPK_attractbinding_sites.bigBed
+shortLabel HNRNPK_attract
+longLabel Binding sites of HNRNPK derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YTHDC1_attractbinding_sites
+bigDataUrl YTHDC1_attractbinding_sites.bigBed
+shortLabel YTHDC1_attract
+longLabel Binding sites of YTHDC1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ENOX1_attractbinding_sites
+bigDataUrl ENOX1_attractbinding_sites.bigBed
+shortLabel ENOX1_attract
+longLabel Binding sites of ENOX1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CELF6_attractbinding_sites
+bigDataUrl CELF6_attractbinding_sites.bigBed
+shortLabel CELF6_attract
+longLabel Binding sites of CELF6 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM5_attractbinding_sites
+bigDataUrl RBM5_attractbinding_sites.bigBed
+shortLabel RBM5_attract
+longLabel Binding sites of RBM5 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CNOT4_attractbinding_sites
+bigDataUrl CNOT4_attractbinding_sites.bigBed
+shortLabel CNOT4_attract
+longLabel Binding sites of CNOT4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPC_attractbinding_sites
+bigDataUrl HNRNPC_attractbinding_sites.bigBed
+shortLabel HNRNPC_attract
+longLabel Binding sites of HNRNPC derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ANKHD1_attractbinding_sites
+bigDataUrl ANKHD1_attractbinding_sites.bigBed
+shortLabel ANKHD1_attract
+longLabel Binding sites of ANKHD1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPH2_attractbinding_sites
+bigDataUrl HNRNPH2_attractbinding_sites.bigBed
+shortLabel HNRNPH2_attract
+longLabel Binding sites of HNRNPH2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF6_attractbinding_sites
+bigDataUrl SRSF6_attractbinding_sites.bigBed
+shortLabel SRSF6_attract
+longLabel Binding sites of SRSF6 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ADAR_attractbinding_sites
+bigDataUrl ADAR_attractbinding_sites.bigBed
+shortLabel ADAR_attract
+longLabel Binding sites of ADAR derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP2_attractbinding_sites
+bigDataUrl IGF2BP2_attractbinding_sites.bigBed
+shortLabel IGF2BP2_attract
+longLabel Binding sites of IGF2BP2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CSTF2_attractbinding_sites
+bigDataUrl CSTF2_attractbinding_sites.bigBed
+shortLabel CSTF2_attract
+longLabel Binding sites of CSTF2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MATR3_attractbinding_sites
+bigDataUrl MATR3_attractbinding_sites.bigBed
+shortLabel MATR3_attract
+longLabel Binding sites of MATR3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPH3_attractbinding_sites
+bigDataUrl HNRNPH3_attractbinding_sites.bigBed
+shortLabel HNRNPH3_attract
+longLabel Binding sites of HNRNPH3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA1L2_attractbinding_sites
+bigDataUrl HNRNPA1L2_attractbinding_sites.bigBed
+shortLabel HNRNPA1L2_attract
+longLabel Binding sites of HNRNPA1L2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FXR1_attractbinding_sites
+bigDataUrl FXR1_attractbinding_sites.bigBed
+shortLabel FXR1_attract
+longLabel Binding sites of FXR1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF7_attractbinding_sites
+bigDataUrl SRSF7_attractbinding_sites.bigBed
+shortLabel SRSF7_attract
+longLabel Binding sites of SRSF7 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ERI1_attractbinding_sites
+bigDataUrl ERI1_attractbinding_sites.bigBed
+shortLabel ERI1_attract
+longLabel Binding sites of ERI1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGF2BP3_attractbinding_sites
+bigDataUrl IGF2BP3_attractbinding_sites.bigBed
+shortLabel IGF2BP3_attract
+longLabel Binding sites of IGF2BP3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PUM2_attractbinding_sites
+bigDataUrl PUM2_attractbinding_sites.bigBed
+shortLabel PUM2_attract
+longLabel Binding sites of PUM2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track LIN28A_attractbinding_sites
+bigDataUrl LIN28A_attractbinding_sites.bigBed
+shortLabel LIN28A_attract
+longLabel Binding sites of LIN28A derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM4_attractbinding_sites
+bigDataUrl RBM4_attractbinding_sites.bigBed
+shortLabel RBM4_attract
+longLabel Binding sites of RBM4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SYNCRIP_attractbinding_sites
+bigDataUrl SYNCRIP_attractbinding_sites.bigBed
+shortLabel SYNCRIP_attract
+longLabel Binding sites of SYNCRIP derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPEB1_attractbinding_sites
+bigDataUrl CPEB1_attractbinding_sites.bigBed
+shortLabel CPEB1_attract
+longLabel Binding sites of CPEB1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NONO_attractbinding_sites
+bigDataUrl NONO_attractbinding_sites.bigBed
+shortLabel NONO_attract
+longLabel Binding sites of NONO derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ESRP2_attractbinding_sites
+bigDataUrl ESRP2_attractbinding_sites.bigBed
+shortLabel ESRP2_attract
+longLabel Binding sites of ESRP2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBMS3_attractbinding_sites
+bigDataUrl RBMS3_attractbinding_sites.bigBed
+shortLabel RBMS3_attract
+longLabel Binding sites of RBMS3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM14_attractbinding_sites
+bigDataUrl RBM14_attractbinding_sites.bigBed
+shortLabel RBM14_attract
+longLabel Binding sites of RBM14 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM8A_attractbinding_sites
+bigDataUrl RBM8A_attractbinding_sites.bigBed
+shortLabel RBM8A_attract
+longLabel Binding sites of RBM8A derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ACO1_attractbinding_sites
+bigDataUrl ACO1_attractbinding_sites.bigBed
+shortLabel ACO1_attract
+longLabel Binding sites of ACO1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRP68_attractbinding_sites
+bigDataUrl SRP68_attractbinding_sites.bigBed
+shortLabel SRP68_attract
+longLabel Binding sites of SRP68 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PCBP2_attractbinding_sites
+bigDataUrl PCBP2_attractbinding_sites.bigBed
+shortLabel PCBP2_attract
+longLabel Binding sites of PCBP2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPM_attractbinding_sites
+bigDataUrl HNRNPM_attractbinding_sites.bigBed
+shortLabel HNRNPM_attract
+longLabel Binding sites of HNRNPM derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PPIE_attractbinding_sites
+bigDataUrl PPIE_attractbinding_sites.bigBed
+shortLabel PPIE_attract
+longLabel Binding sites of PPIE derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NUDT21_attractbinding_sites
+bigDataUrl NUDT21_attractbinding_sites.bigBed
+shortLabel NUDT21_attract
+longLabel Binding sites of NUDT21 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHSRP_attractbinding_sites
+bigDataUrl KHSRP_attractbinding_sites.bigBed
+shortLabel KHSRP_attract
+longLabel Binding sites of KHSRP derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZFP36_attractbinding_sites
+bigDataUrl ZFP36_attractbinding_sites.bigBed
+shortLabel ZFP36_attract
+longLabel Binding sites of ZFP36 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TARDBP_attractbinding_sites
+bigDataUrl TARDBP_attractbinding_sites.bigBed
+shortLabel TARDBP_attract
+longLabel Binding sites of TARDBP derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPLL_attractbinding_sites
+bigDataUrl HNRNPLL_attractbinding_sites.bigBed
+shortLabel HNRNPLL_attract
+longLabel Binding sites of HNRNPLL derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track KHDRBS2_attractbinding_sites
+bigDataUrl KHDRBS2_attractbinding_sites.bigBed
+shortLabel KHDRBS2_attract
+longLabel Binding sites of KHDRBS2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track QKI_attractbinding_sites
+bigDataUrl QKI_attractbinding_sites.bigBed
+shortLabel QKI_attract
+longLabel Binding sites of QKI derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL1_attractbinding_sites
+bigDataUrl ELAVL1_attractbinding_sites.bigBed
+shortLabel ELAVL1_attract
+longLabel Binding sites of ELAVL1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DHX9_attractbinding_sites
+bigDataUrl DHX9_attractbinding_sites.bigBed
+shortLabel DHX9_attract
+longLabel Binding sites of DHX9 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM3_attractbinding_sites
+bigDataUrl RBM3_attractbinding_sites.bigBed
+shortLabel RBM3_attract
+longLabel Binding sites of RBM3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM42_attractbinding_sites
+bigDataUrl RBM42_attractbinding_sites.bigBed
+shortLabel RBM42_attract
+longLabel Binding sites of RBM42 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TRA2A_attractbinding_sites
+bigDataUrl TRA2A_attractbinding_sites.bigBed
+shortLabel TRA2A_attract
+longLabel Binding sites of TRA2A derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track F2_attractbinding_sites
+bigDataUrl F2_attractbinding_sites.bigBed
+shortLabel F2_attract
+longLabel Binding sites of F2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CMTR1_attractbinding_sites
+bigDataUrl CMTR1_attractbinding_sites.bigBed
+shortLabel CMTR1_attract
+longLabel Binding sites of CMTR1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track MSI1_attractbinding_sites
+bigDataUrl MSI1_attractbinding_sites.bigBed
+shortLabel MSI1_attract
+longLabel Binding sites of MSI1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPC1_attractbinding_sites
+bigDataUrl PABPC1_attractbinding_sites.bigBed
+shortLabel PABPC1_attract
+longLabel Binding sites of PABPC1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TIAL1_attractbinding_sites
+bigDataUrl TIAL1_attractbinding_sites.bigBed
+shortLabel TIAL1_attract
+longLabel Binding sites of TIAL1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track IGHMBP2_attractbinding_sites
+bigDataUrl IGHMBP2_attractbinding_sites.bigBed
+shortLabel IGHMBP2_attract
+longLabel Binding sites of IGHMBP2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRP54_attractbinding_sites
+bigDataUrl SRP54_attractbinding_sites.bigBed
+shortLabel SRP54_attract
+longLabel Binding sites of SRP54 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track FUS_attractbinding_sites
+bigDataUrl FUS_attractbinding_sites.bigBed
+shortLabel FUS_attract
+longLabel Binding sites of FUS derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM28_attractbinding_sites
+bigDataUrl RBM28_attractbinding_sites.bigBed
+shortLabel RBM28_attract
+longLabel Binding sites of RBM28 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZRANB2_attractbinding_sites
+bigDataUrl ZRANB2_attractbinding_sites.bigBed
+shortLabel ZRANB2_attract
+longLabel Binding sites of ZRANB2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZNF638_attractbinding_sites
+bigDataUrl ZNF638_attractbinding_sites.bigBed
+shortLabel ZNF638_attract
+longLabel Binding sites of ZNF638 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PHAX_attractbinding_sites
+bigDataUrl PHAX_attractbinding_sites.bigBed
+shortLabel PHAX_attract
+longLabel Binding sites of PHAX derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPC4_attractbinding_sites
+bigDataUrl PABPC4_attractbinding_sites.bigBed
+shortLabel PABPC4_attract
+longLabel Binding sites of PABPC4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPA0_attractbinding_sites
+bigDataUrl HNRNPA0_attractbinding_sites.bigBed
+shortLabel HNRNPA0_attract
+longLabel Binding sites of HNRNPA0 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF10_attractbinding_sites
+bigDataUrl SRSF10_attractbinding_sites.bigBed
+shortLabel SRSF10_attract
+longLabel Binding sites of SRSF10 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM25_attractbinding_sites
+bigDataUrl RBM25_attractbinding_sites.bigBed
+shortLabel RBM25_attract
+longLabel Binding sites of RBM25 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPH1_attractbinding_sites
+bigDataUrl HNRNPH1_attractbinding_sites.bigBed
+shortLabel HNRNPH1_attract
+longLabel Binding sites of HNRNPH1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF5_attractbinding_sites
+bigDataUrl SRSF5_attractbinding_sites.bigBed
+shortLabel SRSF5_attract
+longLabel Binding sites of SRSF5 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PPRC1_attractbinding_sites
+bigDataUrl PPRC1_attractbinding_sites.bigBed
+shortLabel PPRC1_attract
+longLabel Binding sites of PPRC1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CELF5_attractbinding_sites
+bigDataUrl CELF5_attractbinding_sites.bigBed
+shortLabel CELF5_attract
+longLabel Binding sites of CELF5 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ZCRB1_attractbinding_sites
+bigDataUrl ZCRB1_attractbinding_sites.bigBed
+shortLabel ZCRB1_attract
+longLabel Binding sites of ZCRB1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL4_attractbinding_sites
+bigDataUrl ELAVL4_attractbinding_sites.bigBed
+shortLabel ELAVL4_attract
+longLabel Binding sites of ELAVL4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PIWIL1_attractbinding_sites
+bigDataUrl PIWIL1_attractbinding_sites.bigBed
+shortLabel PIWIL1_attract
+longLabel Binding sites of PIWIL1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBM6_attractbinding_sites
+bigDataUrl RBM6_attractbinding_sites.bigBed
+shortLabel RBM6_attract
+longLabel Binding sites of RBM6 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track AGO1_attractbinding_sites
+bigDataUrl AGO1_attractbinding_sites.bigBed
+shortLabel AGO1_attract
+longLabel Binding sites of AGO1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track YBX2_attractbinding_sites
+bigDataUrl YBX2_attractbinding_sites.bigBed
+shortLabel YBX2_attract
+longLabel Binding sites of YBX2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPN1_attractbinding_sites
+bigDataUrl PABPN1_attractbinding_sites.bigBed
+shortLabel PABPN1_attract
+longLabel Binding sites of PABPN1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SF1_attractbinding_sites
+bigDataUrl SF1_attractbinding_sites.bigBed
+shortLabel SF1_attract
+longLabel Binding sites of SF1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CPEB4_attractbinding_sites
+bigDataUrl CPEB4_attractbinding_sites.bigBed
+shortLabel CPEB4_attract
+longLabel Binding sites of CPEB4 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track ELAVL3_attractbinding_sites
+bigDataUrl ELAVL3_attractbinding_sites.bigBed
+shortLabel ELAVL3_attract
+longLabel Binding sites of ELAVL3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RC3H1_attractbinding_sites
+bigDataUrl RC3H1_attractbinding_sites.bigBed
+shortLabel RC3H1_attract
+longLabel Binding sites of RC3H1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track CELF2_attractbinding_sites
+bigDataUrl CELF2_attractbinding_sites.bigBed
+shortLabel CELF2_attract
+longLabel Binding sites of CELF2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SNRPA_attractbinding_sites
+bigDataUrl SNRPA_attractbinding_sites.bigBed
+shortLabel SNRPA_attract
+longLabel Binding sites of SNRPA derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SUPV3L1_attractbinding_sites
+bigDataUrl SUPV3L1_attractbinding_sites.bigBed
+shortLabel SUPV3L1_attract
+longLabel Binding sites of SUPV3L1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track SRSF2_attractbinding_sites
+bigDataUrl SRSF2_attractbinding_sites.bigBed
+shortLabel SRSF2_attract
+longLabel Binding sites of SRSF2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track RBFOX1_attractbinding_sites
+bigDataUrl RBFOX1_attractbinding_sites.bigBed
+shortLabel RBFOX1_attract
+longLabel Binding sites of RBFOX1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DAZAP1_attractbinding_sites
+bigDataUrl DAZAP1_attractbinding_sites.bigBed
+shortLabel DAZAP1_attract
+longLabel Binding sites of DAZAP1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track NOVA1_attractbinding_sites
+bigDataUrl NOVA1_attractbinding_sites.bigBed
+shortLabel NOVA1_attract
+longLabel Binding sites of NOVA1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track EIF4B_attractbinding_sites
+bigDataUrl EIF4B_attractbinding_sites.bigBed
+shortLabel EIF4B_attract
+longLabel Binding sites of EIF4B derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PTBP2_attractbinding_sites
+bigDataUrl PTBP2_attractbinding_sites.bigBed
+shortLabel PTBP2_attract
+longLabel Binding sites of PTBP2 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track PABPC3_attractbinding_sites
+bigDataUrl PABPC3_attractbinding_sites.bigBed
+shortLabel PABPC3_attract
+longLabel Binding sites of PABPC3 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track TIA1_attractbinding_sites
+bigDataUrl TIA1_attractbinding_sites.bigBed
+shortLabel TIA1_attract
+longLabel Binding sites of TIA1 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track DDX58_attractbinding_sites
+bigDataUrl DDX58_attractbinding_sites.bigBed
+shortLabel DDX58_attract
+longLabel Binding sites of DDX58 derived from ATTRACT (computational)
+type bigBed 9 +
+visibility dense
+chromosomes chr1
+itemRgb on
+spectrum on
+
+track HNRNPU_postar_density_plot
+bigDataUrl HNRNPU_postar_density_plot.bigWig
+shortLabel 00 HNRNPU_density
+longLabel Density plot of 147 RBPs on HNRNPU using data from POSTAR
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr1
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:50
+
+track HNRNPU_rbpdb_density_plot
+bigDataUrl HNRNPU_rbpdb_density_plot.bigWig
+shortLabel 00 HNRNPU_density
+longLabel Density plot of 72 RBPs on HNRNPU using data from RBPDB
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr1
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:50
+
+track HNRNPU_attract_density_plot
+bigDataUrl HNRNPU_attract_density_plot.bigWig
+shortLabel 00 HNRNPU_density
+longLabel Density plot of 149 RBPs on HNRNPU using data from ATTRACT
+type bigWig
+visibility full
+color 128,0,0
+chromosomes chr1
+autoScale on
+maxHeightPixels 128:50:8
+viewLimits 0:50

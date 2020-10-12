@@ -1,5 +1,0 @@
-hub hub
-shortLabel RBPs on PTEN w.r.t. HNRNPD: union
-longLabel RNA binding proteins on long non-coding RNAs PTEN with respect to the binding sites of HNRNPD. The red sites are the places where proteins have competitive binding with HNRNPD, whereas green sites are places where cooperative binding occurs. The thresholds used for competitive binding was 0bp to 15bp and 15bp to 56bp for cooperative binding
-genomesFile RBPs on PTEN union.genomes.txt
-email mnk1@andrew.cmu.edu
